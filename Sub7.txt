@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.45.19:2086?&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=/?ed=2560security=tls#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.45.19:80?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=/?ed=2560security=tls#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.45.19:80?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=/?ed=2560security=tls#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.48.32:80?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=/?ed=2560security=tls#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
@@ -503,3 +502,4 @@ vless://5e3f974b-06fc-4555-907a-6681391b7c17@186.246.19.79:40443?security=realit
 vless://5e3f974b-06fc-4555-907a-6681391b7c17@private.netraidly.ru:40443?security=reality&encryption=none&pbk=oc9uweln_cqyaJnlRMnhhhKrGNP7RrYOsuYtaIOIQDE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=2bc0#Free x219 @Outline_Vpn
 vless://5e666f1f-a7a4-4495-a220-98b5e588cf3b@213.176.77.138:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=de1.boutique-hotel1108.ru&pbk=5yLzbmk8NAd12p-0Uu5WI7PjSLFbNScOZ5SmMWQ6txQ#𝗝𝗼𝗶𝗻➠@V2RAYNG_IP
 vless://5e666f1f-a7a4-4495-a220-98b5e588cf3b@213.176.77.138:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=5yLzbmk8NAd12p-0Uu5WI7PjSLFbNScOZ5SmMWQ6txQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de1.boutique-hotel1108.ru#@meliproxyy
+vless://5e666f1f-a7a4-4495-a220-98b5e588cf3b@213.176.77.138:443?security=reality&encryption=none&pbk=5yLzbmk8NAd12p-0Uu5WI7PjSLFbNScOZ5SmMWQ6txQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de1.boutique-hotel1108.ru#@FarazV2ray

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#Tel-@ProxyMtAlpha🥚 5
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#Tel-@ProxyMtAlpha🦬 1
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#vpnsal
 trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&fp=chrome&alpn=http/1.1&type=ws&host=www.volumeroot.com&path=/assignment#@Sparrk_VPN
@@ -503,3 +502,4 @@ vless://0fe4ea2c-9353-4b48-9f91-0c2fd1724c1e@172.67.204.84:2095?security=none&ty
 vless://0fe5364c-b21e-4338-a51c-1eb179999c4f@store2.vevluma.ir:1234?security=reality&encryption=none&pbk=4sT8gYkbYI1RUPlO-SFVpJENKfGgMWoYQpflbcfspkI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=updates.cdn-apple.com&sid=4844fb0c077b20b7#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://102f1d02-e52a-4dd7-b5f6-558fac00b5a5@zephyr.proxy.rlwy.net:40405?path=/&security=none&encryption=none&type=ws#@Shh_Proxy-New⁴
 vless://10381974-34b1-2888-7733-b0f5f3d874c0@69.46.46.33:443?path=/ws/10381974-34b1-2888-7733-b0f5f3d874c0&security=tls&alpn=http/1.1&encryption=none&host=arctic-compass-2fd0-production.up.railway.app&fp=chrome&type=ws&sni=arctic-compass-2fd0-production.up.railway.app#3 🇳🇱 @V2ngNet
+vless://1043634e-8d9d-4736-83fa-f14ddc9d464c@188.114.97.6:443?path=/id-amz&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#TEL;Father_vpn

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ff1dcb64-f13d-4ccd-a3c6-055218f7490b@az-hti-de.ramzshadi.ir:8088?path=/bmi.ir&security=none&encryption=mlkem768x25519plus.native.0rtt.AX1_Iy42S3tDy5Byp6LQba6NUB3ePNTLrdSyxC7MvVQ&host=play-apps-features.googleusercontent.com&type=ws#Free x222 @Outline_Vpn
 vless://ff1dcb64-f13d-4ccd-a3c6-055218f7490b@ber12ajdub.ramcalshoping.ir:3545?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=mCqvF4AOflaEbWujj7kkG2l7kXcC0pGlmnKHU11bexo&sid=3571577d63a821bb&type=tcp&headerType=none#Telegram: @Daily_Configs
 vless://ff1dcb64-f13d-4ccd-a3c6-055218f7490b@ber12ajdub.ramcalshoping.ir:3545?security=reality&encryption=none&pbk=mCqvF4AOflaEbWujj7kkG2l7kXcC0pGlmnKHU11bexo&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=3571577d63a821bb#@vmess_ir
 vless://ff1dcb64-f13d-4ccd-a3c6-055218f7490b@ber12ajdub.ramcalshoping.ir:3545?security=reality&encryption=none&pbk=mCqvF4AOflaEbWujj7kkG2l7kXcC0pGlmnKHU11bexo&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=3571577d63a821bb#Tel-@ProxyMtAlpha🤫 5
@@ -503,3 +502,4 @@ vless://dc8a9493-c54a-459e-d060-81a700000001@45.130.125.201:80?encryption=none&h
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#%3E%3E%40outline_vpn%3A%3AXX
 vless://de5906f3-df38-4463-aa9d-2b01320cc6ea@31.76.76.28:443?path=%2F&security=none&encryption=none&type=ws#%3E%3E%40v2ray1_ng%3A%3ANL
 vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.58.41.39:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&host=www.google.com&fp=firefox&type=xhttp&sni=www.google.com#%3E%3E%40configV2rayNG%3A%3ADE
+vless://e403856e-4e50-49e6-9edc-d9536a803a6a@141.193.27.4:80?encryption=none&host=proud-cloud-5c50.113-8dc.workers.dev&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
