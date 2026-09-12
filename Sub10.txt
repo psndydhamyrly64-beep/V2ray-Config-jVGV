@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.133.114:62145?encryption=none&security=none&type=tcp#☸️31@oneclickvpnkeys
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.133.114:62145?encryption=none&security=none&type=tcp#🇳🇱169474 | ⚡️Telegram = t.me/SOSkeyNET
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.196.65:62145?encryption=none&security=none&type=tcp#🇳🇱139835 | ⚡️Telegram = t.me/SOSkeyNET
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.235.147:62145?security=none&encryption=none&headerType=none&type=tcp#🇨🇴92Mb | @ELiV2Ray
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.236.160:62145?encryption=none&security=none&type=tcp&headerType=none#🇨🇴 CO
@@ -503,3 +501,5 @@ vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?encryption=none&s
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#@V2RAYNG_IP
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#𝗝𝗼𝗶𝗻➠@V2RAYNG_IP
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&alpn=http/1.1&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@FarazV2ray
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&alpn=http/1.1&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@V2raySaman
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&alpn=http/1.1&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@hex_proxy ³
