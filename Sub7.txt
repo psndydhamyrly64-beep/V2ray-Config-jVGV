@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.48.32:80?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=/?ed=2560security=tls#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.48.32:80?sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=/?ed=2560security=tls#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.48.32:80?sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=/?ed=2560security=tls#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.48.32:8880?security=&type=ws&path=/?ed=2560security=tls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&encryption=none#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.154.8:2052?security=none&type=ws&path=/?ed=2560security=tls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&packetEncoding=xudp&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
@@ -503,3 +501,5 @@ vless://5e666f1f-a7a4-4495-a220-98b5e588cf3b@213.176.77.138:443?security=reality
 vless://5e666f1f-a7a4-4495-a220-98b5e588cf3b@213.176.77.138:443?security=reality&encryption=none&pbk=5yLzbmk8NAd12p-0Uu5WI7PjSLFbNScOZ5SmMWQ6txQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de1.boutique-hotel1108.ru#@FarazV2ray
 vless://5e666f1f-a7a4-4495-a220-98b5e588cf3b@213.176.77.138:443?security=reality&encryption=none&pbk=5yLzbmk8NAd12p-0Uu5WI7PjSLFbNScOZ5SmMWQ6txQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de1.boutique-hotel1108.ru#@V2raySaman
 vless://5e666f1f-a7a4-4495-a220-98b5e588cf3b@213.176.77.138:443?security=reality&encryption=none&pbk=5yLzbmk8NAd12p-0Uu5WI7PjSLFbNScOZ5SmMWQ6txQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de1.boutique-hotel1108.ru#@meliproxyy
+vless://5e666f1f-a7a4-4495-a220-98b5e588cf3b@213.176.77.138:443?security=reality&encryption=none&pbk=5yLzbmk8NAd12p-0Uu5WI7PjSLFbNScOZ5SmMWQ6txQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de1.boutique-hotel1108.ru#@tootffarangi🍓-1
+vless://5e666f1f-a7a4-4495-a220-98b5e588cf3b@213.176.77.138:443?security=reality&encryption=none&pbk=5yLzbmk8NAd12p-0Uu5WI7PjSLFbNScOZ5SmMWQ6txQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de1.boutique-hotel1108.ru#@vmesskhodam

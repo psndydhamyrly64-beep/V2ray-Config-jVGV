@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@185.246.155.35:9059#[049461] - 🇳🇱 The Netherlands | @freenettir
-ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@213.183.53.222:9059#[049462] - 🇷🇺 Russia | @freenettir
 ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@213.183.59.211:9059#[049463] - 🇳🇱 The Netherlands | @freenettir
 ss://YWVzLTI1Ni1jZmI6OWQ2Y2NlYWEzNzNiZjJjOGFjYjIyZTYwYjZhNThiZTY=@45.79.111.214:443#[049464] - 🇺🇸 United States | @freenettir
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@185.135.86.173:9020#[049465] - 🇱🇻 Latvia | @freenettir
@@ -503,3 +501,5 @@ trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#Tel-@ProxyMtAlpha🥚 5
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#Tel-@ProxyMtAlpha🦬 1
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#vpnsal
+trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&fp=chrome&alpn=http/1.1&type=ws&host=www.volumeroot.com&path=/assignment#@Sparrk_VPN
+trojan://humanity@188.42.145.180:443?type=ws&host=www.volumeroot.com&path=/assignment&security=tls&fp=chrome&sni=www.volumeroot.com&alpn=http/1.1#@V2RAYNG_IP
