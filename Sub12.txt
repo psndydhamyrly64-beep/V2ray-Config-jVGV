@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://bcc661cc-4604-4610-95ee-60a469ca66f2@tr-akbar-awex.awexio.ir:20988?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1rjVFBU0de_HCfV-x4f2jv86WSaUaoOz3LsZYC-nCA&pbk=KNZrRBUj714rDAQPM-oWy_MPO791eXxtDWuSu_l6QD8&headerType=none&fp=chrome&type=tcp&sni=nihongoacademy.jp&sid=81afcb236d29f3b4#@v2ray_phoenix
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.129:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
@@ -502,4 +503,3 @@ vless://d0f7d34c-9c00-4b2f-ab1d-25fbae5cc746@105aa8a2b114a6b5.cnt3.reknaro.ir:53
 vless://d0f7d34c-9c00-4b2f-ab1d-25fbae5cc746@105aa8a2b114a6b5.cnt3.reknaro.ir:53966?path=/&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇩🇪DE-🚀@VPNine1
 vless://d0f7d34c-9c00-4b2f-ab1d-25fbae5cc746@f096aca5fa345cbb.ainl.reknaro.ir:53966?path=/&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇳🇱169808 | ⚡️Telegram = t.me/SOSkeyNET
 vless://d0f7d34c-9c00-4b2f-ab1d-25fbae5cc746@f096aca5fa345cbb.ainl.reknaro.ir:53966?path=/&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇳🇱NL-🚀@VPNine1
-vless://d11613a1-2e1f-4209-a275-aabd986b7ad1@194.93.61.95:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=58fbcddfaae3ade9#✨ @NOFiLTERING2 | ❤️ وصل شدی جوین شو | ⚡ | 🇩🇪
