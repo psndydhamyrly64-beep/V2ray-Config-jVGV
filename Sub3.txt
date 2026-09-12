@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@213.182.199.137:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@mehrosaboran
 trojan://humanity@213.182.199.137:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@outline_ir
 trojan://humanity@213.182.199.137:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@v2ray313 کانالمون 💛
 trojan://humanity@213.182.199.137:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 V2RayyNGvpn
@@ -502,4 +503,3 @@ vless://13177436-dd6b-344d-711c-c7d456e69b92@69.46.46.20:443?path=/ws/13177436-d
 vless://133ae3f3-3d15-4bfc-a6f7-03a126698803@0736d1e47723eb6f.aide.reknaro.ir:53966?security=none&encryption=none&host=partneredge.sap.com&headerType=http&type=tcp#کانال ما
 vless://133ae3f3-3d15-4bfc-a6f7-03a126698803@0736d1e47723eb6f.aide.reknaro.ir:53966?security=none&encryption=none&host=partneredge.sap.com&headerType=http&type=tcp#🇩🇪169167 | ⚡️Telegram = t.me/SOSkeyNET
 vless://133ae3f3-3d15-4bfc-a6f7-03a126698803@0736d1e47723eb6f.aide.reknaro.ir:53966?security=none&encryption=none&host=partneredge.sap.com&headerType=http&type=tcp#🇩🇪DE-🚀@VPNine1
-vless://133ae3f3-3d15-4bfc-a6f7-03a126698803@32c667aec6a3a072.cnt3.reknaro.ir:46312?security=reality&encryption=none&pbk=LiNmk0DYhmt0yuiyYE183eCsPLWZ6bFEutMBLfqfwGI&headerType=none&fp=chrome&type=tcp&sni=partneredge.sap.com&sid=0c1fd5602216f902#کانال ما
