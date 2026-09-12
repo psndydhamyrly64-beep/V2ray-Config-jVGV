@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c134103b-4a52-4a8c-86c5-99b153a5e9ea@145.63.132.212:30650?security=reality&encryption=none&pbk=3rEI5HCj35So-rElkivoE5G2u3iYT0eNWcFjZA73Ekw&headerType=none&fp=chrome&spx=/02338540c001ea0&type=tcp&sni=play-apps-features.googleusercontent.com&sid=2a2e1c339e312e#Telegram @mtmvpn
 vless://c134103b-4a52-4a8c-86c5-99b153a5e9ea@212.43.150.162:30650?security=reality&encryption=none&pbk=3rEI5HCj35So-rElkivoE5G2u3iYT0eNWcFjZA73Ekw&headerType=none&fp=chrome&spx=/02338540c001ea0&type=tcp&sni=play-apps-features.googleusercontent.com&sid=a38316da8ada#@VConfing
 vless://c134103b-4a52-4a8c-86c5-99b153a5e9ea@212.43.150.162:30650?security=reality&encryption=none&pbk=3rEI5HCj35So-rElkivoE5G2u3iYT0eNWcFjZA73Ekw&headerType=none&fp=chrome&spx=/02338540c001ea0&type=tcp&sni=play-apps-features.googleusercontent.com&sid=a38316da8ada#Telegram @mtmvpn
 vless://c134103b-4a52-4a8c-86c5-99b153a5e9ea@62.233.53.79:30650?security=reality&encryption=none&pbk=3rEI5HCj35So-rElkivoE5G2u3iYT0eNWcFjZA73Ekw&headerType=none&fp=chrome&spx=/02338540c001ea0&type=tcp&sni=play-apps-features.googleusercontent.com&sid=f87b09#@TEHRANARGO 🦊
@@ -502,4 +503,3 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.95:443?security=reality&e
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@ICV2RAY
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@Nexus_Panell چنل تلگرام
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@vasl_bashim
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.142:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@ICV2RAY

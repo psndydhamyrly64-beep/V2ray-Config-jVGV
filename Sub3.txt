@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@213.182.199.137:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@configprxy
 trojan://humanity@213.182.199.137:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@hex_proxy ⁵
 trojan://humanity@213.182.199.137:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@i10VPN🍐
 trojan://humanity@213.182.199.137:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@mehrosaboran
@@ -502,4 +503,3 @@ vless://12ddc97d-12ee-4c33-8cf3-8810a5f6733a@yowyow.dadashjan.space:2020?securit
 vless://13040d5f-5d8c-45ad-88cf-2e8834d5eb67@tunafra.clonecloudcenter.ir:6066?security=reality&encryption=mlkem768x25519plus.native.0rtt.lPncPP4Pt2-stNk2RvKeVi1xaTOaF3Qikuyfvc3wuGY&pbk=wf9bvKzFXI8puY5o5WiSDUSlWqIvdz0hKjAOJXhLKjg&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=9fa1e300b1e14e6e# MTMVPN 12
 vless://13040d5f-5d8c-45ad-88cf-2e8834d5eb67@tunafra.clonecloudcenter.ir:6066?security=reality&encryption=mlkem768x25519plus.native.0rtt.lPncPP4Pt2-stNk2RvKeVi1xaTOaF3Qikuyfvc3wuGY&pbk=wf9bvKzFXI8puY5o5WiSDUSlWqIvdz0hKjAOJXhLKjg&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=9fa1e300b1e14e6e#🇩🇪⇝ @GpConnectSho کانکت شو! 💠
 vless://13177436-dd6b-344d-711c-c7d456e69b92@69.46.46.20:443?path=/ws/13177436-dd6b-344d-711c-c7d456e69b92&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ekhraj-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ekhraj-production.up.railway.app#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
-vless://133ae3f3-3d15-4bfc-a6f7-03a126698803@0736d1e47723eb6f.aide.reknaro.ir:53966?security=none&encryption=none&host=partneredge.sap.com&headerType=http&type=tcp#کانال ما

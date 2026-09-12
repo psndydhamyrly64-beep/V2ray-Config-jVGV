@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://255386a8-aec5-4425-bfe7-ca49b7448deb@5.255.126.104:46142?security=reality&encryption=none&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=39feeba3085c#@appsooner کانال تلگرام 🕊️
 vless://255386a8-aec5-4425-bfe7-ca49b7448deb@awlix3.pcjxq.digital:46142?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&sid=39feeba3085c&type=tcp&headerType=none#@awlix_ir
 vless://255386a8-aec5-4425-bfe7-ca49b7448deb@ned.waldron.ir:46142?security=reality&encryption=none&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=39feeba3085c#@appsooner کانال تلگرام 🕊️
 vless://255386a8-aec5-4425-bfe7-ca49b7448deb@turj2.surup.shop:46142?security=reality&encryption=none&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=39feeba3085c#@appsooner کانال تلگرام 🕊️
@@ -502,4 +503,3 @@ vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@nodejs.org:80?path=/?ed&security=no
 vless://34c6b520-fa66-49e9-a337-b7a6a3af28ba@land.hostingdayam.com.tr:2053?path=/fi-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=land.hostingdayam.com.tr&fp=chrome&type=ws&allowInsecure=0&sni=land.hostingdayam.com.tr#@Capoit
 vless://3501f229-7cc1-bc11-278f-cfb12cf5579f@69.46.46.102:443?path=/ws/3501f229-7cc1-bc11-278f-cfb12cf5579f&security=tls&alpn=http/1.1&encryption=none&host=esken-production.up.railway.app&fp=chrome&type=ws&sni=esken-production.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://35235522-7ab3-4491-ab1f-839a34acaf38@66.33.22.224:20463?security=reality&alpn=h2,http/1.1&encryption=none&pbk=EbZise94_xpghzVLch9cYGxw4IIuP7_j5dmh1qeqch0&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=7d6a8dd767d14cab#@B2Hub
-vless://35360464-29ac-4c06-93aa-f9af6d4964f4@193.134.209.62:40514?security=reality&encryption=none&pbk=Tu3JZDib7rpQqzzRbr-8RnG2JoncA2y4g30GT8PBnx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.paypal.com#@i10VPN🌰
