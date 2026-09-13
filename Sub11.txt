@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://AlfredConfig@45.130.125.66:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
 vless://Anty_Vpn-Anty_Vpn-Anty_Vpn@gsoowjowj.toppho.ir:8443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[45088] - Telegram : @V2All
 vless://BD1F7E5E-9E0B-4919-A7F1-84BC9E69426D@102.165.41.72:61670?security=reality&encryption=none&pbk=jnu0rNHECTe_v7H9Fmgg0iUSepHz4QQQRPW0XpX5URs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sat-cdn4.apple-mapkit.com&sid=1359c9bf9f7442e5#کانال ما
 vless://BD1F7E5E-9E0B-4919-A7F1-84BC9E69426D@102.165.41.72:61670?security=reality&encryption=none&pbk=jnu0rNHECTe_v7H9Fmgg0iUSepHz4QQQRPW0XpX5URs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sat-cdn4.apple-mapkit.com&sid=1359c9bf9f7442e5#🇯🇵170619 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +502,4 @@ vless://af9c2bcf-fe68-4379-9c78-6e5f1b4af0e2@217.16.31.218:443?security=reality&
 vless://af9c2bcf-fe68-4379-9c78-6e5f1b4af0e2@217.16.31.218:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=e7#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://awlix_ir@85.9.194.75:443?encryption=mlkem768x25519plus.native.0rtt.axhmyvi6WAeIVHyKYLuHz7cMMow5FBwwSjs9-TIWxRY&security=none&type=tcp&headerType=none#@awlix_ir
 vless://awlix_ir@87.58.159.20:443?encryption=mlkem768x25519plus.native.0rtt.CCIZgZeeCX8na60UXi9II-iduj3OFxtj-fuh_4AWiUU&security=none&type=tcp#awlix_ir
+vless://b01cadb4-428b-42d2-8c56-d6c13e582ede@lingering-water-9e69.219.workers.dev:8880?security=&encryption=none&type=ws&sni=lingering-water-9e69.219.workers.dev#@meliproxyy
