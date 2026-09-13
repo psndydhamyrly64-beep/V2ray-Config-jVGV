@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f2900749-7cff-42b7-9566-dfb03840d374@herd.zavqeron.ir:2053?path=/de2-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=herd.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#Tel-@ProxyMtAlpha🍦 7
+vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?encryption=none&type=ws&host=land.zavqeron.ir&path=/fi-cdn&security=tls&fp=chrome&sni=zavqeron.ir&alpn=h3,h2,http/1.1#@V2RAYNG_IP
 vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?path=/fi-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=land.zavqeron.ir&fp=chrome&type=ws&sni=zavqeron.ir#@v2ray_phoenix
 vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?path=/fi-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=land.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#@B2Hub
 vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?path=/fi-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=land.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#@IRAN_V2RAY1 🌟
@@ -501,5 +503,3 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#%3E%3E%40shadowpro
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@158.173.20.208:443#%3E%3E%40V2rayNG3%3A%3AXX
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%3E%3E%40V2rayNG3%3A%3AJP
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%3E%3E%40v2rayNG_Matsuri%3A%3AUS
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#%3E%3E%40shadowproxy66%3A%3AKR
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#%3E%3E%40shadowproxy66%3A%3AXX
