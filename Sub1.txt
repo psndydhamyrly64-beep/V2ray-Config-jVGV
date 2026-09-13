@@ -9,7 +9,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 #ýz«âÖ?_­V§ïZº,s«/ %qÔpÁ;ïÄpC%9õþ¹ÿ¾ÙÅ·Pô)	ëÜÆkYBÅ§LI«t"¸#IýúVÏ?7«wU¡¼\¨ø¹e¢
-#ijïý¼~xtòÞs7hÇ÷HÛ831=BØ¨gH	¹¦?ß£',Ó¨u\sd}É~ÍÀ{-Zþ­¦h·À¦À!ï¸/ýµ*8ÝaGøGe»â¤ö·ìFqS0#þ §|0tíË±Ã<Ät£iÚDÔn
 trojan://MiTiVPN@199.232.78.101:443?security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 trojan://MiTiVPN@167.82.76.7:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&type=ws&host=mitivpn---ss--s---mitivpn-33.global.ssl.fastly.net&path=%2F#%40Daily_Configs
 trojan://M%69TiVPN@151.101.56.101:443?path=%40bored_vpn&security=tls&alpn=http%2F1.1&insecure=0&host=m%69tivpn---ss--s---m%69tivpn-5.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40bored_vpn
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia 🇸🇬
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446?note=@FreeOnlineVPN#🇮🇷 - IR - @FreeOnlineVPN
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25217#[051975] - 🇨🇳 China | @freenettir
 ss://YWVzLTEyOC1nY206U3lTV0RhUDhybTFORUswd2RMZG9hVjVDbGtTakZEZnc@173.212.251.231:51058#@leviconfigs🪐-8
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#🩵+@Azarakhsh_Proxy+🩷
