@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?path=/fi-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=land.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#@V2ray_Alpha🌉 10
 vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?path=/fi-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=land.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#@V2ray_Alpha🍭 5
 vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?path=/fi-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=land.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#@V2ray_confiig
 vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?path=/fi-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=land.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#@v2raybaaz ²
@@ -502,4 +503,3 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#%3E%3E%40shadowproxy
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881#%3E%3E%40freeland8%3A%3AUS
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#%3E%3E%40freeland8%3A%3AUS
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#%3E%3E%40v2rayNG_Matsuri%3A%3ACA
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#%3E%3E%40FreakConfig%3A%3AIT

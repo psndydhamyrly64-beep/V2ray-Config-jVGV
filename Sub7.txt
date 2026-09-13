@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://484b5843-388f-4a8a-a601-3d833642c10d@soskeynets.rubyshow.ir:443?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=cdn.rubyshow.ir&path=/sendx&security=tls&sni=cdn.rubyshow.ir&type=ws#🇨🇦139877 | ⚡️Telegram = t.me/SOSkeyNET
 vless://486169a3-ce5f-4d93-8d01-f619d4443e5d@cp.so.rezzip.com:443?path=?ed=2560&security=tls&alpn=h2&encryption=none&insecure=0&host=pandura.lat&fp=chrome&type=ws&allowInsecure=0&sni=pandura.lat#Arshiavpn12
 vless://486fe30a-18d8-4913-b0ba-a301d9b7d505@176.120.17.94:16427?type=tcp&encryption=none&security=reality&pbk=cIPzdA0vCMszJwDwNf3WrJvxoegoLHq0-zmoJ7iMHCE&fp=chrome&sni=yahoo.com&sid=c8144f81&spx=/#@ehsawn8
 vless://4878b80d-7602-499c-b742-b09ac4355e0b@193.148.253.210:48130?security=none&encryption=none&headerType=none&type=tcp#@NETMelliAnti
@@ -502,4 +503,3 @@ vless://5ff561f7-e1f1-4280-84bf-ac640b4d10d1@199.232.78.159:443?path=/TELEGRAM_N
 vless://5ff8e256-cb7e-41fc-8ed2-14a46fd46e4e@djdjsj-production.up.railway.app:443?path=/ws/vless/5ff8e256-cb7e-41fc-8ed2-14a46fd46e4e?ed&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=djdjsj-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=djdjsj-production.up.railway.app#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://602ba9cb-2071-4559-a0b6-47b6e7b56272@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=ukboijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Telegram @mtmvpn
 vless://603856a5-8604-4670-8ea5-ee3b39342a53@212.43.146.241:59726?security=reality&encryption=none&pbk=7gvZqfl2U6DhRaaT6WAttHQSuVXrvuoVUDwuTvVhzmk&headerType=&fp=chrome&spx=/d28df62fb7603a3&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=90a901#@V2ray_confiig
-vless://60722d6f-8b3a-4295-882b-58ca4185741d@jdzyw.com:443?encryption=mlkem768x25519plus.native.0rtt.55OiC1ErtBIrHTL_KgMG_YKH37Rjicr4b6CS9kO9vHw&security=tls&sni=deh.irandoc.info&fp=chrome&allowinsecure=0&type=httpupgrade&host=deh.irandoc.info&path=/45237/api4#🇩🇪All³ | @BigSmoke_Config
