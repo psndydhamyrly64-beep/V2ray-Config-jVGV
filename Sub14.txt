@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e0f66109-6639-58bc-6e8b-800894f1d8e6@69.46.46.125:443?path=/ws/e0f66109-6639-58bc-6e8b-800894f1d8e6&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=norl-production-fd1c.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=norl-production-fd1c.up.railway.app#@𝐕𝟐𝐗𝐍𝐄𝐓
-vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.48.250.31:443?mode=auto&path=/&security=reality&encryption=none&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&host=www.google.com&fp=chrome&type=xhttp&sni=www.google.com#@v2ray313 کانالمون 😍
 vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.48.250.31:443?mode=auto&path=/&security=reality&encryption=none&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&host=www.google.com&fp=chrome&type=xhttp&sni=www.google.com#@v2ray313 کانالمون 🥶
 vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.58.41.39:443?mode=auto&path=/&security=reality&encryption=none&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&host=www.google.com&fp=chrome&type=xhttp&sni=www.google.com#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://e14abf99-8718-ca16-ce8a-4fe7d9ea50d5@69.46.46.31:443?path=/ws/e14abf99-8718-ca16-ce8a-4fe7d9ea50d5&security=tls&alpn=http/1.1&encryption=none&host=hidden-glacier-c2dd-production.up.railway.app&fp=chrome&type=ws&sni=hidden-glacier-c2dd-production.up.railway.app#1 🇳🇱 @V2ngNet
@@ -503,3 +501,5 @@ vless://f2900749-7cff-42b7-9566-dfb03840d374@herd.zavqeron.ir:2053?path=/de2-cdn
 vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?encryption=none&type=ws&host=land.zavqeron.ir&path=/fi-cdn&security=tls&fp=chrome&sni=zavqeron.ir&alpn=h3,h2,http/1.1#@V2RAYNG_IP
 vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?path=/fi-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=land.zavqeron.ir&fp=chrome&type=ws&sni=zavqeron.ir#@v2ray_phoenix
 vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?path=/fi-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=land.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#@B2Hub
+vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?path=/fi-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=land.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#@IRAN_V2RAY1 🌟
+vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?path=/fi-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=land.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#@V2ray_Alpha🌉 10
