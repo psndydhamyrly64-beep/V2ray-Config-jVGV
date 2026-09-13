@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=armwwww.appleseraj.ir&sni=armwwww.appleseraj.ir&fp=chrome#🇦🇲| 𝐀𝐫𝐦𝐞𝐧𝐢𝐚
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=bbbbbposawe-iuu.appleseraj.ir&sni=bbbbbposawe-iuu.appleseraj.ir&fp=chrome#🇸🇪| 𝐒𝐰𝐞𝐝𝐞𝐧
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=belgho.appleseraj.ir&sni=belgho.appleseraj.ir&fp=chrome#🇧🇪| 𝐁𝐞𝐥𝐠𝐢𝐮𝐦
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=ctur.appleseraj.ir&sni=ctur.appleseraj.ir&fp=chrome#🇹🇷| 𝐓ü𝐫𝐤𝐢𝐲𝐞
@@ -502,4 +503,3 @@ vless://7aeb58b8-7817-45af-ba26-e27583bc9a8e@31.76.83.49:443?encryption=none&flo
 vless://7aeb58b8-7817-45af-ba26-e27583bc9a8e@31.76.83.49:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.sciencedirect.com&fp=chrome&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&sid=a1b2c4d4a1b2c5d5&type=tcp&headerType=none#[ 🇱🇹 ] | @Cfox_SerVer
 vless://7aeb58b8-7817-45af-ba26-e27583bc9a8e@85.120.144.98:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.sciencedirect.com&fp=chrome&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&sid=a1b2c4d4a1b2c5d5&type=tcp&headerType=none#@Daily_Configs
 vless://7aeb58b8-7817-45af-ba26-e27583bc9a8e@85.120.144.98:8443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#@FarazV2ray
-vless://7aeb58b8-7817-45af-ba26-e27583bc9a8e@85.120.144.98:8443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#@MARAMBASHI 🇩🇪
