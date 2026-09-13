@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@188.42.145.180:443?type=ws&host=www.volumeroot.com&path=/assignment&security=tls&fp=chrome&sni=www.volumeroot.com&alpn=http/1.1#@V2RAYNG_IP ☀️
 trojan://humanity@188.42.145.180:443?type=ws&host=www.volumeroot.com&path=/assignment&security=tls&fp=chrome&sni=www.volumeroot.com&alpn=http/1.1#𝗝𝗼𝗶𝗻➠@V2RAYNG_IP
 trojan://humanity@198.202.211.1:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#@EXPRESSVPN_420  👈🏻 کانال تلگرام
 trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
@@ -502,4 +503,3 @@ vless://0fbe0c5e-b479-4d91-8b42-f194f781b6bb@z0ndd1onnp04unxjemim9lf8.abaravi51.
 vless://0fbe0c5e-b479-4d91-8b42-f194f781b6bb@z0ndd1onnp04unxjemim9lf8.abaravi51.workers.dev:8880?encryption=none&security=none&type=ws&host=z0ndd1onnp04unxjemim9lf8.abaravi51.workers.dev&path=/vl/tIH6lApP2LOwU5x1APqU8ZTMmYo?ed=2560#💦 9. VLESS - Domain : 8880
 vless://0fcbc45d-acdc-40cf-9a66-961c00f5b4a5@109.169.76.39:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=slashdot.org&sid=fd55b698ee8c3629#🇫🇷⇝ @GpConnectSho کانکت شو! 💠
 vless://0fcbc45d-acdc-40cf-9a66-961c00f5b4a5@109.169.76.39:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=slashdot.org&sid=fd55b698ee8c3629#@ICV2RAY
-vless://0fcbc45d-acdc-40cf-9a66-961c00f5b4a5@109.169.76.39:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=slashdot.org&sid=fd55b698ee8c3629#🇬🇧@ELiV2Ray
