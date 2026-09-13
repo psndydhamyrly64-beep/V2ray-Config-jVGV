@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cec7629d-85dc-4c82-b13a-39871515a8df@91.196.34.154:34111?encryption=none&flow=xtls-rprx-vision&security=reality&sni=objects.githubusercontent.com&fp=chrome&pbk=UaZnwKxdigEueBucuJvlq1Jk1nMuRHWs7GnYIYOTWwI&sid=b2c3f2c15f8f55b5&type=tcp&headerType=none#@proxy_kafee
 vless://cec7629d-85dc-4c82-b13a-39871515a8df@91.196.34.154:34111?security=reality&encryption=none&pbk=UaZnwKxdigEueBucuJvlq1Jk1nMuRHWs7GnYIYOTWwI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=objects.githubusercontent.com&sid=b2c3f2c15f8f55b5#@tootffarangi🍓-6
 vless://cec7629d-85dc-4c82-b13a-39871515a8df@91.196.34.154:34111?security=reality&encryption=none&pbk=UaZnwKxdigEueBucuJvlq1Jk1nMuRHWs7GnYIYOTWwI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=objects.githubusercontent.com&sid=b2c3f2c15f8f55b5#Channel id: @ConfigV2RayNG 🇩🇪
 vless://cec7629d-85dc-4c82-b13a-39871515a8df@91.196.34.154:34115?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=UaZnwKxdigEueBucuJvlq1Jk1nMuRHWs7GnYIYOTWwI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=releases.hashicorp.com&sid=b2c3f2c15f8f55b5#@meliproxyy
@@ -503,3 +502,4 @@ vless://e2428398-f4d6-4df8-88a3-242a688cb7dc@69.46.46.22:443?path=/ws/e2428398-f
 vless://e2609ee9-08f6-45b2-8eed-8889a799945f@green.iranidrive.ir:2092?encryption=none&type=tcp&headerType=http&host=zula.ir&path=/&security=reality&fp=chrome&sni=www.yahoo.com&pbk=7UbUiwU9tjzhwCuEDqIXlF4zU8V7Gn-SkEcwcBqgNDU&sid=4e&spx=/DFm1fdkZikXIQ1r#green
 vless://e2773031-7418-424e-ae49-99b4b474aeba@167.233.59.162:443?security=reality&encryption=none&pbk=VwWuZIAZf4msfvsDZQjQHY6hZPK5r0O-s7yStyjOqhk&headerType=none&fp=chrome&spx=/U575ktM2xSCSQeZ&type=tcp&flow=xtls-rprx-vision&sni=drive.google.com&sid=fc87828b94144d#TEL;Father_vpn
 vless://e2b8b217-cffb-4d66-9b8b-eca6e4334032@13.231.19.51:11690?security=reality&encryption=none&pbk=Bv3z0_uFRabB9C4CFpNfqepZUyeO4YTh1duJdMBNLkg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=034885e346fd30#@hex_proxy ⁴
+vless://e2b8b217-cffb-4d66-9b8b-eca6e4334032@13.231.19.51:11690?security=reality&encryption=none&pbk=Bv3z0_uFRabB9C4CFpNfqepZUyeO4YTh1duJdMBNLkg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=034885e346fd30#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
