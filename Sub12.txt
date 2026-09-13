@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://bb5c8872-3e39-41b0-98d6-fdf7b183c51f@152.89.253.143:2829?security=none&encryption=none&host=Microsoft.com&headerType=http&type=tcp#@v2ray313 کانالمون 😀
-vless://bb60ea48-70e1-414a-b441-86a5e40686de@193.151.139.245:1106?security=none&type=tcp&host=creativecommons.org&headerType=http#@Hope_Net-join-us-on-Telegram
 vless://bb60ea48-70e1-414a-b441-86a5e40686de@193.151.139.245:1106?security=none&type=tcp&host=creativecommons.org&headerType=http#کانال ما
 vless://bb60ea48-70e1-414a-b441-86a5e40686de@193.151.139.245:1106?security=none&type=tcp&host=creativecommons.org&headerType=http#🇮🇷170205 | ⚡️Telegram = t.me/SOSkeyNET
 vless://bb681249-1823-4bc0-9778-883bf5bd0b1f@www.web.far30bazi.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sheets.google.com&fp=chrome&pbk=6yOrgIsMRfTe-Gr9TYgyan-0mnKTNfk6fDBxVOiT4HM&sid=5002b5329814b487&type=tcp&headerType=none#@Daily_Configs
@@ -503,3 +501,5 @@ vless://cec7629d-85dc-4c82-b13a-39871515a8df@91.196.34.154:34105?security=realit
 vless://cec7629d-85dc-4c82-b13a-39871515a8df@91.196.34.154:34105?security=reality&encryption=none&pbk=UaZnwKxdigEueBucuJvlq1Jk1nMuRHWs7GnYIYOTWwI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=archive.mozilla.org&sid=b2c3f2c15f8f55b5#@hex_proxy ¹
 vless://cec7629d-85dc-4c82-b13a-39871515a8df@91.196.34.154:34111?encryption=none&flow=xtls-rprx-vision&security=reality&sni=objects.githubusercontent.com&fp=chrome&pbk=UaZnwKxdigEueBucuJvlq1Jk1nMuRHWs7GnYIYOTWwI&sid=b2c3f2c15f8f55b5&type=tcp&headerType=none#@Daily_Configs
 vless://cec7629d-85dc-4c82-b13a-39871515a8df@91.196.34.154:34111?encryption=none&flow=xtls-rprx-vision&security=reality&sni=objects.githubusercontent.com&fp=chrome&pbk=UaZnwKxdigEueBucuJvlq1Jk1nMuRHWs7GnYIYOTWwI&sid=b2c3f2c15f8f55b5&type=tcp&headerType=none#@proxy_kafee
+vless://cec7629d-85dc-4c82-b13a-39871515a8df@91.196.34.154:34111?security=reality&encryption=none&pbk=UaZnwKxdigEueBucuJvlq1Jk1nMuRHWs7GnYIYOTWwI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=objects.githubusercontent.com&sid=b2c3f2c15f8f55b5#@tootffarangi🍓-6
+vless://cec7629d-85dc-4c82-b13a-39871515a8df@91.196.34.154:34115?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=UaZnwKxdigEueBucuJvlq1Jk1nMuRHWs7GnYIYOTWwI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=releases.hashicorp.com&sid=b2c3f2c15f8f55b5#@meliproxyy
