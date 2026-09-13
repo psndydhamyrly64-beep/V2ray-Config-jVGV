@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://BD1F7E5E-9E0B-4919-A7F1-84BC9E69426D@102.165.41.72:61670?security=reality&encryption=none&pbk=jnu0rNHECTe_v7H9Fmgg0iUSepHz4QQQRPW0XpX5URs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sat-cdn4.apple-mapkit.com&sid=1359c9bf9f7442e5#🇿🇦ZA-🚀@VPNine1
 vless://BD1F7E5E-9E0B-4919-A7F1-84BC9E69426D@102.165.41.98:46199?encryption=none&flow=xtls-rprx-vision&security=reality&sni=is4-ssl.mzstatic.com&fp=chrome&pbk=jnu0rNHECTe_v7H9Fmgg0iUSepHz4QQQRPW0XpX5URs&sid=1359c9bf9f7442e5&type=tcp&headerType=none#@Daily_Configs
 vless://BD1F7E5E-9E0B-4919-A7F1-84BC9E69426D@102.165.41.98:46199?encryption=none&flow=xtls-rprx-vision&security=reality&sni=is4-ssl.mzstatic.com&fp=chrome&pbk=jnu0rNHECTe_v7H9Fmgg0iUSepHz4QQQRPW0XpX5URs&sid=1359c9bf9f7442e5&type=tcp&headerType=none#@filembad
 vless://BD1F7E5E-9E0B-4919-A7F1-84BC9E69426D@102.165.41.98:46199?encryption=none&flow=xtls-rprx-vision&security=reality&sni=is4-ssl.mzstatic.com&fp=chrome&pbk=jnu0rNHECTe_v7H9Fmgg0iUSepHz4QQQRPW0XpX5URs&sid=1359c9bf9f7442e5&type=tcp&headerType=none#کانال ما
@@ -502,4 +503,3 @@ vless://b01cadb4-428b-42d2-8c56-d6c13e582ede@lingering-water-9e69.219.workers.de
 vless://b01cadb4-428b-42d2-8c56-d6c13e582ede@lingering-water-9e69.219.workers.dev:8880?security=&encryption=none&type=ws&sni=lingering-water-9e69.219.workers.dev#Tel-@ProxyMtAlpha💌 7
 vless://b01cadb4-428b-42d2-8c56-d6c13e582ede@lingering-water-9e69.219.workers.dev:8880?security=&encryption=none&type=ws&sni=lingering-water-9e69.219.workers.dev#vpnsal
 vless://b01cadb4-428b-42d2-8c56-d6c13e582ede@lingering-water-9e69.219.workers.dev:8880?security=&encryption=none&type=ws&sni=lingering-water-9e69.219.workers.dev#🔵@chillguy_vpn
-vless://b01cadb4-428b-42d2-8c56-d6c13e582ede@lingering-water-9e69.219.workers.dev:8880?security=none&encryption=none&type=ws&sni=lingering-water-9e69.219.workers.dev#🇨🇦170484 | ⚡️Telegram = t.me/SOSkeyNET
