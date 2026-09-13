@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f373e5d8-8dff-44e6-a4d8-41abeb038b8a@5.75.196.199:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=www.unscramblerer.com&headerType=http&type=tcp#@Shh_Proxy-New³
-vless://f373e5d8-8dff-44e6-a4d8-41abeb038b8a@cdn.devmixa.ir:2086?mode=auto&path=/&security=none&encryption=none&host=rubika.ir.play.google.com.www.speedtest.net.chatgpt.com.openai.com.icloud.com.as.sw.irankrmanshah.ir.cdn.en.k8k8110.com&type=xhttp#ProxyMtpVPN-427
 vless://f373e5d8-8dff-44e6-a4d8-41abeb038b8a@cdn.devmixa.ir:2086?mode=auto&path=/&security=none&encryption=none&host=rubika.ir.play.google.com.www.speedtest.net.chatgpt.com.openai.com.icloud.com.as.sw.irankrmanshah.ir.cdn.en.k8k8110.com&type=xhttp#[44611] - Telegram : @V2All
 vless://f373e5d8-8dff-44e6-a4d8-41abeb038b8a@cdn.devmixa.ir:2086?mode=auto&path=/&security=none&encryption=none&host=rubika.ir.play.google.com.www.speedtest.net.chatgpt.com.openai.com.icloud.com.as.sw.irankrmanshah.ir.cdn.en.k8k8110.com&type=xhttp#کانال ما
 vless://f373e5d8-8dff-44e6-a4d8-41abeb038b8a@cdn.devmixa.ir:2086?mode=auto&path=/&security=none&encryption=none&host=rubika.ir.play.google.com.www.speedtest.net.chatgpt.com.openai.com.icloud.com.as.sw.irankrmanshah.ir.cdn.en.k8k8110.com&type=xhttp#🇨🇦170178 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +501,5 @@ ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:4
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#%3E%3E%40FreakConfig%3A%3APL
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@141.164.45.187:5498#%3E%3E%40shadowproxy66%3A%3AXX
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498#%3E%3E%40freeland8%3A%3AUS
+trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+trojan://LcICDcp%21jD9TFV%24NbH@dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev:443?path=%2Ftr%2Fpg4wM48V9O859nmqsJg22EOFKN4S570y%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv#%3E%3E%40configV2rayNG%3A%3AUS
