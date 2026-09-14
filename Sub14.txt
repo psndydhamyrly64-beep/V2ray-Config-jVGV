@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d9f0d703-c769-8d67-3f33-0aa0b511173d@german.hosting-96.biz.id:7097?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@GozargahAzad|🇩🇪
 vless://d9f0d703-c769-8d67-3f33-0aa0b511173d@german.hosting-96.biz.id:7097?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@meliproxyy
 vless://d9f0d703-c769-8d67-3f33-0aa0b511173d@german.hosting-96.biz.id:7097?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#Tel-@ProxyMtAlpha🧊 8
 vless://d9f0d703-c769-8d67-3f33-0aa0b511173d@german.hosting-96.biz.id:7097?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#کانال ما
@@ -503,3 +502,4 @@ vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?security=reality&
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#@V2rayng_Fast 💛
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#@V2rayng_Fast 🩵
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#@meliproxyy
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#@vasl_bashim

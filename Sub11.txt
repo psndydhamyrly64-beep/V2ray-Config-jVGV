@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://DFDBA849-E8F0-4C1B-9BD6-C4C87679B0A3@hk6-r.link-t7.com:10136/?type=grpc&encryption=none&flow=&serviceName=movie&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&packetEncoding=xudp#香港
 vless://DFDBA849-E8F0-4C1B-9BD6-C4C87679B0A3@kr5-r.link-t7.com:10050/?type=grpc&encryption=none&flow=&serviceName=update&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#韩国
 vless://Default@web-production-397a4.up.railway.app:443?encryption=none&security=tls&sni=web-production-397a4.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=web-production-397a4.up.railway.app&path=/ws/Default#@hollowcon
 vless://EarnMoneyarz @earnmoneyarz-zorovpn-earnmoney-arz-zorovpn-earnmoneyarz-zorovpn.thv.opik.net:12981?security=reality&encryption=none&pbk=XgxSAzH0RjD8oPEKeR1kg3wnbNLfA6KZez83hhGEnTI&headerType=&fp=chrome&spx=/LykVdJvx8bjxIG8&type=tcp&sni=www.yahoo.com&sid=4351ff712d153d06#🔰 @EarnMoney_arz - پرسرعت کانال تلگرام
@@ -503,3 +502,4 @@ vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.226:443?security=realit
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.140:443?mode=auto&path=/&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=chrome&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#bisto4_service
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.150:443?mode=auto&path=/&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=chrome&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#bisto4_service
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.160:443?mode=auto&path=/&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=chrome&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.190:443?mode=auto&path=/&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=chrome&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
