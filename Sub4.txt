@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0fbe0c5e-b479-4d91-8b42-f194f781b6bb@188.114.96.1:80?encryption=none&security=none&type=ws&host=z0ndd1onnp04unxjemim9lf8.abaravi51.workers.dev&path=/vl/KRSVUQ0kgKQKo5nM7eJXKeHr4U?ed=2560#💦 2. VLESS - IPv4 : 80
-vless://0fbe0c5e-b479-4d91-8b42-f194f781b6bb@188.114.96.1:8880?encryption=none&security=none&type=ws&host=z0ndd1onnp04unxjemim9lf8.abaravi51.workers.dev&path=/vl/YPMvUeqm6JGQPL7NGXDTWZ0M?ed=2560#💦 10. VLESS - IPv4 : 8880
-vless://0fbe0c5e-b479-4d91-8b42-f194f781b6bb@188.114.97.1:2052?encryption=none&security=none&type=ws&host=z0ndd1onnp04unxjemim9lf8.abaravi51.workers.dev&path=/vl/ujKKGE3Opd2787ja1VfP3T2IuqjNe?ed=2560#[ 🇨🇦 ] | @Cfox_SerVer
 vless://0fbe0c5e-b479-4d91-8b42-f194f781b6bb@188.114.97.1:2052?encryption=none&security=none&type=ws&host=z0ndd1onnp04unxjemim9lf8.abaravi51.workers.dev&path=/vl/ujKKGE3Opd2787ja1VfP3T2IuqjNe?ed=2560#💦 15. VLESS - IPv4 : 2052
 vless://0fbe0c5e-b479-4d91-8b42-f194f781b6bb@188.114.97.1:8080?encryption=none&security=none&type=ws&host=z0ndd1onnp04unxjemim9lf8.abaravi51.workers.dev&path=/vl/3geiGLehsIICudSdAJaTjji742k?ed=2560#💦 7. VLESS - IPv4 : 8080
 vless://0fbe0c5e-b479-4d91-8b42-f194f781b6bb@188.114.97.1:80?encryption=none&security=none&type=ws&host=z0ndd1onnp04unxjemim9lf8.abaravi51.workers.dev&path=/vl/U9fwQG4SR615k2WR?ed=2560#💦 3. VLESS - IPv4 : 80
@@ -503,3 +500,6 @@ vless://20d7c485-5d24-49b5-a5cc-bb7a7daf9908@193.148.59.178:443?security=reality
 vless://20d7c485-5d24-49b5-a5cc-bb7a7daf9908@193.148.59.178:443?security=reality&encryption=none&pbk=-GMpCber8qtrKzJbwvpLcwlIhOy-5zS66u_x9lLvIjE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=e3daad69#🇧🇬BG-🚀@VPNine1
 vless://20d7c485-5d24-49b5-a5cc-bb7a7daf9908@193.148.59.178:443?security=reality&encryption=none&pbk=-GMpCber8qtrKzJbwvpLcwlIhOy-5zS66u_x9lLvIjE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=e3daad69#🇸🇪171115 | ⚡️Telegram = t.me/SOSkeyNET
 vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
+vless://213426db-afb7-48d1-ae51-5093317212df@104.18.26.90:2087?security=tls&type=ws&headerType=&path=/&host=iopl90nn.bingnet.online&sni=iopl90nn.bingnet.online&fp=&allowInsecure=1&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
+vless://213426db-afb7-48d1-ae51-5093317212df@104.21.55.47:2087?security=tls&type=ws&headerType=&path=/&host=iopl90nn.bingnet.online&sni=iopl90nn.bingnet.online&fp=&allowInsecure=1&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
+vless://213426db-afb7-48d1-ae51-5093317212df@104.21.55.47:2095?security=none&type=httpupgrade&headerType=&path=/?ed=2096&host=aza002.vaslbash.site&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN

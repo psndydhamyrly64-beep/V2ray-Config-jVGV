@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.99.8:443?encryption=none&security=reality&sni=www.epson.com&fp=chrome&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&allowinsecure=0&type=xhttp&mode=auto&path=/#🇩🇪All⁴ | @BigSmoke_Config
-vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.99.8:443?encryption=none&security=reality&sni=www.epson.com&fp=chrome&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&allowinsecure=0&type=xhttp&mode=auto&path=/#🔵@chillguy_vpn
-vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.99.8:443?path=/&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&fp=chrome&type=xhttp&sni=www.epson.com#@ICV2RAY
 vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@62.233.39.7:443?path=/&security=reality&encryption=none&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&fp=chrome&type=xhttp&sni=www.philips.com#@ICV2RAY
 vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@64.49.38.3:8443?mode=gun&security=reality&encryption=none&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE&fp=chrome&type=grpc&serviceName=TunService&sni=download.autodesk.com#🏆 @ConfigV2RayNG
 vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@89.47.55.8:8443?mode=gun&security=reality&encryption=none&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&fp=chrome&type=grpc&serviceName=TunService&sni=www.canon.com#@ICV2RAY
@@ -503,3 +500,6 @@ vless://ef3595fb-72f4-430d-9bf8-fff90327903a@nl-1.lunoa.ru:443?security=reality&
 vless://ef3595fb-72f4-430d-9bf8-fff90327903a@nl-1.lunoa.ru:443?security=reality&encryption=none&pbk=l8vhMtOhGEsduzrsXfFg2tq3eiKVBHRQLIm0VtbUJDs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl-1.lunoa.ru&sid=277201d753225a01#@tootffarangi🍓-8
 vless://ef3595fb-72f4-430d-9bf8-fff90327903a@no-1.lunoa.ru:8443?mode=auto&path=/assets/v1/&security=tls&encryption=none&insecure=0&host=no-1.lunoa.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=no-1.lunoa.ru#Tel--@V2rayAlpha--3
 vless://ef3595fb-72f4-430d-9bf8-fff90327903a@swe-1.lunoa.ru:443?security=reality&encryption=none&pbk=l8vhMtOhGEsduzrsXfFg2tq3eiKVBHRQLIm0VtbUJDs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swe-1.lunoa.ru&sid=277201d753225a01#@VConfing
+vless://ef3595fb-72f4-430d-9bf8-fff90327903a@swe-1.lunoa.ru:443?security=reality&encryption=none&pbk=l8vhMtOhGEsduzrsXfFg2tq3eiKVBHRQLIm0VtbUJDs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swe-1.lunoa.ru&sid=277201d753225a01#Tel-@ProxyMtAlpha🍦 3
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@89.127.196.238:443?security=reality&encryption=none&pbk=-1HCWRKZmpJFJxw0PSzx1EzzGB2sM7ojBNbUGia4pj8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-ch.upd-media.com&sid=b3c1d918e7c4f767#✨ @NOFiLTERING2 | ❤️ وصل شدی جوین شو | ⚡ | 🇩🇪
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@89.127.196.238:443?security=reality&encryption=none&pbk=-1HCWRKZmpJFJxw0PSzx1EzzGB2sM7ojBNbUGia4pj8&host=/?BIA_TELEGRAM@i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-ch.upd-media.com&sid=b3c1d918e7c4f767#@i10VPN🎇

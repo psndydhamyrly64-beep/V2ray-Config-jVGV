@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.6:443?path=/GOrbEh#TELEGRAM-leviconfigs?ed=2048&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@leviconfigs🪐-25
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@198.202.211.1:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=/GOrbEh#🇺🇸139875 | ⚡️Telegram = t.me/SOSkeyNET
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🇭🇺🇩🇪@AZARBAYJAB1
 vless://cf546c96-ed5e-46cc-b080-1cacf1770a5c@159.69.193.221:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@ATOVPN
 vless://cf63446e-f6b7-4d34-b7ed-d8648eeed0f7@104.21.74.8:443?encryption=none&security=tls&sni=vps.181110.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vps.181110.xyz&path=/cf63446e-vl#🇺🇸 美国 CNServer 21
 vless://cf63446e-f6b7-4d34-b7ed-d8648eeed0f7@104.21.80.209:443?encryption=none&security=tls&sni=vps.181110.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vps.181110.xyz&path=/cf63446e-vl#🇺🇸 美国 CNServer 15
@@ -503,3 +500,6 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=/http&security
 vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@147.78.182.4:443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&type=xhttp&path=/&mode=auto#@Daily_Configs
 vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@147.78.182.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&fp=chrome&type=xhttp&sni=download.nvidia.com#Telegram @mtmvpn
 vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.99.8:443?encryption=none&security=reality&sni=www.epson.com&fp=chrome&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&allowinsecure=0&type=xhttp&mode=auto&path=/#@meliproxyy
+vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.99.8:443?encryption=none&security=reality&sni=www.epson.com&fp=chrome&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&allowinsecure=0&type=xhttp&mode=auto&path=/#🇩🇪All⁴ | @BigSmoke_Config
+vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.99.8:443?encryption=none&security=reality&sni=www.epson.com&fp=chrome&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&allowinsecure=0&type=xhttp&mode=auto&path=/#🔵@chillguy_vpn
+vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.99.8:443?path=/&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&fp=chrome&type=xhttp&sni=www.epson.com#@ICV2RAY

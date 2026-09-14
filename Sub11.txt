@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://Telegramjoin:TurboConfigs @82.22.40.102:2091?encryption=none&headerType=http&host=play-apps-features.googleusercontent.com&path=/&security=none&type=tcp#@VEGAAS_VPN🇵🇱⚡
-vless://Telegramjoin:TurboConfigs @82.22.40.102:2091?security=&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@VEGAAS_VPN🇵🇱⚡
-vless://Telegramjoin:TurboConfigs @82.22.40.195:9090?encryption=none&headerType=http&host=amp-api-edge.apps.apple.com&path=/&security=none&type=tcp#@Ap_Ir6
 vless://Telegramjoin:TurboConfigs @82.40.62.178:9090?encryption=none&type=tcp&headerType=http&path=/&host=amp-api-edge.apps.apple.com#@Capoit
 vless://Telegramjoin:TurboConfigs @82.40.62.178:9090?encryption=none&type=tcp&headerType=http&path=/&host=amp-api-edge.apps.apple.com#vmessorg
 vless://V2XNET-V2XNET@151.101.56.11:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=imcreeeprd.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#@𝐕𝟐𝐗𝐍𝐄𝐓
@@ -503,3 +500,6 @@ vless://b761689d-592e-46b2-b704-af7a9110b0ac@shop.theawesomenpl.ru:50715?securit
 vless://b761689d-592e-46b2-b704-af7a9110b0ac@shop.theawesomenpl.ru:50715?security=reality&encryption=none&pbk=YyF_0swCrKvtCDKmnGhz9UshtvQxUbpemVO8d_Bj6Ro&headerType=none&fp=chrome&type=tcp&sni=www.nvidia.com&sid=75#@fastkanfig 4
 vless://b783c6d6-3a0f-4c13-bbd1-86bf1ec4d94d@104.238.31.71:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=unitbook.net&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none@soskeynets#🇳🇱139768 | ⚡️Telegram = t.me/SOSkeyNET
 vless://b79f78f6-ca4e-bad4-029f-4f9c43b6b6d9@69.46.46.124:443?path=/ws/b79f78f6-ca4e-bad4-029f-4f9c43b6b6d9&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=norl-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=norl-production.up.railway.app#@Shh_Proxy-New³
+vless://b79f78f6-ca4e-bad4-029f-4f9c43b6b6d9@69.46.46.124:443?path=/ws/b79f78f6-ca4e-bad4-029f-4f9c43b6b6d9&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=norl-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=norl-production.up.railway.app#@𝐕𝟐𝐗𝐍𝐄𝐓
+vless://b7c0b208-8f36-4433-ac80-1737a49209b1@asia6.novahomedesigntips.com:6677?path=/&security=&encryption=none&type=ws#channel : @freedomofinfor
+vless://b7ee8185-a285-7f38-4e42-411da1656523@cf2.3pita.com:443?encryption=none&security=tls&sni=de.www.hitgram.ir&alpn=h2&fp=chrome&type=xhttp&host=de.www.hitgram.ir&path=/mitivpn&mode=packet-up&extra={"headers":{}}#کانال تلگرام : Free_VPN_CH@
