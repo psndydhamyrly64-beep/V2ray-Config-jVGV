@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@64.49.38.3:8443?mode=gun&security=reality&encryption=none&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE&fp=chrome&type=grpc&serviceName=TunService&sni=download.autodesk.com#🏆 @ConfigV2RayNG
+vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@89.47.55.8:8443?mode=gun&security=reality&encryption=none&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&fp=chrome&type=grpc&serviceName=TunService&sni=www.canon.com#@ICV2RAY
+vless://dca945d2-6d9b-434f-8754-3626a6a75e21@104.18.26.90:2087?security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#@KAFING_2
+vless://dca945d2-6d9b-434f-8754-3626a6a75e21@172.64.152.23:2095?path=/?ed=2096&security=none&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#@KAFING_2
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@45.130.125.160:2095?path=/?ed=2096&security=none&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#@KAFING_2
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?path=/&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#@KAFING_2
 vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.119:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&type=tcp&sni=google.com&sid=3ca620a7ed5f3196#TEL;Father_vpn
@@ -499,7 +503,3 @@ vless://ef3595fb-72f4-430d-9bf8-fff90327903a@swe-1.lunoa.ru:443?security=reality
 vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@89.127.196.238:443?security=reality&encryption=none&pbk=-1HCWRKZmpJFJxw0PSzx1EzzGB2sM7ojBNbUGia4pj8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-ch.upd-media.com&sid=b3c1d918e7c4f767#✨ @NOFiLTERING2 | ❤️ وصل شدی جوین شو | ⚡ | 🇩🇪
 vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@89.127.196.238:443?security=reality&encryption=none&pbk=-1HCWRKZmpJFJxw0PSzx1EzzGB2sM7ojBNbUGia4pj8&host=/?BIA_TELEGRAM@i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-ch.upd-media.com&sid=b3c1d918e7c4f767#@i10VPN🎇
 vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@yt-ads.adsmoba.com:443?security=reality&encryption=none&pbk=dAy-eqrUvXDYAIrhrYIqSThjAhbxSt7qMRdH30qm3X8&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt-ads.adsmoba.com&sid=f3a9d2b4c7e4f208#@v2ray313 کانالمون ⚡
-vless://ef55e3c5-ff9f-dee0-77a7-6936e82f461b@69.46.46.104:443?path=/ws/ef55e3c5-ff9f-dee0-77a7-6936e82f461b&security=tls&alpn=http/1.1&encryption=none&host=eshgh-production.up.railway.app&fp=chrome&type=ws&sni=eshgh-production.up.railway.app#All Operators @MaSTeRSeRVeR1
-vless://ef5c5d5c-08c6-4549-b05e-d1ff29ecc8ba@104.21.83.140:443?encryption=none&security=tls&sni=0-m16.ChIANG-maI2032.kdNS.fr&insecure=0&allowInsecure=0&type=ws&host=0-m16.ChIAng-Mai2032.kdnS.fR&path=/JRr6VGcSLFc034DC6sDbwyWJLbB#🇨🇦CA_4179_@Surfboardv2ray
-vless://ef5c5d5c-08c6-4549-b05e-d1ff29ecc8ba@172.67.169.99:443/?type=ws&encryption=none&flow=&host=8-m16.PHuKEt2035.KdnS.fr&path=/JRr6VGcSLFc034DC6sDbwyWJLbB&security=tls&sni=8-m16.PHuKEt2035.KdnS.fr&allowInsecure=1#免费咕咕嘎嘎
-vless://ef5c5d5c-08c6-4549-b05e-d1ff29ecc8ba@172.67.204.201:443/?type=ws&encryption=none&flow=&host=7-m16.CHiaN-MAi-8.KDNS.Fr&path=/JRr6VGcSLFc034DC6sDbwyWJLbB&security=tls&sni=7-m16.CHiaN-MAi-8.KDNs.FR&fp=chrome#美国
