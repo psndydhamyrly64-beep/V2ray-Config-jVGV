@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@V2ray_confiig
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@V2rayng_Fast
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@irdusti(7)🇫🇷¹
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@irdusti(7)🚩¹
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@irdusti³⏳
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@meliproxyy
@@ -503,3 +500,6 @@ vless://0e6001f1-fe90-4e8c-9f4f-57071268af6e@hollowcon.riziro.ir:8443?encryption
 vless://0e6de971-69e8-4536-b06d-8b6eae57021b@37.143.129.244:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5HArul2NDXfFUxijHj1xiPCfH-77zuuRxylT1vWIvUY&security=reality&sid=48fd192dc4e46bc0&sni=gateway.icloud.com&type=tcp#⛽91@oneclickvpnkeys
 vless://0ecf2aa4-0ae7-1a4f-5455-b116c864542d@it.kanzelo.ir:8443?encryption=none&flow=&headerType=http&host=play-apps-features.googleusercontent.com&type=tcp#🇨🇭171285 | ⚡️Telegram = t.me/SOSkeyNET
 vless://0ecf2aa4-0ae7-1a4f-5455-b116c864542d@it.kanzelo.ir:8443?encryption=none&security=none&type=tcp&headerType=http&host=play-apps-features.googleusercontent.com#Telegram: @Daily_Configs
+vless://0ecf2aa4-0ae7-1a4f-5455-b116c864542d@it.kanzelo.ir:8443?encryption=none&security=none&type=tcp&headerType=http&host=play-apps-features.googleusercontent.com#Telegram: @proxy_kafee
+vless://0ecf2aa4-0ae7-1a4f-5455-b116c864542d@it.kanzelo.ir:8443?security=&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@v2ray313 کانالمون 💛
+vless://0ed342c3-eb45-4d63-83a1-697252636ca9@188.114.97.6:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=yellow-hall-d482.260-d22.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=tls&sni=yellow-hall-d482.260-d22.workers.dev&type=ws#⛽28@oneclickvpnkeys
