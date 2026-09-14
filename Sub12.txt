@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@167.172.165.106:2083?&security=tls&fp=chrome&sni=edge.yzkvm.top&type=ws&headerType=none&host=edge.yzkvm.top&path=/#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@167.172.165.106:2083?encryption=none&fp=chrome&host=edge.yzkvm.top&path=/&security=tls&sni=edge.yzkvm.top&type=ws#🏀41@oneclickvpnkeys
 vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@167.172.165.106:2083?encryption=none&host=edge.yzkvm.top&security=tls&sni=edge.yzkvm.top&type=ws#🏀39@oneclickvpnkeys
 vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@gamefictoinspeed.info:443?encryption=none&type=ws&security=tls&path=/meti&host=lw-5-wfcxvux8.belmivo.ir&sni=lw-5-wfcxvux8.belmivo.ir&fp=chrome&insecure=0&allowInsecure=0#@EVAY_VPN 8
@@ -503,3 +502,4 @@ vless://d5af4dfe-eaf1-460c-87aa-fefe930db0ba@darsadgir.ir:443?mode=auto&path=/Ch
 vless://d5b44b89-ca73-4b82-a494-a72054c31df3@45.195.228.198:443?security=reality&encryption=none&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&host=/?BIA_TELEGRAM@leviconfigs_leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=de8d3223e7d85761#@leviconfigs🪐-5
 vless://d5c88c60-0293-4356-ebd8-046560abfc4f@46.38.138.221:8081?encryption=none&security=none&type=tcp&headerType=none&host=/JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet#کانال تلگرام : Free_VPN_CH@
 vless://d5e5f5a1-0f23-4c49-af9f-4be445bf9d8e@82.118.16.189:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SjGkzJQ9I6ZZjC3V73atcPMczhMm0oiTrB8mUQXz1HY&security=reality&sid=37fbf155c7a9f3ff&sni=www.cloudflare.com&type=tcp#🇮🇹171511 | ⚡️Telegram = t.me/SOSkeyNET
+vless://d5e5f5a1-0f23-4c49-af9f-4be445bf9d8e@82.118.16.189:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SjGkzJQ9I6ZZjC3V73atcPMczhMm0oiTrB8mUQXz1HY&security=reality&sid=37fbf155c7a9f3ff&sni=www.cloudflare.com&type=tcp#🇮🇹IT-🚀@VPNine1
