@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://cf63446e-f6b7-4d34-b7ed-d8648eeed0f7@cfip.1323123.xyz:443?encryption=none&security=tls&sni=vps.181110.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vps.181110.xyz&path=/cf63446e-vl#🇺🇸 美国 CNServer 17
+vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@116.202.19.249:443?encryption=none&security=none&type=tcp&headerType=http&host=store.steampowered.com#🇩🇪DE_3554_@Surfboardv2ray
+vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@46.224.170.213:443?encryption=none&headerType=http&host=store.steampowered.com&path=/&security=none&type=tcp#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
+vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@ww6.levikogjgfdd.ir:443?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#@v2ray313 کانالمون 😥
 vless://cfb6d9ad-7a14-4061-b159-8902fd73bb58@www.Speedtest.Net:2095?path=/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#[ 🇨🇦 ] | @Cfox_SerVer
 vless://cfd31dd3-80a0-4541-ac37-67696db2ecd7@germany2n.sarziva.ir:2030?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@NETMelliAnti
 vless://cfe58967-e48a-499f-bbb1-db38bcaa173f@199.232.34.79:443?mode=auto&pcs=7910C7C866F38FFC5FE0904282D75EB8637EB6198B12E9EB68416830A7954BFF&path=/assets&security=tls&encryption=none&insecure=0&host=squeeze-turbojet-statistic-crescent-excavate-lens.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=speedtest.net🇩🇪@FreakConfig#[ 🇪🇸 ] | @Cfox_SerVer
@@ -499,7 +503,3 @@ vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@64.49.38.3:8443?mode=gun&security=r
 vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@89.47.55.8:8443?mode=gun&security=reality&encryption=none&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&fp=chrome&type=grpc&serviceName=TunService&sni=www.canon.com#@ICV2RAY
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@104.18.26.90:2087?security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#@KAFING_2
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@172.64.152.23:2095?path=/?ed=2096&security=none&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#@KAFING_2
-vless://dca945d2-6d9b-434f-8754-3626a6a75e21@45.130.125.160:2095?path=/?ed=2096&security=none&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#@KAFING_2
-vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?path=/&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#@KAFING_2
-vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.119:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&type=tcp&sni=google.com&sid=3ca620a7ed5f3196#TEL;Father_vpn
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?path=/--Telegram---@MiTiVPN/---@MiTiVPN/---MiTiVPN/---@MiTiVPN&security=tls&encryption=none&insecure=0&host=www.getasa.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.getasa.ir#@KAFING_2
