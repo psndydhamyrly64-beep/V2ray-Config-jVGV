@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@173.245.59.191:8443?path=/uploader.php&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#@tanhanet
 vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@173.245.59.191:8443?path=/uploader.php&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com&note=@FreeOnlineVPN#🇨🇦 - CA - @FreeOnlineVPN
 vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@188.114.99.160:8443?path=/uploader.php&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#@TanhaNet 🇮🇷
 vless://5b3a8c7b-e17c-4eaf-bf42-38317548032d@swwwsxc.kipa2.ir:210?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇨🇭 l 𝐒𝐖𝐈𝐓𝐙𝐄𝐑𝐋𝐀𝐍𝐃
@@ -502,4 +503,3 @@ vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.19.215.97:443?security=tls&type
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.19.45.195:2087?type=ws&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&path=/&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.145.166:2087?host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=/fp=chrome&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#[ 🇨🇦 ] | @Cfox_SerVer
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.145.166:2087?host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=/fp=chrome&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.145.166:2087?security=tls&type=ws&path=/&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&packetEncoding=xudp&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&encryption=none#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦

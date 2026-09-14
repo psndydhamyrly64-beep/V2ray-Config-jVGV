@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://XpnTeam-70@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@leviconfigs🪐-6
 vless://XpnTeam-7@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#@v2ray_phoenix
 vless://XpnTeam-7@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
 vless://XpnTeam-7@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
@@ -502,4 +503,3 @@ vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@142.248.218.34:2053?&security=tls&f
 vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@142.248.218.34:2053?sni=edge.yzkvm.top&type=ws&host=edge.yzkvm.top&path=/fp=chrome&security=tls#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@167.172.165.106:2083?&security=tls&fp=chrome&sni=edge.yzkvm.top&type=ws&headerType=none&host=edge.yzkvm.top&path=/#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@167.172.165.106:2083?&security=tls&fp=chrome&sni=edge.yzkvm.top&type=ws&headerType=none&host=edge.yzkvm.top&path=/#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
-vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@167.172.165.106:2083?encryption=none&fp=chrome&host=edge.yzkvm.top&path=/&security=tls&sni=edge.yzkvm.top&type=ws#🏀41@oneclickvpnkeys
