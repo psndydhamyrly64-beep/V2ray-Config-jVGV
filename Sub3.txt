@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#vpnsal
+trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
+trojan://humanity@185.220.100.168:443?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&fp=chrome&sni=www.calmlunch.com#@V2RAYNG_IP
 trojan://humanity@185.255.179.166:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 trojan://humanity@188.114.96.3:443/?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#美国
 trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@V2ray_Alpha🌉 9
@@ -500,6 +503,3 @@ vless://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@185.32.6.62:443?security=reality&en
 vless://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@185.32.6.62:443?security=reality&encryption=none&pbk=xy8AHr_xZCNqFOuLq_t2fe4oLlrv5iu38uCQ1hUJ40w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com&sid=954c99065465428d#@v2raybaaz
 vless://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@185.32.6.62:443?security=reality&encryption=none&pbk=xy8AHr_xZCNqFOuLq_t2fe4oLlrv5iu38uCQ1hUJ40w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com&sid=954c99065465428d#@vmess_ir
 vless://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@185.32.6.62:443?security=reality&encryption=none&pbk=xy8AHr_xZCNqFOuLq_t2fe4oLlrv5iu38uCQ1hUJ40w&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com&sid=954c99065465428d#@MARAMBASHI 🇧🇷
-vless://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@185.32.6.62:443?security=reality&encryption=none&pbk=xy8AHr_xZCNqFOuLq_t2fe4oLlrv5iu38uCQ1hUJ40w&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com&sid=954c99065465428d#@MARAMBASHI 🇹🇷
-vless://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@185.32.6.62:443?security=reality&encryption=none&pbk=xy8AHr_xZCNqFOuLq_t2fe4oLlrv5iu38uCQ1hUJ40w&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com&sid=954c99065465428d#@V2rayng_Fast 🇧🇷
-vless://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@185.32.6.62:443?security=reality&encryption=none&pbk=xy8AHr_xZCNqFOuLq_t2fe4oLlrv5iu38uCQ1hUJ40w&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com&sid=954c99065465428d#@V2rayng_Fast 🇹🇷
