@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://MiTiVPN@199.232.78.160:443?path=%40mehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40v2rayNG_Matsuri
-trojan://MiTiVPN@167.82.76.7:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&type=ws&host=mitivpn---ss--s---mitivpn-33.global.ssl.fastly.net&path=%2F#%40Daily_Configs
 trojan://M%69TiVPN@167.82.76.7:443?path=%40mehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=m%69tivpn---ss--s---m%69tivpn-33.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40mehrosaboran
 trojan://M%69TiVPN@151.101.56.101:443?path=%40mehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=m%69tivpn---ss--s---m%69tivpn-5.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40mehrosaboran
 trojan://humanity@8.47.69.0:443?alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&type=ws#%F0%9F%94%A588@oneclickvpnkeys
