@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ce1ac6e2-ede6-8812-1af6-c388e5908128@69.46.46.106:443?mode=stream-up&path=/xhttp-siz10/stream-up/ce1ac6e2-ede6-8812-1af6-c388e5908128&security=tls&alpn=h2&encryption=none&host=polar-grove-49d1-production.up.railway.app&fp=chrome&type=xhttp&sni=polar-grove-49d1-production.up.railway.app#All Operators @MaSTeRSeRVeR1
-vless://ce354701-e5dd-4ca6-9a44-7eeb0c48b157@104.16.214.14:80?encryption=none&security=none&type=ws&host=still-butterfly-f025-pppal03.rofipo9508.workers.dev&path=/?ed=2560#😛Tel: @pPal03😛Join Googool😛
 vless://ce354701-e5dd-4ca6-9a44-7eeb0c48b157@104.24.85.213:80?encryption=none&security=none&type=ws&host=still-butterfly-f025-pppal03.rofipo9508.workers.dev&path=/?ed=2560#😛Tel: @pPal03😛Join Googool😛
 vless://cec7629d-85dc-4c82-b13a-39871515a8df@91.196.34.154:34111?security=reality&encryption=none&pbk=UaZnwKxdigEueBucuJvlq1Jk1nMuRHWs7GnYIYOTWwI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=objects.githubusercontent.com&sid=b2c3f2c15f8f55b5#@tootffarangi🍓-6
 vless://cec7629d-85dc-4c82-b13a-39871515a8df@91.196.34.154:8443?security=reality&alpn=v2rayNplus--mtmvpn--mtmvpn--mtmvpn--mtmvpn--mtmvpn--mtmvpn--mtmvpn&encryption=none&pbk=UaZnwKxdigEueBucuJvlq1Jk1nMuRHWs7GnYIYOTWwI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=b2c3f2c15f8f55b5#Telegram @mtmvpn  15
@@ -503,3 +501,5 @@ vless://d9f0d703-c769-8d67-3f33-0aa0b511173d@german.hosting-96.biz.id:7097?secur
 vless://d9f0d703-c769-8d67-3f33-0aa0b511173d@german.hosting-96.biz.id:7097?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#Tel-@ProxyMtAlpha🧊 8
 vless://d9f0d703-c769-8d67-3f33-0aa0b511173d@german.hosting-96.biz.id:7097?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#🔵@chillguy_vpn
 vless://d9f4bcb7-d0cf-49e9-9009-f275852df5ee@62.60.223.109:9090?encryption=none&security=none&type=tcp#🇮🇷139735 | ⚡️Telegram = t.me/SOSkeyNET
+vless://da1e9656-21fb-43d1-a1ab-0d2627b55758@vip-77.f-sub.cfd:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#کانال تلگرام : Free_VPN_CH@
+vless://da1e9656-21fb-43d1-a1ab-0d2627b55758@vip-81.f-sub.cfd:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#کانال تلگرام : Free_VPN_CH@
