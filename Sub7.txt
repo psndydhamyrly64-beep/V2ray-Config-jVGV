@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3ccf9767-6648-4efa-b13c-1cdef021c371@5.75.196.174:20141?security=reality&encryption=none&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&headerType=none&fp=chrome&spx=/fuyDxo1D1hIDYFH&type=tcp&flow=xtls-rprx-vision&sni=arvancloud.ir&sid=14#TEL;Father_vpn
-vless://3d0135ce-97f0-4b2f-90c3-e8aaa01be795@206.72.205.152:40296?security=none&encryption=none&headerType=none&type=tcp#@Net2ray 2
-vless://3d142a41-8e57-47d7-a579-f52c6eae79f7@199.232.79.229:80?encryption=none&security=none&type=xhttp&host=qbank.ir&path=/-AzV2ry?ed=2056&mode=auto#کانال تلگرام : Free_VPN_CH@
-vless://3d1ab94b-cb07-4c11-bded-991b46d20f3f@adel70-production-4117.up.railway.app:443?encryption=none&type=ws&host=adel70-production-4117.up.railway.app&path=/user/3d1ab94b-cb07-4c11-bded-991b46d20f3f&security=tls&fp=chrome&sni=adel70-production-4117.up.railway.app&alpn=http/1.1#@V2RAYNG_IP
 vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@CUSTOMVPNSERVER
 vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@KAFING_2
 vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#⚡Telegram =@CUSTOMVPNSERVER
@@ -503,3 +499,7 @@ vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?encryption=none&se
 vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&sid=c226283c4de5b1ad&type=grpc&authority=&serviceName=grpc&mode=gun#🇯🇵JP_1691_@Surfboardv2ray
 vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?mode=gun&security=reality&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
 vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?mode=gun&security=reality&encryption=none&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#Tel-@ProxyMtAlpha😈 5
+vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?mode=gun&security=reality&encryption=none&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
+vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?security=reality&encryption=none&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#[46950] - Telegram : @V2All
+vless://52b7a871-1455-4a6e-9e9c-78a0a1e43f86@meli-netbot-join.team-pluss.com:8080/?type=tcp&encryption=none&flow=&sni=the.world.of.the.champions.retrovip.net&fp=chrome&security=reality&pbk=a31ZnQOsnWUJq5bSLVWIeuGJZFPE52NidulBT5CV_z4&sid=f40ef36067&packetEncoding=xudp#荷兰
+vless://52f6769e-45b1-b4f1-6cc7-3ae34dc71084@69.46.46.106:443?path=/ws/52f6769e-45b1-b4f1-6cc7-3ae34dc71084&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=solipanel-production-9de9.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=solipanel-production-9de9.up.railway.app#Tel@Soliconf
