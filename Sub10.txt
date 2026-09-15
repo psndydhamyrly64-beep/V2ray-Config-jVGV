@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ICV2RAY
-vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@TEHRANARGO
-vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2raySaman
 vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2ray_confiig
 vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2rayng_market_1378_bot
 vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@tootffarangi🍓-1
@@ -503,3 +500,6 @@ vless://MIMITDL@65.109.212.53:80?path=/?ed=1024&security=none&encryption=none&ho
 vless://MimiTdL@116.203.1.152:23746?security=none&encryption=mlkem768x25519plus.native.0rtt.hOWjPUP938QjjGvY0Fp6b7uMs0Y7Q-9XvJ2jBO-061Y&host=cloud.steampowered.com&headerType=http&type=tcp#🔥⚡@MimiTdL پنل و کانفیگ⚡🔥
 vless://My-chanel-Telegram-ATOVPN @204.10.192.95:21946?security=&encryption=none&headerType=&type=tcp#@ATOVPN_گیگی3500⚡
 vless://My-chanel-Telegram-ATOVPN @204.10.192.95:21946?security=&encryption=none&headerType=&type=tcp#@ATOVPN_گیگی3500⚡  لکویشن ترکیه
+vless://SoonTeam@sexi.carderrr.com:443?path=@SylphNet&security=none&encryption=none&host=anten.ir&type=ws#@SylphNet | 2026-06-27 04:22
+vless://Telegram : free_conf_iran@135.125.136.238:46989?security=none&encryption=none&headerType=none&type=tcp#Telegram : free_conf_iran 🇩🇪
+vless://Telegram-vpnjey@162.159.38.119:8080?encryption=none&type=xhttp&mode=auto&host=se.jeyy.eu.cc&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey&extra={"xPaddingBytes":"100-1000","mode":"auto"}&security=none#Telegram@vpnjey 🇸🇪🇸🇪

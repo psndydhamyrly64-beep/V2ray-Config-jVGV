@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d9f0d703-c769-8d67-3f33-0aa0b511173d@finland.hosting-96.ir:7097?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#Tel-@ProxyMtAlpha🧊 7
-vless://d9f0d703-c769-8d67-3f33-0aa0b511173d@finland.hosting-96.ir:7097?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#🇫🇮171753 | ⚡️Telegram = t.me/SOSkeyNET
-vless://d9f0d703-c769-8d67-3f33-0aa0b511173d@finland.hosting-96.ir:7097?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#🇫🇮FI-🚀@VPNine1
 vless://d9f0d703-c769-8d67-3f33-0aa0b511173d@finland.hosting-96.ir:8004?mode=auto&path=/a7k9p2-aparat-xhttp?ed=2048&security=reality&encryption=none&pbk=Yx9sZxxT9sOMaGbrN_zo68hcbncuMK-MUIHUDgYLJ0Q&host=myket.ir&fp=chrome&spx=/&type=xhttp&sni=www.afr-data-15.myket.ir&sid=4ce486df10a75cc8#🇫🇮171749 | ⚡️Telegram = t.me/SOSkeyNET
 vless://d9f0d703-c769-8d67-3f33-0aa0b511173d@finland.hosting-96.ir:8004?mode=auto&path=/a7k9p2-aparat-xhttp?ed=2048&security=reality&encryption=none&pbk=Yx9sZxxT9sOMaGbrN_zo68hcbncuMK-MUIHUDgYLJ0Q&host=myket.ir&fp=chrome&spx=/&type=xhttp&sni=www.afr-data-15.myket.ir&sid=4ce486df10a75cc8#🇫🇮FI-🚀@VPNine1
 vless://d9f0d703-c769-8d67-3f33-0aa0b511173d@german.hosting-96.biz.id:7097?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@meliproxyy
@@ -503,3 +500,6 @@ vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#@Iran_v2ray1 🌟
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#@TEHRANARGO
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#@V2raySaman
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#@V2ray_Alpha🐍 5
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#@V2ray_Alpha🐣 1
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#@V2ray_Alpha🐬 2
