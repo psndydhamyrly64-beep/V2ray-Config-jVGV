@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&sid=c226283c4de5b1ad&type=grpc&authority=&serviceName=grpc&mode=gun#🇯🇵JP_1691_@Surfboardv2ray
 vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?mode=gun&security=reality&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
 vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?mode=gun&security=reality&encryption=none&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#Tel-@ProxyMtAlpha😈 5
 vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?mode=gun&security=reality&encryption=none&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
@@ -503,3 +502,4 @@ vless://6eebb521-1844-4c3c-bf54-fb0e19870f80@140.82.34.114:25585?security=none&e
 vless://6eebb521-1844-4c3c-bf54-fb0e19870f80@140.82.34.114:25585?type=tcp&encryption=none&security=none#[ 🇩🇪 ] | @Cfox_SerVer
 vless://6eebb521-1844-4c3c-bf54-fb0e19870f80@78.141.221.126:25585?security=none&encryption=none&headerType=none&type=tcp#@Nexus_Panell چنل تلگرام
 vless://6eebb521-1844-4c3c-bf54-fb0e19870f80@78.141.221.126:25585?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
+vless://6eebb521-1844-4c3c-bf54-fb0e19870f80@78.141.221.126:25585?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚

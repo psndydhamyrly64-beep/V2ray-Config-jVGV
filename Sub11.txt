@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://MimiTdL@116.203.1.152:23746?security=none&encryption=mlkem768x25519plus.native.0rtt.hOWjPUP938QjjGvY0Fp6b7uMs0Y7Q-9XvJ2jBO-061Y&host=cloud.steampowered.com&headerType=http&type=tcp#🔥⚡@MimiTdL پنل و کانفیگ⚡🔥
 vless://My-chanel-Telegram-ATOVPN @204.10.192.95:21946?security=&encryption=none&headerType=&type=tcp#@ATOVPN_گیگی3500⚡
 vless://My-chanel-Telegram-ATOVPN @204.10.192.95:21946?security=&encryption=none&headerType=&type=tcp#@ATOVPN_گیگی3500⚡  لکویشن ترکیه
 vless://SoonTeam@sexi.carderrr.com:443?path=@SylphNet&security=none&encryption=none&host=anten.ir&type=ws#@SylphNet | 2026-06-27 04:22
@@ -503,3 +502,4 @@ vless://b511876c-e048-4653-a7e0-f3dc53f8a04f@103.83.86.31:8080?path=/&security=n
 vless://b55dd203-630d-46a3-b506-c52ebcafa77c@154.222.9.98:443?security=reality&encryption=none&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=8d3293f0066e129a#@leviconfigs🪐-1
 vless://b567eb70-be4d-4fbc-bc6a-bf20e2a7da97@144.225.65.166:45462?path=/fhiioigx&security=&encryption=none&host=play.google.com&type=ws#⚡️ KURDNET | کرد نت
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@158.180.231.216:443/?type=ws&encryption=none&flow=&host=bab-6.site&path=/vws/&security=tls&sni=bab-6.site&fp=chrome&packetEncoding=xudp#法国
+vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@81.95.4.189:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#@ICV2RAY

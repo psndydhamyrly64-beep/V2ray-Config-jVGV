@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl3.moritech.net#Free x193 @Outline_Vpn
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl4.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl4.moritech.net#@V2ray_Alpha🧸 7
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl6.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.moritech.net#@hex_proxy ⁴
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl6.moritech.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=pl6.moritech.net&alpn=h2&flow=xtls-rprx-vision&fp=chrome#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🚀 | 🇵🇱
@@ -503,3 +502,4 @@ vless://d9f0d703-c769-8d67-3f33-0aa0b511173d@199.232.78.150:443?mode=auto&securi
 vless://d9f0d703-c769-8d67-3f33-0aa0b511173d@199.232.78.150:443?mode=auto&security=tls&alpn=h2&encryption=none&insecure=0&host=shshsujsjiiyour-name.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#🇺🇸US-🚀@VPNine1
 vless://d9f0d703-c769-8d67-3f33-0aa0b511173d@199.232.78.159:443?mode=auto&security=tls&alpn=h2&encryption=none&insecure=0&host=shshsujsjiiyour-name.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#🇺🇸171767 | ⚡️Telegram = t.me/SOSkeyNET
 vless://d9f0d703-c769-8d67-3f33-0aa0b511173d@199.232.78.159:443?mode=auto&security=tls&alpn=h2&encryption=none&insecure=0&host=shshsujsjiiyour-name.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#🇺🇸US-🚀@VPNine1
+vless://d9f0d703-c769-8d67-3f33-0aa0b511173d@95.182.90.30:7097?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#🇨🇿CZ-🚀@VPNine1
