@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&sid=221873918e0bb74d&sni=www.cloudflare.com#🇮🇳 Join+Telegram:@Farah_VPN 🇮🇳
 vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.17.104.23:8443?path=/?u=ommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#5
 vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.17.161.24:2087?path=/?u=ommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#10
 vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.17.217.1:443?path=/?u=ommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#12
@@ -502,4 +503,3 @@ vless://8b6aceff-1db9-4d5b-b4b2-d727d55b0f96@81.90.25.123:46908?security=reality
 vless://8b6aceff-1db9-4d5b-b4b2-d727d55b0f96@81.90.25.123:46908?security=reality&encryption=none&pbk=xnETFrUlaDiU4HMW9E0MnKMNNeihztGyA1QKLcyX_xU&fp=chrome&spx=/b518256ddade49d&type=grpc&sni=it.nvidia.com&sid=d8f1#@V2raySaman
 vless://8b6aceff-1db9-4d5b-b4b2-d727d55b0f96@81.90.25.123:46908?security=reality&encryption=none&pbk=xnETFrUlaDiU4HMW9E0MnKMNNeihztGyA1QKLcyX_xU&fp=chrome&spx=/b518256ddade49d&type=grpc&sni=it.nvidia.com&sid=d8f1#@i10VPN🚧
 vless://8b6aceff-1db9-4d5b-b4b2-d727d55b0f96@81.90.25.123:46908?security=reality&encryption=none&pbk=xnETFrUlaDiU4HMW9E0MnKMNNeihztGyA1QKLcyX_xU&fp=chrome&spx=/b518256ddade49d&type=grpc&sni=it.nvidia.com&sid=d8f1#Telegram @mtmvpn
-vless://8b84af39-2910-5506-238b-e9492ebe141a@69.46.46.25:443?path=/ws/8b84af39-2910-5506-238b-e9492ebe141a&security=tls&alpn=http/1.1&encryption=none&host=quartz-meadow-2cc8-production.up.railway.app&fp=chrome&type=ws&sni=quartz-meadow-2cc8-production.up.railway.app#🇩🇪 @V2ngFast
