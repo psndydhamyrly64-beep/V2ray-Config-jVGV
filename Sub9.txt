@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6eebb521-1844-4c3c-bf54-fb0e19870f80@64.176.64.194:25585?type=tcp&encryption=none&security=none#[46773] - Telegram : @V2All
-vless://6eebb521-1844-4c3c-bf54-fb0e19870f80@64.176.64.194:25585?type=tcp&encryption=none&security=none#کانال ما
 vless://6eebb521-1844-4c3c-bf54-fb0e19870f80@64.176.64.194:25585?type=tcp&encryption=none&security=none#🇵🇱172195 | ⚡️Telegram = t.me/SOSkeyNET
 vless://6eebb521-1844-4c3c-bf54-fb0e19870f80@64.176.64.194:25585?type=tcp&encryption=none&security=none#🔵@chillguy_vpn
 vless://6eebb521-1844-4c3c-bf54-fb0e19870f80@78.141.221.126:25585?security=none&encryption=none&headerType=none&type=tcp#@Nexus_Panell چنل تلگرام
@@ -503,3 +501,5 @@ vless://88da065a-f709-4bbb-bdef-6c0b39371f09@abb.fars-remen.ir:443?security=&enc
 vless://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?encryption=none&security=none&type=ws&path=/755276b33b6f#@Sparrk_VPN
 vless://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?encryption=none&type=ws&path=/755276b33b6f#𝗝𝗼𝗶𝗻➠@V2RAYNG_IP
 vless://89631c92-0842-4c8d-bb59-c402fb1f5c1f@51.15.109.102:3939?encryption=none&type=tcp&security=reality&fp=chrome&sni=amp-api-edge.apps.apple.com&pbk=YYHleBViStQ7R-ZokhEk-wOIfzaIBSsd9A_sigOhhGs#@v2_line rl new 🇳🇱 4
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/?@Cnetvn?ed=2048&security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#Telegram 🆔@cnetvpn
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/?@TOOTFFARANGI?ed=2048&security=reality&encryption=none&extra={"mode":"auto"}&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#✨ @NOFiLTERING2 | ❤️ وصل شدی جوین شو | ⚡ | 🇩🇪
