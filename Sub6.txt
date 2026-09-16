@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://29662c1f-2478-4556-a9a3-b12a6a66e148@mci.sulduz.pw:2174?security=&encryption=none&host=filimo.com&headerType=http&type=tcp#🇮🇷139837 | ⚡️Telegram = t.me/SOSkeyNET
 vless://297640b5-7eed-49c5-b790-637a3a7cab3f@us.samanehha.io:800?mode=stream-one&path=/?ed=2048&security=none&encryption=none&host=us.samanehha.io&type=xhttp#@appsooner کانال تلگرام
 vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@news.zoom.us:8443/?type=ws&encryption=none&flow=&host=u.srilankangrill.online&path=/&security=tls&sni=u.srilankangrill.online&fp=chrome&packetEncoding=xudp#嘎
 vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.195.58:443?path=/fdip=tw.william.us.ci!txt&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#@hopev2ray💛
@@ -503,3 +502,4 @@ vless://3bcb31ef-840e-415d-abb3-28628add98d0@109.169.84.94:443?encryption=none&f
 vless://3bd2eb83-ca98-4b03-bdf7-bbf6d33d0abd@bounded-crammed.video-streams.org:443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=bounded-crammed.video-streams.org&fp=chrome&type=ws&allowInsecure=0&sni=bounded-crammed.video-streams.org#@Shh_Proxy-New⁶
 vless://3bd2eb83-ca98-4b03-bdf7-bbf6d33d0abd@ghosts-spasm.quick-cdn.net:443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ghosts-spasm.quick-cdn.net&fp=chrome&type=ws&allowInsecure=0&sni=ghosts-spasm.quick-cdn.net#@Shh_Proxy-New⁴
 vless://3bd2eb83-ca98-4b03-bdf7-bbf6d33d0abd@grimness-backlogs.cdn-content.com:443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=grimness-backlogs.cdn-content.com&fp=chrome&type=ws&allowInsecure=0&sni=grimness-backlogs.cdn-content.com#@Shh_Proxy-New³
+vless://3be48c89-3380-4366-91eb-76353914dc31@prisonvpnc-production-e707.up.railway.app:443?encryption=none&security=tls&type=ws&host=prisonvpnc-production-e707.up.railway.app&path=/ws/3be48c89-3380-4366-91eb-76353914dc31&sni=prisonvpnc-production-e707.up.railway.app&fp=chrome&alpn=http/1.1&snispoofing={"active":true,"fakeSni":"www.hcaptcha.com","spoofIp":"8.6.112.4","targetPort":443}#@PRISONVPNc

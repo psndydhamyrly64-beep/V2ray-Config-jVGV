@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f2fb42fa-9aa7-416f-bad8-c7a8c5cfc7b2@169.40.32.220:10101?encryption=none&flow=xtls-rprx-vision&security=reality&sni=help.steampowered.com&fp=chrome&pbk=8eY1SvxhpB1FdKvivh0TH6uD1u9gOyOjjaadd5l5Z0Q&type=tcp&headerType=none#🇩🇪DE_4062_@Surfboardv2ray
 vless://f373e5d8-8dff-44e6-a4d8-41abeb038b8a@5.75.196.199:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=www.unscramblerer.com&headerType=http&type=tcp#@Shh_Proxy-New³
 vless://f373e5d8-8dff-44e6-a4d8-41abeb038b8a@cdn.devmixa.ir:8880?path=/?ed=2082&security=none&encryption=mlkem768x25519plus.random.0rtt.iZJwXenO31gj30xJyjEnDZ_qxA-iUdzbT1zdrr8Mbmo&host=rubika.ir.play.google.com.www.speedtest.net.chatgpt.com.openai.com.icloud.com.as.sw.irankrmanshah.ir.cdn.en.k8k8110.com&type=httpupgrade#@Shh_Proxy-New⁵
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=/&security=tls&encryption=none&insecure=0&host=srv10.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv10.perfectbulk.info#@ehsawn8
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#%3E%3E%40configV2rayNG%3A%3ANL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%3E%3E%40V2rayNG3%3A%3ANL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#%3E%3E%40prrofile_purple%3A%3AXX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#%3E%3E%40configV2rayNG%3A%3AXX

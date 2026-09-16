@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.73.98:2053?security=tls&sni=gU-2r-E35m-eO-2rTT-3f-b-CDq-2G4t-t5-Hdr4-6Yvd-35gH-dwE64-w.pAGes.Dev&type=ws&host=gU-2r-E35m-eO-2rTT-3f-b-CDq-2G4t-t5-Hdr4-6Yvd-35gH-dwE64-w.pAGes.Dev&fp=chrome&alpn=h2#@Hope_Net-join-us-on-Telegram
 vless://89eeb27d-1a8c-4d84-9ca4-75d614d19900@webshecan.webredirect.org:2083?type=tcp&security=reality&fp=chrome&pbk=TTyvgA7WXFTrzGfnc3n2thNNEcWc_GWReVsvs5Gd9D4&sni=www.theverge.com&flow=xtls-rprx-vision&sid=7f321171&spx=/#@Webshecan-mci2
 vless://8a009d1a-df1a-fc0d-b525-3754c4e2ec6d@tmesubgift1.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift1.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift1.up.railway.app&path=/ws/8a009d1a-df1a-fc0d-b525-3754c4e2ec6d#115
 vless://8a1e81bf-5e6f-425d-baf0-a9795a330271@104.16.0.150:2087?path=/&security=tls&encryption=none&host=gegame.mOshe.IR&fp=chrome&type=httpupgrade&sni=gegame.mOshe.IR#@v2ray_phoenix
@@ -503,3 +502,4 @@ vless://Telegram:@Free_VPN_CH@31.185.108.8:2096?path=/sg-lnd&security=tls&encryp
 vless://Telegram:@Free_VPN_CH@45.192.223.8:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@45.91.171.146:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@46.202.30.8:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
+vless://Telegram:@Free_VPN_CH@5.10.215.8:2096?encryption=none&security=tls&sni=tn1rr.qzz.io&fp=chrome&alpn=h2,http/1.1&insecure=1&allowInsecure=1&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
