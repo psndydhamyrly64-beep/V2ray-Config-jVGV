@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#@i10VPN⛄
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#@i10VPN🫑
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#Free x314 @Outline_Vpn
 vless://14e84681-eba8-4503-9bfd-c64e35ef4726@fsercicesl.iramssnew2.ir:443?security=reality&encryption=none&pbk=e5EEKLpt_oiRToXwe9yrM_frlLNmitHNIUeFEKmFJ2U&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=72038a58da833322#@configprxy
@@ -503,3 +502,4 @@ vless://2da9c09a-842f-4aed-a099-8a07c0266efc@45.131.213.34:443?security=reality&
 vless://2da9c09a-842f-4aed-a099-8a07c0266efc@45.131.213.34:443?security=reality&encryption=none&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de-2.srv.dvzh.net&sid=e4e77e76e6e49da7#🇩🇪⇝ @GpConnectSho کانکت شو! 💠
 vless://2db3c7fd-e34a-4f5e-9e63-2aa55f6f9f99@23.191.200.207:443?security=reality&encryption=none&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#@Shh_Proxy-New⁹
 vless://2df56fd0-d1b7-4793-b877-acd356d960f7@172.67.71.217:443?path=/?ed=8080&security=tls&encryption=none&host=download-93w.pages.dev&fp=chrome&type=ws&sni=pages.dev#🩵+@Azarakhsh_Proxy+🩷
+vless://2e050832-ad53-42ba-9fd3-cec1f74cb626@ac391083a2467acb.neshatinjafood.ir:443?security=reality&encryption=none&pbk=-Nw4pIuzq_vnQiII34vwq-_Hot3THgvXB6teTaX1jiQ&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com&sid=56c0d432cdf36f66#✈️ @FreeConfigForYou

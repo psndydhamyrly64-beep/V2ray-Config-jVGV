@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://50414e45-4c5f-5a45-5553-635698a6bb9c@172.67.134.170:443?path=/stream/PANEL_ZEUS/635698a6bb9c/loc-0&security=tls&encryption=none&insecure=0&host=jdzit4e4urks.xwzohsebujps.workers.dev&type=ws&allowInsecure=0&sni=jdzit4e4urks.xwzohsebujps.workers.dev#vpnsal
 vless://50414e45-4c5f-5a45-5553-635698a6bb9c@172.67.134.170:443?path=/stream/PANEL_ZEUS/635698a6bb9c/loc-0&security=tls&encryption=none&insecure=0&host=jdzit4e4urks.xwzohsebujps.workers.dev&type=ws&allowInsecure=0&sni=jdzit4e4urks.xwzohsebujps.workers.dev#🇺🇦 Join+Telegram:@Farah_VPN 🇺🇦
 vless://50414e45-4c5f-5a45-5553-635698a6bb9c@172.67.151.109:443?path=/stream/PANEL_ZEUS/635698a6bb9c/loc-0&security=tls&encryption=none&insecure=0&host=jdzit4e4urks.xwzohsebujps.workers.dev&type=ws&allowInsecure=0&sni=jdzit4e4urks.xwzohsebujps.workers.dev#vpnsal
 vless://50414e45-4c5f-5a45-5553-8ab06d2b3ccd@104.16.188.108:443?path=/stream/PANEL_ZEUS/8ab06d2b3ccd/loc-0&security=tls&encryption=none&insecure=0&host=nfz5qieuu29s.66zqafe8uq8s.workers.dev&type=ws&allowInsecure=0&sni=nfz5qieuu29s.66zqafe8uq8s.workers.dev#vpnsal
@@ -503,3 +502,4 @@ vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:2083?mode=auto&path=/ar
 vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:2087?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=64.49.13.77#@fastkanfig 2
 vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:8080?path=/&security=none&encryption=none&host=play.google.com&type=httpupgrade#@fastkanfig 4
 vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:8443?path=/&security=none&encryption=none&host=play.google.com&type=ws#@fastkanfig 5
+vless://6f87d6c8-6a9c-4ce9-940a-2a91d86b58e8@185.121.234.47:3701?security=reality&encryption=none&pbk=g2sGRzHjnyC06HbpTkPdikRrYYP-09aZ4UT-WKVODTo&headerType=none&fp=chrome&spx=/y1gWdaecnKIKUd2&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=7b1a#SPDNET-1 🇳🇱
