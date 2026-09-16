@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6cdaf496-ccc9-4df8-9187-bf1ffeddf17e@hes.purplrose.ir:8443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=maze.purplrose.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=maze.purplrose.ir#چنل عضو شو @v2ra_config
-vless://6d60c73d-5915-4cf8-b155-e522dfd863bb@31.128.37.67:16560?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ²⁸⁶
 vless://6d68f1bd-c636-4985-acc1-e17c53ccedb8@5.75.194.217:56539?encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&security=none&type=tcp&headerType=http#configprxy
 vless://6d773f72-d4af-47c9-fa3e-0e64b92da1c8@69.46.46.170:443?path=/ws/6d773f72-d4af-47c9-fa3e-0e64b92da1c8&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=solivpn-production-0e35.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=solivpn-production-0e35.up.railway.app#TelSoliconf
 vless://6d773f72-d4af-47c9-fa3e-0e64b92da1c8@69.46.46.18:443?path=/ws/6d773f72-d4af-47c9-fa3e-0e64b92da1c8&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=solivpn-production-0e35.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=solivpn-production-0e35.up.railway.app#Tel@Soliconf
@@ -503,3 +501,5 @@ vless://88b44962-7f99-4846-9113-6b0624b5a6a4@151.101.56.6:443?path=/?TELEGRAM--K
 vless://88b44962-7f99-4846-9113-6b0624b5a6a4@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ansooyefilter 🌩️❤️‍🔥
 vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?encryption=none&security=tls&sni=ssl.fastly.com&alpn=h2&fp=chrome&allowinsecure=0&type=ws&host=c12.com&path=/#🇩🇪All⁶ | @BigSmoke_Config
 vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?encryption=none&type=ws&host=c12.com&path=/&security=tls&fp=chrome&sni=ssl.fastly.com&alpn=h2#𝗝𝗼𝗶𝗻➠@V2RAYNG_IP
+vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&host=c12.com&fp=chrome&type=ws&sni=ssl.fastly.com#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
+vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ICV2RAY
