@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://8a6729c4-81d4-4b05-8747-3fffc17b6a64@jush.sukario.ir:443?encryption=none&type=ws&security=tls&path=/mashdi&host=KxUkNaDj13.mUlTiCuT.BoNd&sni=KxUkNaDj13.mUlTiCuT.BoNd&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#@EVAY_VPN 5
+vless://8ac637bf-554e-4902-94d7-baf01780a83c@94.241.174.157:40443?security=reality&encryption=none&pbk=mM33xyzf1GPaU2CQXAGYoGkTuYzEZRYT6S-NngyqfHQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=beb4#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 vless://8ad85ca5-7572-4ee7-8a42-a2e5c9a0e479@emirates-sgood.wopd.butnorwa.butter.silicore.ir:10000?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&sid=cd0a1986719e44c8&type=tcp&headerType=none#🇦🇪 AE
 vless://8aeda8e3-dd32-4071-bcbb-f793e646eb13@soskeynets.panel11.ru:443?security=reality&flow=xtls-rprx-vision&sni=fin1.panel11.ru&fp=chrome&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&sid=aaec521b22bbe6cb#🇫🇮139905 | ⚡️Telegram = t.me/SOSkeyNET
 vless://8b54a46a-e66b-48cc-bf5a-88f0855a3598@plll.banibus.ir:8118/?type=tcp&encryption=none&flow=&sni=play.googleapis.com&fp=chrome&security=reality&pbk=LjAkLizwkZf35ObrUMFZ22UHXTEJzpgcTvHk9AuzcUM&sid=#嘎
@@ -501,5 +503,3 @@ vless://Telegram:@Free_VPN_CH@185.156.19.8:2096?encryption=none&security=tls&sni
 vless://Telegram:@Free_VPN_CH@185.156.19.8:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@185.207.197.8:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@185.233.82.86:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
-vless://Telegram:@Free_VPN_CH@185.7.240.8:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
-vless://Telegram:@Free_VPN_CH@193.124.225.148:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
