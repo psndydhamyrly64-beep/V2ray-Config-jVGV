@@ -15,9 +15,9 @@ trojan://M%49TIVPN@199.232.78.160:443?path=mehrosaboram&security=tls&alpn=http%2
 vless://783c7211-5349-4c26-8f8f-85f0f4c93ae8@88.99.125.243:15036?security=&encryption=none&headerType=&type=tcp#Server%2016
 vless://b775630e-1386-44a6-9d89-61d029d4b5ab@91.98.102.240:42718?security=&encryption=none&headerType=&type=tcp#Server%2023
 vless://d005cde6-263f-48ac-8b13-74ebf7f3f8ef@91.98.96.59:40017?security=&encryption=none&headerType=&type=tcp#Server%20141
-vless://45933928-a410-4206-bd59-01016da08817@88.99.125.243:80?path=%2F&security=&encryption=none&type=ws#Server%201
 vless://8ee5577f-9dd0-4a10-a4ec-6293a24b61df@91.98.102.240:80?path=%2F&security=&encryption=none&type=ws#Server%2051
 vless://35a6c37b-5df7-4d7f-b338-f9092d3be2e9@91.98.96.59:80?path=%2F&security=&encryption=none&type=ws#Server%2062
+vless://e4371581-c418-4770-b09a-d630f18290a6@194.59.245.250:40443?security=reality&encryption=none&pbk=WFvn-RRJzpt2qV4xwj_R93gDr6dduIjkQKO3De3Y2Hc&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=5d96#Channel%20%3A%20%40Daily_Configs%20
 trojan://humanity@8.47.69.0:443?alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&type=ws#%F0%9F%94%A588@oneclickvpnkeys
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net
 trojan://humanity@8.47.69.0:443?alpn=http%2F1.1&fp=chrome&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&type=ws#%E2%9C%8561@oneclickvpnkeys
