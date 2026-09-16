@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?encryption=none&security=none&type=ws&path=/#🇳🇱 NL
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?encryption=none&security=none&type=ws&path=/#🇺🇳 UN
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=/&security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&type=ws&sni=85.17.145.65#configprxy
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=/&security=none&encryption=none&host=mypanel.unixzone.us&type=ws&sni=mypanel.unixzone.us#🇳🇱 | 3
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=/&security=none&encryption=none&type=ws#@configprxy
@@ -503,3 +501,5 @@ vless://15150c26-7e7f-42a7-8e7a-d0b9ab359214@shadow.mikikoo.com:2087?mode=gun&se
 vless://15553b23-a621-4dfd-995e-2fe28d124526@193.25.216.175:18555?security=reality&encryption=none&pbk=aFbCyrLOre-V3ORpBjqenGfDt62Ng_i1sSq-DmZHVgc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=89e0494514ec#@VConfing
 vless://15553b23-a621-4dfd-995e-2fe28d124526@193.25.216.175:18555?security=reality&encryption=none&pbk=aFbCyrLOre-V3ORpBjqenGfDt62Ng_i1sSq-DmZHVgc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=89e0494514ec#@tootffarangi🍓-12
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#@hopev2ray❤️
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@87.228.122.108:4100?path=/v1&security=none&encryption=none&type=ws#@hopev2ray🤎
+vless://156ff3c8-4578-4fcf-82be-ddc792d98928@104.194.149.180:8443?encryption=none&security=reality&sni=www.sony.com&fp=chrome&pbk=Vktj1xTermYXMcgW4MwH0mpCdOCE2JeZLvKWbXy0YkY&sid=ffb43069c9bb&spx=/ovLJBaau0eWJ1e1&type=tcp&headerType=none#@Daily_Configs : کانال تلگرام

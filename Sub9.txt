@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@31.220.86.213:443?mode=auto&path=/&security=reality&encryption=none&pbk=VHidBoU58xA5kEh8pmXf0gQYzvz-KVH9-XAuM4TrMUs&host=status.play.google.com&fp=chrome&spx=/&type=xhttp&sni=status.play.google.com&sid=49bcf0de6392f0#@v2rayng3
-vless://74f73fb2-49cc-4744-bd37-97c5f83963ab@31.77.220.152:5015?security=reality&encryption=none&pbk=-6SjfnZXAYm69euKQ3XNhq0nC7No7YE4qfdc2qx0Xwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=special.aeternavpn.space&sid=a1b2c3d4#@Shh_Proxy-New²
 vless://74f73fb2-49cc-4744-bd37-97c5f83963ab@31.77.220.163:13443?security=reality&encryption=none&pbk=oo5V9WHh_7YUFrbq0yQC19FYbq9kKf1ig1-IiLXvbHk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kinopoisk.ru&sid=a1b2c3d4#@Shh_Proxy-New⁵
 vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@159.195.244.37:2054/?type=grpc&encryption=none&flow=&serviceName=grpc-tunnel&sni=www.ibm.com&fp=chrome&security=reality&pbk=l6_Nvc_H8uxGpNI3j3MxqlRoPBs313ENeVM4K3uP9BQ&sid=&packetEncoding=xudp#德国
 vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@212.87.190.62:2054/?type=grpc&encryption=none&flow=&serviceName=grpc-tunnel&sni=dl.google.com&fp=chrome&security=reality&pbk=Ojwlyprfyf5D1an18CW4gwbHOWzHhKZ7Tq9F_W6-EUY&sid=&packetEncoding=xudp#乌克兰
@@ -503,3 +501,5 @@ vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.253:443?security=realit
 vless://8cc8bedd-5103-4d22-a79c-a88f1160055a@172.67.187.219:8880?encryption=none&security=none&sni=red-unit-60bc.165-1dd.workers.dev&type=ws&host=red-unit-60bc.165-1dd.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#[ 🇨🇦 ] | @Cfox_SerVer
 vless://8d0a82ca-41cf-4661-a9d7-ea2e192c5f64@144.225.65.166:26109?security=reality&encryption=none&pbk=0EgMUSL26mD_WAqkFmwMXXWSoWRthDKePFxCvfyu3CU&headerType=&fp=chrome&spx=/randmo&type=tcp&sni=amp-api-edge.apps.apple.com#⚡️ KURDNET | کرد نت
 vless://8d1a1b09-12d6-4b76-82f0-893cc805d9c0@46.173.25.146:443?security=reality&encryption=none&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.crunch-crunch.com&sid=ea1058117be12087#@v2ray313 کانالمون ❤️
+vless://8d1e0577-bfcb-4cbd-91c0-1f8788d4ba44@sg10.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=rJ-aDop3jUC-FzyETfI2uDSXQ659PFlehr7XWm5Cm0A&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=fe1a104caf309f5a#@leviconfigs🪐-16
+vless://8d1fac7b-690b-420f-955e-d7e9900561a1@spd-spd.team-pluss.com:8080?encryption=none&security=reality&sni=the.world.of.the.champions.retrovip.net&fp=chrome&pbk=a31ZnQOsnWUJq5bSLVWIeuGJZFPE52NidulBT5CV_z4&sid=8d9419e9&spx=/826e26d252ebd72&type=tcp&headerType=none#SpdNet 🇳🇱

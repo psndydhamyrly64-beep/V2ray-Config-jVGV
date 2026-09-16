@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://534cbbe2-cc36-4f2d-8fb0-90410e7148c9@147.45.145.127:443?security=reality&encryption=none&pbk=tWRR3W8jBAQKBUujLzL7Xri3WXy3F08OxHYrkSOnlAc&headerType=none&type=tcp&sni=yahoo.com&sid=52a6#@hex_proxy ³
-vless://53db939c-e1d5-9d83-d14b-8e3cf179c2f0@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/53db939c-e1d5-9d83-d14b-8e3cf179c2f0#106
 vless://53ddec73-b079-d2d5-6093-caadd20f28de@69.46.46.28:443?path=/ws/53ddec73-b079-d2d5-6093-caadd20f28de&security=tls&alpn=http/1.1&encryption=none&host=arctic-meadow-4a13-production.up.railway.app&fp=chrome&type=ws&sni=arctic-meadow-4a13-production.up.railway.app#² 🇩🇪 @V2ngFast
 vless://53ffd172-de4c-002f-aa77-1a6830a36cf8@84.38.187.134:443?mode=auto&path=/repository&security=reality&encryption=none&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&fp=chrome&type=xhttp&sni=git.xpkg.ru&sid=2c9431dc7a306018#@EXPRESSVPN_420
 vless://53ffd172-de4c-002f-aa77-1a6830a36cf8@84.38.187.134:443?mode=auto&path=/repository&security=reality&encryption=none&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&fp=chrome&type=xhttp&sni=git.xpkg.ru&sid=2c9431dc7a306018#@appsooner کانال تلگرام 🕊️
@@ -503,3 +501,5 @@ vless://7493883f-6047-46a7-8d95-f59e137ffaec@190.93.245.176:443?path=/?TELEGRAM-
 vless://74a025dd-c287-4acf-a5fb-e573e10feef9@cdn-cloudflare455.korvexe.ir:2095?path=/&security=none&encryption=none&host=cdn-cloudflare455.korvexe.ir&type=httpupgrade#🇨🇦139760 | ⚡️Telegram = t.me/SOSkeyNET
 vless://74a0d4f2-8eaa-4a4f-8b63-48880a8522ad@104.17.108.69:443/?type=ws&encryption=none&flow=&host=gamingss.xorilo.ir&path=/ws-vlees&security=tls&sni=gamingss.xorilo.ir&alpn=h2http/1.1#@Vpn_Mafia
 vless://74e72f14-f4f0-4df3-a92a-65de2a3e074e@185.147.127.110:17898?security=&encryption=none&headerType=none&type=tcp#@MyVless
+vless://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@31.220.86.213:443?mode=auto&path=/&security=reality&encryption=none&pbk=VHidBoU58xA5kEh8pmXf0gQYzvz-KVH9-XAuM4TrMUs&host=status.play.google.com&fp=chrome&spx=/&type=xhttp&sni=status.play.google.com&sid=49bcf0de6392f0#@v2rayng3
+vless://74f73fb2-49cc-4744-bd37-97c5f83963ab@31.77.220.152:5015?security=reality&encryption=none&pbk=-6SjfnZXAYm69euKQ3XNhq0nC7No7YE4qfdc2qx0Xwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=special.aeternavpn.space&sid=a1b2c3d4#@Shh_Proxy-New²
