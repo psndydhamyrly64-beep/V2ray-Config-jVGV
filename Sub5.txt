@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1577b744-8004-4eef-862c-8cae0cd27ab9@de-1.starsping.com:443?mode=auto&path=/&security=reality&encryption=none&pbk=ZBv1jOEHziWtQQoThg63_1gm4zIPyk_cfVmNJ1SOZSk&fp=chrome&type=xhttp&sni=play.google.com&sid=a88550765b9956ee#@FarazV2ray
 vless://1577b744-8004-4eef-862c-8cae0cd27ab9@de-1.starsping.com:443?mode=auto&path=/&security=reality&encryption=none&pbk=ZBv1jOEHziWtQQoThg63_1gm4zIPyk_cfVmNJ1SOZSk&fp=chrome&type=xhttp&sni=play.google.com&sid=a88550765b9956ee#@ICV2RAY
 vless://1577b744-8004-4eef-862c-8cae0cd27ab9@de-1.starsping.com:443?mode=auto&path=/&security=reality&encryption=none&pbk=ZBv1jOEHziWtQQoThg63_1gm4zIPyk_cfVmNJ1SOZSk&fp=chrome&type=xhttp&sni=play.google.com&sid=a88550765b9956ee#@V2raySaman
 vless://1577b744-8004-4eef-862c-8cae0cd27ab9@de-1.starsping.com:443?mode=auto&path=/&security=reality&encryption=none&pbk=ZBv1jOEHziWtQQoThg63_1gm4zIPyk_cfVmNJ1SOZSk&fp=chrome&type=xhttp&sni=play.google.com&sid=a88550765b9956ee#@V2ray_Alpha🚊 7
@@ -503,3 +502,4 @@ vless://2e050832-ad53-42ba-9fd3-cec1f74cb626@ac391083a2467acb.neshatinjafood.ir:
 vless://2e050832-ad53-42ba-9fd3-cec1f74cb626@e607890ef11ddc8a.rainzone.ir:8735?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com&sid=1bfe954cb07fb70a#✈️ @FreeConfigForYou
 vless://2e050832-ad53-42ba-9fd3-cec1f74cb626@tur.crocodil.ir:8735?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com&sid=c077229044b68285#✈️ @FreeConfigForYou
 vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@104.21.51.196:8443?path=/&security=tls&encryption=none&insecure=0&host=ad-005.zen2bswa.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-005.zen2bswa.info#@hopev2ray🤍
+vless://2e274cd1-3e74-4505-a878-590088561b60@media-dan1.team-pluss.ir:12345?security=reality&alpn=h3,h2,http/1.1&encryption=none&pbk=1N8CIM6v_TgbIDNneyEPNQ92hyq5Eyh_irJWOXKDBDw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheets.google.com&sid=2b368990a94e8cbb#@Shh_Proxy-New⁴
