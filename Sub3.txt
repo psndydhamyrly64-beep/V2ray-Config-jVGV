@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@188.114.97.6:443?security=tls&type=ws&host=www.pleadcourt.org&path=/assignment&sni=www.pleadcourt.org&alpn=http/1.1&fp=unsafe&cs=TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}#[ 🇨🇦 ] | @Cfox_SerVer
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@meliproxyy
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@FarazV2ray
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@IRAN_V2RAY1 🌟
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@V2raySaman
@@ -503,3 +501,5 @@ vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@167.233.219.201:443?encryption=none
 vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@167.233.219.201:443?mode=auto&path=/api/v3/stream/&security=tls&alpn=h2&encryption=none&host=Telegram-Leviko_v2ray&type=xhttp&sni=fsn1.nordlinkcloud.com#🇨🇦 direct
 vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@167.233.219.201:443?mode=auto&path=/api/v3/stream/&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=fsn1.nordlinkcloud.com#🇩🇪 | 3
 vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@65.109.238.140:443?encryption=none&security=tls&sni=hel1.nordlinkcloud.com&alpn=h2&type=xhttp&path=/api/v3/stream/#🇫🇮FI_231_@Surfboardv2ray
+vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@65.109.238.140:443?encryption=none&security=tls&sni=hel1.nordlinkcloud.com&alpn=h2&type=xhttp&path=/api/v3/stream/&mode=auto#🇫🇮FI_312_@Surfboardv2ray
+vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@65.109.238.140:443?mode=auto&path=/api/v3/stream/&security=tls&alpn=h2&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=hel1.nordlinkcloud.com#@Nexus_Panell چنل تلگرام
