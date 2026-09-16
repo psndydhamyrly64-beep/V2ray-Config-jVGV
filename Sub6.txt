@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://291a1ec4-b722-45d8-925c-99df5196d6b2@65.109.219.253:9093?encryption=none&headerType=http&host=play-apps-features.googleusercontent.com&path=/@Nap_v2ray&security=none&type=tcp#🇫🇮173048 | ⚡️Telegram = t.me/SOSkeyNET
 vless://291a1ec4-b722-45d8-925c-99df5196d6b2@65.109.219.253:9093?encryption=none&headerType=http&host=play-apps-features.googleusercontent.com&path=/@VPNine1&security=none&type=tcp#🇫🇮FI-🚀@VPNine1
 vless://291a1ec4-b722-45d8-925c-99df5196d6b2@65.109.219.253:9093?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@tootffarangi🍓-1
 vless://29662c1f-2478-4556-a9a3-b12a6a66e148@mci.sulduz.pw:2174?security=&encryption=none&host=filimo.com&headerType=http&type=tcp#🇮🇷139837 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +502,4 @@ vless://3b9e513e-30d9-4ca8-8340-8f33fc6710de@188.132.237.20:2095?security=none&e
 vless://3b9e513e-30d9-4ca8-8340-8f33fc6710de@188.132.237.20:2095?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
 vless://3ba36a4e-9542-43d3-85c1-9f0177972231@45.131.212.62:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi.sellflow.org&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&packetEncoding=xudp#法国
 vless://3bcb31ef-840e-415d-abb3-28628add98d0@109.169.84.94:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=strapi.io&fp=chrome&pbk=vvpu_ljhBuTWmM9w5Hl6jj8ZTiE_JYq29S77zNDeCjQ&sid=ff6975658b6cefce&type=tcp&headerType=none#🇬🇧 GB
+vless://3bd2eb83-ca98-4b03-bdf7-bbf6d33d0abd@bounded-crammed.video-streams.org:443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=bounded-crammed.video-streams.org&fp=chrome&type=ws&allowInsecure=0&sni=bounded-crammed.video-streams.org#@Shh_Proxy-New⁶
