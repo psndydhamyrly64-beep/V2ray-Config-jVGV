@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://55ed97fc-77d1-4802-baf3-acef70776331@yt.orpheous.ru:443?security=reality&encryption=none&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.orpheous.ru&sid=e4aa362b5f9d07d7#‎🛰️ @EXPRESSVPN_420
 vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#TEL;Father_vpn
 vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#TEL;Father_vpn
 vless://560c46be-d15d-4083-8fb5-c7ad5f4f24fd@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
@@ -503,3 +502,4 @@ vless://69d8dc73-20ff-4241-bdd8-a9d6d07553b6@91.107.179.8:15003?security=none&en
 vless://69d8dc73-20ff-4241-bdd8-a9d6d07553b6@91.107.179.8:15003?security=none&encryption=none&headerType=none&type=tcp#Free x234 @Outline_Vpn
 vless://69d8dc73-20ff-4241-bdd8-a9d6d07553b6@w2.beraghsadevs.ir:15003?encryption=none&security=none&type=tcp&headerType=none&host=cdn-apple.com#🇩🇪 DE
 vless://6a7a3212-09c4-f25e-6fd3-82cb873c2248@69.46.46.25:443?path=/ws/6a7a3212-09c4-f25e-6fd3-82cb873c2248&security=tls&alpn=http/1.1&encryption=none&host=quartz-glacier-0ede-production.up.railway.app&fp=chrome&type=ws&sni=quartz-glacier-0ede-production.up.railway.app#🇩🇪 @V2ngFast
+vless://6aa028bc-08a9-41d1-a397-d60ce65df081@support.zoom.us:80?security=none&type=ws&path=/shalana&host=shalana.xyz&sni=shalana.xyz#[057835] - 🇺🇸 United States | ⚡️ 49.74ms | @freenettir

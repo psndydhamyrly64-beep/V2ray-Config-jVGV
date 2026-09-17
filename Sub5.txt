@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#Telegram:@v2rayng3
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@soskeynets.lotussec.com:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&host=static.lotussec.com&fp=chrome&type=xhttp&sni=static.lotussec.com#🇩🇪139897 | ⚡️Telegram = t.me/SOSkeyNET
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443/?type=xhttp&encryption=none&flow=&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome#تو کانال نتورلد نباشید قطع میشن@networld_vpn
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&fp=chrome&alpn=h2&type=xhttp&path=/Join-JavidnamanIran-on-Telegram&mode=stream-one#Channel: @Daily_Configs
@@ -503,3 +502,4 @@ vless://29ca503d-e6b8-4509-b666-48133f450857@soskeynets.levikogjgfdd.ir:443?path
 vless://29e577fa-7019-0da3-520a-d845cf081c7c@x4g-production-a10a.up.railway.app:443?path=/ws/29e577fa-7019-0da3-520a-d845cf081c7c&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-a10a.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-a10a.up.railway.app#🇺🇸173816 | ⚡️Telegram = t.me/SOSkeyNET
 vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.217:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&security=reality&sni=kind-wolf.cdn.cachefleet.com&type=tcp#🇧🇪139840 | ⚡️Telegram = t.me/SOSkeyNET
 vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.217:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bold-kestrel.cdn.cachefleet.com#@NOFiLTERING2🇩🇪
+vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.217:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kind-wolf.cdn.cachefleet.com#🇧🇪139839 | ⚡️Telegram = t.me/SOSkeyNET
