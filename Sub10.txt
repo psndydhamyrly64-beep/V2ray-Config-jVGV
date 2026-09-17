@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8b84bbec-9a55-47c2-ac2e-03c41065e572@140.82.34.114:25585?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
 vless://8b84bbec-9a55-47c2-ac2e-03c41065e572@140.82.34.114:25585?security=none&encryption=none&headerType=none&type=tcp#Free x289 @Outline_Vpnx269
 vless://8b84bbec-9a55-47c2-ac2e-03c41065e572@140.82.34.114:25585?security=none&encryption=none&headerType=none&type=tcp#Tel-@ProxyMtAlpha🐘 2
 vless://8b84bbec-9a55-47c2-ac2e-03c41065e572@140.82.34.114:25585?security=none&encryption=none&headerType=none&type=tcp#Tel-@ProxyMtAlpha🫑 2
@@ -503,3 +502,4 @@ vless://XpnTeam-9@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryptio
 vless://XpnTeam-9@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://[V2XNET]@151.101.56.11:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=imcreeprd06.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#@𝐕𝟐𝐗𝐍𝐄𝐓
 vless://_id_telegram_MimiTdi@188.130.207.202:443?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#VPN @MimiTdl 🔥⚡
+vless://a05f8278-d521-4652-bfb9-2b8dbe6b3102@a2.hamrahnode.ir:2053?path=/&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=op2.x-upload.org#@TanhaNet
