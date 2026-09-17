@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6b59b451-7b43-4dde-ba9e-7c07bf8b4c85@play.irangmagerhup.ir:8443?security=reality&encryption=none&pbk=uGI2QOnvZSrrR3P4LaN9yIY1J09Bs-pNOaA3jJUXYj8&headerType=&fp=chrome&spx=/e2256287cb9e504&type=tcp&sni=donanimhaber.com&sid=e3484c92cbaa9e42#@filembad
 vless://6b59b451-7b43-4dde-ba9e-7c07bf8b4c85@play.irangmagerhup.ir:8443?security=reality&encryption=none&pbk=uGI2QOnvZSrrR3P4LaN9yIY1J09Bs-pNOaA3jJUXYj8&headerType=&fp=chrome&spx=/e2256287cb9e504&type=tcp&sni=donanimhaber.com&sid=e3484c92cbaa9e42#[ 🇹🇷 ] | @Cfox_SerVer
 vless://6b59b451-7b43-4dde-ba9e-7c07bf8b4c85@play.irangmagerhup.ir:8443?security=reality&encryption=none&pbk=uGI2QOnvZSrrR3P4LaN9yIY1J09Bs-pNOaA3jJUXYj8&headerType=&fp=chrome&spx=/e2256287cb9e504&type=tcp&sni=donanimhaber.com&sid=e3484c92cbaa9e42#🔵@chillguy_vpn
 vless://6b59b451-7b43-4dde-ba9e-7c07bf8b4c85@uplin.pvcz.ir:443?path=/guide/appnews/newsupdate?ed=2560&security=tls&alpn=h2&encryption=none&insecure=0&host=trtech.pvcz.ir&fp=chrome&type=ws&allowInsecure=0&sni=trtech.pvcz.ir#🇹🇷TR-🚀@VPNine1
@@ -503,3 +502,4 @@ vless://8b84bbec-9a55-47c2-ac2e-03c41065e572@140.82.34.114:25585?security=none&e
 vless://8b84bbec-9a55-47c2-ac2e-03c41065e572@140.82.34.114:25585?security=none&encryption=none&headerType=none&type=tcp#✅ t.me/bigAVPN ایران آزاد 👑
 vless://8b84bbec-9a55-47c2-ac2e-03c41065e572@140.82.34.114:25585?security=none&encryption=none&headerType=none&type=tcp#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
 vless://8b84bbec-9a55-47c2-ac2e-03c41065e572@78.141.221.126:25585?encryption=none&type=tcp&headerType=none&security=none#𝗝𝗼𝗶𝗻➠@V2RAYNG_IP⭐️
+vless://8b8d9dd7-bfa2-4823-8c20-de837dbab732@176.65.151.67:10852?security=&encryption=none&headerType=&type=kcp#⚡️ KURDNET | کورد نت

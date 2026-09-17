@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2ab04aa0-5f28-432f-96c7-d168d09973d8@103.21.244.255:80?encryption=none&security=none&type=ws&host=hidden-river-df80-ppal03.bewome9099.workers.dev&path=/?ed=2560#😎Tel: @pPal03😎Join Telegram😎
 vless://2ab04aa0-5f28-432f-96c7-d168d09973d8@104.16.38.60:80?encryption=none&security=none&type=ws&host=hidden-river-df80-ppal03.bewome9099.workers.dev&path=/?ed=2560#😎Tel: @pPal03😎Join Telegram😎
 vless://2acde116-5949-48d8-a1e6-60a1d2547deb@104.24.152.211:8880?type=ws&host=lively-pine-093d.144-868.workers.dev#🇨🇦173857 | ⚡️Telegram = t.me/SOSkeyNET
 vless://2acde116-5949-48d8-a1e6-60a1d2547deb@104.24.152.211:8880?type=ws&host=lively-pine-093d.144-868.workers.dev#🚀@VPNine1
@@ -503,3 +502,4 @@ vless://3ed76962-2a7a-4d3f-cb64-1f4e67f87314@51.79.29.205:55368?encryption=none&
 vless://3ef5d571-222d-4d47-8471-3cd01908ac93@api-759bce-95564413abnm.rezasubjack.ir:43149?path=/&security=&encryption=mlkem768x25519plus.native.0rtt.kAgAJXQliKgk6l5CzJAIhG1pKstiqTj6uuSAfhl_QRA&type=ws#@ICV2RAY
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#channel : @freedomofinfor
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#TEL;Father_vpn
+vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 @GozargahVPN
