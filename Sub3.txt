@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@104.21.13.204:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦TM(@Azarbayjab1)
 trojan://humanity@104.21.46.3:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@i10VPN⁵
 trojan://humanity@104.21.46.3:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Channel id: @ConfigV2RayNG 🇺🇸
 trojan://humanity@104.21.46.3:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[058123] - 🇨🇦 Canada | ⚡️ 74.04ms | @freenettir
@@ -502,4 +503,3 @@ vless://02722550-1915-4629-a653-cbe95e594f70@mst1ndch.goonars.com:443?flow=xtls-
 vless://02722550-1915-4629-a653-cbe95e594f70@nid3ch.betust.net:443?security=reality&encryption=none&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=apiv13.betust.net&sid=ef5d4ad5#@fastkanfig
 vless://02722550-1915-4629-a653-cbe95e594f70@nid3ch.betust.net:443?security=reality&encryption=none&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=apiv13.betust.net&sid=ef5d4ad5#Free x263 @Outline_Vpn
 vless://02722550-1915-4629-a653-cbe95e594f70@nid3ch.betust.net:443?security=reality&encryption=none&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apiv13.betust.net&sid=ef5d4ad5#Free x262 @Outline_Vpn
-vless://028f3908-8885-4f06-ba95-777a435074bd@gr-irancell.xelfona.ir:20018?encryption=none&security=none&type=tcp&headerType=http&host=play-apps-features.googleusercontent.com#🇩🇪All⁴ | @BigSmoke_Config
