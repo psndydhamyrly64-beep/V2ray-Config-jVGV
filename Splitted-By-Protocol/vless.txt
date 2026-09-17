@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.45.85:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#Server%20187
-vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.86.165:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#Server%20121
 vless://0480039e-2e85-49e4-9087-ba85e738851a@93.152.220.23:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl-3.it-crp.ru&sid=a1b2c3d4b5#%40FarazV2ray
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&fp=firefox&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#%40V2rayng_Fast%20%F0%9F%87%A7%F0%9F%87%B7
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@files.noneok.com:443?mode=gun&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&fp=firefox&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#Server%2050

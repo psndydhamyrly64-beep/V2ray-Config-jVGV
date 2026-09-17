@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.171.238:22222?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.171.238:22223?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.171.238:22224?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.182.161:22222?security=none&encryption=none&headerType=none&type=tcp#Tel-@ProxyMtAlpha🫑 9
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.182.161:22224?security=none&encryption=none&headerType=none&type=tcp#Tel-@ProxyMtAlpha🫑 3
@@ -503,3 +501,5 @@ vless://f25ee01c-7901-4fec-a582-699132749f14@soskeynets-production.up.railway.ap
 vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?encryption=none&security=none&type=grpc&authority=&serviceName=chat.deepseek.com&mode=gun#🇩🇪DE_4188_@Surfboardv2ray
 vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?encryption=none&security=none&type=grpc&authority=&serviceName=chat.deepseek.com&mode=gun#🇩🇪DE_4213_@Surfboardv2ray
 vless://f2900749-7cff-42b7-9566-dfb03840d374@any.zavqeron.ir:2053?path=/de1-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=any.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️📶‎🛰️555🌐🆕️
+vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?path=/fi-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=land.zavqeron.ir&fp=chrome&type=ws&sni=zavqeron.ir#@v2ray_phoenix
+vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?path=/fi-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=land.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#@IRAN_V2RAY1 🌟

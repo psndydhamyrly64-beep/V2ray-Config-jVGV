@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8b84bbec-9a55-47c2-ac2e-03c41065e572@140.82.34.114:25585?security=none&encryption=none&headerType=none&type=tcp#✅ t.me/bigAVPN ایران آزاد 👑
-vless://8b84bbec-9a55-47c2-ac2e-03c41065e572@140.82.34.114:25585?security=none&encryption=none&headerType=none&type=tcp#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
 vless://8b84bbec-9a55-47c2-ac2e-03c41065e572@78.141.221.126:25585?encryption=none&type=tcp&headerType=none&security=none#𝗝𝗼𝗶𝗻➠@V2RAYNG_IP⭐️
 vless://8b8d9dd7-bfa2-4823-8c20-de837dbab732@176.65.151.67:10852?security=&encryption=none&headerType=&type=kcp#⚡️ KURDNET | کورد نت
 vless://8b8dcca7-39f6-47ed-90ac-597eb3b206ee@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram : @BinexTiFy 🇩🇪
@@ -503,3 +501,5 @@ vless://a05f8278-d521-4652-bfb9-2b8dbe6b3102@a2.hamrahnode.ir:2053?path=/&securi
 vless://a09315ec-97b2-e8b6-a72d-e5a09585d140@69.46.46.26:443?path=/ws/a09315ec-97b2-e8b6-a72d-e5a09585d140&security=tls&alpn=http/1.1&encryption=none&host=hidden-harbor-2872-production.up.railway.app&fp=chrome&type=ws&sni=hidden-harbor-2872-production.up.railway.app#🇩🇪 @V2ngFast
 vless://a0ba4d1e-60e7-4362-8f82-33da87da8e88@167.233.227.12:35443?security=reality&encryption=none&pbk=fu6E7KRYZT4vs4EoWdDiyH3tL8n4eD8M4TveOvpvNmE&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=chrome&spx=/26efcddfd88f6bc&type=tcp&sni=amp-api-edge.apps.apple.com&sid=bd2e4421#@configprxy
 vless://a0ba4d1e-60e7-4362-8f82-33da87da8e88@167.233.227.12:35443?security=reality&encryption=none&pbk=fu6E7KRYZT4vs4EoWdDiyH3tL8n4eD8M4TveOvpvNmE&host=/?TELEGRAM@MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/26efcddfd88f6bc&type=tcp&sni=amp-api-edge.apps.apple.com&sid=bd2e4421#✨ @NOFiLTERING2 | ❤️ وصل شدی جوین شو | ⚡ | 🇩🇪
+vless://a0e4f9cd-2602-b061-9c64-00115f6f7fc7@69.46.46.109:443?path=/ws/a0e4f9cd-2602-b061-9c64-00115f6f7fc7&security=tls&alpn=h2&encryption=none&host=cedar-meadow-acc4-production.up.railway.app&fp=chrome&type=ws&sni=cedar-meadow-acc4-production.up.railway.app#All Operators @MaSTeRSeRVeR1
+vless://a0fe052d-6ca1-4a9c-b626-7ecf78f386cb@108.162.194.165:2086?path=/&security=&encryption=none&host=arshia.lezzatArshia.ir&type=httpupgrade#Arshiavpn12
