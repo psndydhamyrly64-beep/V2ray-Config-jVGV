@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cf63446e-f6b7-4d34-b7ed-d8648eeed0f7@cf.0sm.com:443?encryption=none&security=tls&sni=vps.181110.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vps.181110.xyz&path=/cf63446e-vl#🇺🇸 美国 CNServer 25
-vless://cf63446e-f6b7-4d34-b7ed-d8648eeed0f7@cfip.1323123.xyz:443?encryption=none&security=tls&sni=vps.181110.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vps.181110.xyz&path=/cf63446e-vl#🇺🇸 美国 CNServer 17
 vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@116.202.19.249:443?encryption=none&headerType=http&host=store.steampowered.com&path=/&security=none&type=tcp#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@116.202.19.249:443?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#@V2ray_Alpha🥶 1
 vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@46.224.165.114:443?encryption=none&headerType=http&host=store.steampowered.com&path=/&security=none&type=tcp#🐒9@oneclickvpnkeys
@@ -503,3 +501,5 @@ vless://e14abf99-8718-ca16-ce8a-4fe7d9ea50d5@69.46.46.31:443?path=/ws/e14abf99-8
 vless://e15b340b-f1c8-4974-bfca-edc788959f24@49.13.19.156:28110?security=none&encryption=none&host=www.google.com&headerType=http&type=tcp#🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆: @v2ryNG01
 vless://e1dde74e-3439-ac43-2007-0fa078a4756a@69.46.46.101:443?path=/ws/e1dde74e-3439-ac43-2007-0fa078a4756a&security=tls&alpn=http/1.1&encryption=none&host=willow-heron-f3a9-production.up.railway.app&fp=chrome&type=ws&sni=willow-heron-f3a9-production.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://e2088306-8c10-4100-b775-747011c39c65@31.76.27.32:8443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=Pxqqq-cbFslG1Wla5VAcqPBCpNJbwH1O3IyKQ45uD0M&sid=99115a&type=tcp&headerType=none#@V2ray_confiig
+vless://e2088306-8c10-4100-b775-747011c39c65@31.76.27.32:8443?security=reality&encryption=none&pbk=Pxqqq-cbFslG1Wla5VAcqPBCpNJbwH1O3IyKQ45uD0M&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=99115a#کانال تلگرام @fastkanfig
+vless://e2428398-f4d6-4df8-88a3-242a688cb7dc@69.46.46.22:443?path=/ws/e2428398-f4d6-4df8-88a3-242a688cb7dc&security=tls&alpn=http/1.1&encryption=none&host=violet-current-7f75-production.up.railway.app&fp=chrome&type=ws&sni=violet-current-7f75-production.up.railway.app#🇩🇪 @V2ngFast

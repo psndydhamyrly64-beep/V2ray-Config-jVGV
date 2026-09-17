@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?encryption=none&security=tls&sni=static.lotussec.com&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=static.lotussec.com&path=/Join-JavidnamanIran-on-Telegram&mode=stream-one#🇩🇪139874 | ⚡️Telegram = t.me/SOSkeyNET
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#@leviconfigs🪐-11
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#Telegram:@v2rayng3
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@soskeynets.lotussec.com:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&host=static.lotussec.com&fp=chrome&type=xhttp&sni=static.lotussec.com#🇩🇪139897 | ⚡️Telegram = t.me/SOSkeyNET
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443/?type=tcp&encryption=none&flow=&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome#نتورلد تو تلگرام جستجو کنید
@@ -503,3 +501,5 @@ vless://29ca503d-e6b8-4509-b666-48133f450857@soskeynets.levikogjgfdd.ir:443?path
 vless://29fb68bb-ff05-4fd4-8393-cc6c05d81a79@purple-butterfly-8496.erfannull36.workers.dev:443?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#107
 vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.217:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&security=reality&sni=kind-wolf.cdn.cachefleet.com&type=tcp#🇧🇪139840 | ⚡️Telegram = t.me/SOSkeyNET
 vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.217:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bold-kestrel.cdn.cachefleet.com#@NOFiLTERING2🇩🇪
+vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.217:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kind-wolf.cdn.cachefleet.com#🇧🇪139839 | ⚡️Telegram = t.me/SOSkeyNET
+vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?security=reality&encryption=none&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cosmic-aurora.cdn.cachefleet.com#@NOFiLTERING2🇩🇪
