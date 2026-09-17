@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@64.227.67.161:2083?allowInsecure=1&sni=cdn8848.776676.xyz&type=ws&host=cdn8848.776676.xyz&path=/members/detail/gif?ed=2560fp=chrome&security=tls#[057068] - 🇳🇱 The Netherlands | ⚡️ 32.28ms | @freenettir
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@64.227.67.161:2083?allowInsecure=1&sni=cdn8848.776676.xyz&type=ws&host=cdn8848.776676.xyz&path=/members/detail/gif?ed=2560fp=chrome&security=tls#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@79.99.31.19:2087?path=twitterfreecodes&security=tls&encryption=none&type=ws&sni=a.ssll.gay#@Hope_Net-join-us-on-Telegram
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@79.99.31.19:2087?path=twitterfreecodes&security=tls&encryption=none&type=ws&sni=a.ssll.gay#🇬🇧173582 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +502,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.219.10:22222?security=none&e
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.219.10:22222?security=none&encryption=none&headerType=none&type=tcp#[ 🇫🇷 ] | @Cfox_SerVer
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.219.10:22223?encryption=none&security=none&type=tcp#@Napsternetvirani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.219.10:22223?encryption=none&security=none&type=tcp#Telegram:@v2rayng3
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.219.10:22224?security=none&encryption=none&headerType=none&type=tcp#@v2raybaaz
