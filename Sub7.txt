@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?encryption=none&security=none&type=ws&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&path=/#🇮🇷 IR
+vless://38df5518-26c5-449b-98d9-a4f456f5f689@tun.temas-bor.ir:443?security=reality&encryption=none&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&headerType=none&fp=chrome&spx=/&type=tcp&sni=login.yahoo.com&sid=c6e19c434dc87df7#@v2rayng3
 vless://39036971-c66f-423d-b304-caf61016c1df@185.212.49.141:443?encryption=none&security=reality&type=xhttp&headerType=none&path=/NXRFqdfT74wvTrhjneowm8H2oeGhcq?ed=2560&mode=stream-up&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000","uplinkChunkSize":"0"}&sni=www.aparat.com&fp=chrome&pbk=LeoX--ZpuXko-hvIYwsWm-fKHAkxpw4qe_jKJjQbB18&sid=dbdfe84828a608#🇮🇷139880 | ⚡️Telegram = t.me/SOSkeyNET
 vless://391a01e9-b664-407b-9158-610fab3f5920@3.9.135.156:51847?security=reality&encryption=none&pbk=S6noV0L8eNASnTe1gXLutLZNdfENsvKMsOJiGQYi6nc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=0eec442e7b34d2f2#🇬🇧 | 2
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de1.fromblancwithlove.com#TEL;Father_vpn
@@ -501,5 +503,3 @@ vless://4ff70740-8c80-48ae-985f-2afe4924e908@172.64.155.209:8443?path=/sync&secu
 vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?security=reality&encryption=none&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vkvd754.okcdn.ru&sid=ef1d3554c652a436#@vmesskhodam
 vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?security=reality&encryption=none&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vkvd754.okcdn.ru&sid=ef1d3554c652a436#🇳🇱@FreakConfig
 vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?security=reality&encryption=none&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vkvd754.okcdn.ru&sid=ef1d3554c652a436#@MARAMBASHI ❤️‍🔥
-vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?security=reality&encryption=none&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vkvd754.okcdn.ru&sid=ef1d3554c652a436#@V2rayng_Fast ❤️‍🔥
-vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?sid=ef1d3554c652a436&sni=vkvd754.okcdn.ru&type=tcp&encryption=none&security=reality&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&fp=chrome&flow=xtls-rprx-vision&headerType=none#[ 🇳🇱 ] | @Cfox_SerVer
