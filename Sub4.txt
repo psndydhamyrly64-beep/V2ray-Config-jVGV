@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://059fbe5b-21dc-413f-8f5c-dac39201914c@13.114.89.187:16611/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.intel.com&fp=chrome&security=reality&pbk=cDzA5Efsd52LehcCFXh9bS3eCuj7HQZwau-yjPqLPgQ&sid=701b0c5c9dee514d&packetEncoding=xudp#日本
-vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@167.233.219.201:443?encryption=none&security=tls&sni=fsn1.nordlinkcloud.com&alpn=h2&type=xhttp&path=/api/v3/stream/&mode=auto#🇩🇪DE_274_@Surfboardv2ray
 vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@167.233.219.201:443?mode=auto&path=/api/v3/stream/&security=tls&alpn=h2&encryption=none&host=Telegram-Leviko_v2ray&type=xhttp&sni=fsn1.nordlinkcloud.com#🇨🇦 direct
 vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@167.233.219.201:443?mode=auto&path=/api/v3/stream/&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=fsn1.nordlinkcloud.com#🇩🇪 | 3
 vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@65.109.238.140:443?encryption=none&security=tls&sni=hel1.nordlinkcloud.com&alpn=h2&type=xhttp&path=/api/v3/stream/#🇫🇮FI_231_@Surfboardv2ray
@@ -503,3 +501,5 @@ vless://14eb2c19-89ba-4a10-bd52-cbf6a5f5cae0@194.110.207.48:443/?type=tcp&encryp
 vless://14eb2c19-89ba-4a10-bd52-cbf6a5f5cae0@194.110.207.48:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kibi-institut.de&sid=fd55b698ee8c3629#@confiig_hub
 vless://14eb2c19-89ba-4a10-bd52-cbf6a5f5cae0@194.110.207.48:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kibi-institut.de&sid=fd55b698ee8c3629#@v2ray313 کانالمون 💕
 vless://14f493a7-242a-4add-8413-cecc063b3ce3@130.185.123.32:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#@leviconfigs🪐-6
+vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@46.254.19.179:8443?mode=gun&security=reality&encryption=none&pbk=aXRkGuTaLQILSXsgyi79AcsxLPFhUXUKMTVExG6bmi8&fp=chrome&type=grpc&serviceName=ns&sni=id.pervye.ru#@appsooner کانال تلگرام
+vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@95.85.241.209:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#@confing_v2rayy کانفینگ بیشتر در چنل 👈
