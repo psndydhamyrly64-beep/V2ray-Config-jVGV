@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c5694dc5-39fd-4a92-8430-3837baa522a3@88.216.57.128:443?mode=gun&security=reality&encryption=none&pbk=5en_SFrWntR3ZtxGn7_ZnnK5UW_Prh90rs-o8p7glw4&fp=chrome&type=grpc&sni=usa.superbuba.top&sid=9c2378562188c3cb#140
 vless://c5694dc5-39fd-4a92-8430-3837baa522a3@88.216.57.128:443?security=reality&encryption=none&pbk=5en_SFrWntR3ZtxGn7_ZnnK5UW_Prh90rs-o8p7glw4&fp=chrome&type=grpc&sni=usa.superbuba.top&sid=9c2378562188c3cb#🇺🇸174745 | ⚡️Telegram = t.me/SOSkeyNET
 vless://c5694dc5-39fd-4a92-8430-3837baa522a3@88.216.57.128:443?security=reality&encryption=none&pbk=5en_SFrWntR3ZtxGn7_ZnnK5UW_Prh90rs-o8p7glw4&fp=chrome&type=grpc&sni=usa.superbuba.top&sid=9c2378562188c3cb#🇺🇸174746 | ⚡️Telegram = t.me/SOSkeyNET
 vless://c5694dc5-39fd-4a92-8430-3837baa522a3@pl.bubahero.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl.bubahero.com&fp=chrome&pbk=GmZv3anSeAeHr_cMFKr-6MPLli-nyKNatnY6P3AFK00&sid=9c2378562188c3cb&type=tcp&headerType=none#@Daily_Configs
@@ -503,3 +502,4 @@ vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@103.227.84.162:443?security=reality
 vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@103.227.84.162:443?security=reality&encryption=none&pbk=OEp5OMlE08EaAunays3K7Lbd0JWKOQKZ8HXiytog4EQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de3.hat.onl&sid=e8d6c07aa30b81fa#@vasl_bashim
 vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@144.31.219.193:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=be1.hat.onl&sid=76132b3b39704c44#@v2ray313 کانالمون 😘
 vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@144.31.242.69:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dk1.hat.onl&sid=76132b3b39704c44#mtmvpn 8
+vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@144.31.242.69:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dk1.hat.onl&sid=76132b3b39704c44#@MARAMBASHI 🇹🇷
