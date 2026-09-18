@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Capoit
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@FarazV2ray
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@IRAN_V2RAY1 🌟
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@V2raySaman
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@V2raySamanbot
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@V2ray_Alpha🎪 10
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@V2ray_Alpha💈 7
@@ -503,3 +499,7 @@ vless://090e5985-bbeb-4400-8278-d3a8e9ae5d92@188.114.97.6:443?path=/pyip=ProxyIP
 vless://09548571-364e-4876-8e92-98f423e73913@a.r-o-o-t3.ir:443?security=reality&encryption=none&pbk=nA87ol2_2BADZHfXhH00wy3fNe4R8TiGG_IQbzWbPnA&host=www.linkedin.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.linkedin.com&sid=56c96c1d14#TEL:Father_vpn
 vless://095d1544-efd9-8d2f-9ea4-3f6c14bd944c@69.46.46.120:443?encryption=none&security=tls&sni=solivpn-production-3d7f.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&host=solivpn-production-3d7f.up.railway.app&path=/ws/095d1544-efd9-8d2f-9ea4-3f6c14bd944c#@Daily_Configs
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@149.210.243.176:443?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=vpn47.cc.cd&path=/#t.me/ConfigFori  -  Config 88290
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@194.76.173.6:2053?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=vpn47.cc.cd&path=/#t.me/ConfigFori  -  Config 88292
+vless://098104de-f68d-434e-adcd-2ab4d1f0759d@5.160.77.199:49429?security=reality&encryption=none&pbk=OQsVeM4sKyLRiGKO1QDfyo4C0xBJJhFB54EhFlcvzGM&host=skyroom.online&headerType=http&fp=chrome&type=tcp&path=/assets&sni=skyroom.online&sid=414b8a385e81910a#@ehsawn8-500gig
+vless://099244b9-2168-4dbd-870e-cbbe9d6eb573@172.67.65.56:2053?path=/proxyip&security=tls&encryption=none&insecure=0&host=whitecreeper.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=whitecreeper.pages.dev#215
+vless://099244b9-2168-4dbd-870e-cbbe9d6eb573@172.67.65.56:2053?path=/proxyip=ProxyIP.SG.CMLiussss.Net&security=tls&encryption=none&insecure=0&host=whitecreeper.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=whitecreeper.pages.dev#203
