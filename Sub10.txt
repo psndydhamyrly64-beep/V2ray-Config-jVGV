@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#@Ai_DueT🌐
 vless://9323430f-0c13-4cd0-a84b-639fabcbe018@89.208.113.65:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fr.plombir.me&fp=chrome&security=reality&pbk=Vroc9K3YOwnMzCiCp3pkx2EtENF_cLk7GzXe_30nRVY&sid=af&packetEncoding=xudp#法国
 vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#@tootffarangi🍓-10Ir
 vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#@v2ray313 کانالمون 😯
@@ -502,4 +503,3 @@ vless://aa559aef-0db6-4d68-850f-206b6cd2079f@168.144.102.226:443?encryption=none
 vless://aa559aef-0db6-4d68-850f-206b6cd2079f@168.144.155.167:443?encryption=none&security=tls&sni=thus-k.netnode.cc.cd&fp=chrome&type=ws&host=thus-k.netnode.cc.cd&path=/t.me/daily_free_vpn#THUS-K@QiangLieTuiJian
 vless://aa559aef-0db6-4d68-850f-206b6cd2079f@168.144.36.249:443?encryption=none&security=tls&sni=thus-k.netnode.cc.cd&fp=chrome&type=ws&host=thus-k.netnode.cc.cd&path=/t.me/daily_free_vpn#THUS-K@QiangLieTuiJian
 vless://aa559aef-0db6-4d68-850f-206b6cd2079f@168.144.68.202:443?encryption=none&security=tls&sni=thus-k.netnode.cc.cd&fp=chrome&type=ws&host=thus-k.netnode.cc.cd&path=/t.me/daily_free_vpn#THUS-K@QiangLieTuiJian
-vless://aa559aef-0db6-4d68-850f-206b6cd2079f@168.93.198.95:443?encryption=none&security=tls&sni=thus-k.netnode.cc.cd&fp=chrome&type=ws&host=thus-k.netnode.cc.cd&path=/t.me/daily_free_vpn#THUS-K@QiangLieTuiJian
