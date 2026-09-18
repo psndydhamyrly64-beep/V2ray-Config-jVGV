@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d5b44b89-ca73-4b82-a494-a72054c31df3@45.195.228.198:443?security=reality&encryption=none&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&host=/?BIA_TELEGRAM@leviconfigs_leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=de8d3223e7d85761#@leviconfigs🪐-5
 vless://d65a82af-a403-405e-8b7b-27a68b830511@95.217.237.195:10210?encryption=none&fp=&pbk=twRm8a1BBdz2Q5jTuNbXxA7ZdtDPAyQNEycDYkW9DFc&security=reality&sid=13121b7150ad7fc6&sni=play-apps-features.googleusercontent.com&type=grpc#🇫🇮174895 | ⚡️Telegram = t.me/SOSkeyNET
 vless://d65a82af-a403-405e-8b7b-27a68b830511@95.217.237.195:10210?encryption=none&fp=&pbk=twRm8a1BBdz2Q5jTuNbXxA7ZdtDPAyQNEycDYkW9DFc&security=reality&sid=13121b7150ad7fc6&sni=play-apps-features.googleusercontent.com&type=grpc#🇫🇮FI-🚀@VPNine1
 vless://d65a82af-a403-405e-8b7b-27a68b830511@95.217.237.195:10210?encryption=none&fp=&pbk=twRm8a1BBdz2Q5jTuNbXxA7ZdtDPAyQNEycDYkW9DFc&security=reality&sid=13121b7150ad7fc6&sni=play-apps-features.googleusercontent.com&type=grpc#🐊74@oneclickvpnkeys
@@ -502,4 +503,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.212.72:22222?security=&encryp
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.212.72:22222?security=none&encryption=none&headerType=none&type=tcp#@Shh_Proxy-New¹⁰
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.212.72:22224?security=none&encryption=none&headerType=none&type=tcp#@Shh_Proxy-New⁴
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.184.26:22222?security=none&encryption=none&headerType=none&type=tcp#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.184.26:22224?security=none&encryption=none&headerType=none&type=tcp#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
