@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://91a32c70-7a90-42ca-94d5-cd44b98cd262@www.e.mobilenarges.ir:7333?security=reality&alpn=http/1.1&encryption=none&pbk=isO0qF2Xg6UI1GKARgfg9UHZSrrUBcOazkz04mTl-kE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=0f62cf6250eb31c0#چنل عضو شو @v2ra_config
+vless://91d28760-ecf1-450b-9170-d310111a0e6d@45.149.172.80:443?security=reality&encryption=none&pbk=FKTaFzF4zfAqXBdDQHwSVl_XyNcC3T17s_FqhHyZchg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=fb9456392070128e#@V2ray_confiig
 vless://92027a33-c7fd-4bf5-930e-cd9834c04566@prisonvpnc4-production.up.railway.app:443?security=tls&type=ws&headerType=&path=/vless&host=prisonvpnc4-production.up.railway.app&sni=prisonvpnc4-production.up.railway.app&fp=chrome&alpn=h3,h2,http/1.1#@prisonvpnc
 vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?flow=xtls-rprx-vision&spx=/&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&encryption=none&headerType=none&type=tcp&sni=www.amazon.com&fp=chrome&sid=7f7f&security=reality#@v2rayng3
 vless://92089155-6602-4122-86d4-fe6de20e8c4d@31.56.189.224:3443?security=reality&encryption=none&pbk=-6SjfnZXAYm69euKQ3XNhq0nC7No7YE4qfdc2qx0Xwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=special.aeternavpn.space&sid=a1b2c3d4#@Nexus_Panell چنل تلگرام
@@ -501,5 +503,3 @@ vless://a9bfa128-03b1-4a86-ac0a-3ad127e4c1c0@66.33.22.226:26040?path=/&security=
 vless://aa1e3eda-6981-46c5-85f3-7fe880f21d8b@b.bandfig.ir:22747?security=none&encryption=none&headerType=none&type=tcp#@Shh_Proxy-New¹
 vless://aa5e25fc-c7d7-4e6e-b7f7-105a35c0175a@tamin.ir:80?path=/&security=none&encryption=none&host=tr1.kianorbit.ir&type=httpupgrade#@tanhanet
 vless://aa6f8aaf-d7ff-46f8-a9a0-d143d7e71f71@37.46.199.240:8443?encryption=none&extra={"xmux":{"maxConcurrency":"16-32"}}&fp=&mode=auto&path=/assets/v2/pkg&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&security=reality&sid=e0&sni=s3.netavex.com&type=xhttp#🐊16@oneclickvpnkeys
-vless://aa6f8aaf-d7ff-46f8-a9a0-d143d7e71f71@37.46.199.240:8443?encryption=none&security=reality&sni=s3.netavex.com&fp=chrome&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&sid=e0&type=xhttp&mode=auto&path=/assets/v2/pkg&extra={"xmux":{"maxConcurrency":"16-32"}}#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
-vless://aa6f8aaf-d7ff-46f8-a9a0-d143d7e71f71@37.46.199.240:8443?mode=auto&path=/assets/v2/pkg&security=reality&encryption=none&extra={  "xmux" : {    "maxConcurrency" : "16-32"  }}&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&fp=chrome&type=xhttp&sni=s3.netavex.com&sid=e0#@v2ray313 کانالمون 😈
