@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f570779f-bbf7-4ef9-e657-8ebbdef2609b@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2ray_Alpha🚙 10
+vless://f570779f-bbf7-4ef9-e657-8ebbdef2609b@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2ray_Alpha🚙 12
 vless://f570779f-bbf7-4ef9-e657-8ebbdef2609b@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2ray_Alpha🚙 8
 vless://f570779f-bbf7-4ef9-e657-8ebbdef2609b@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Tel-@ProxyMtAlpha🏞️ 4
 vless://f5842fc5-8251-463e-ad57-350a247c20bc@104.17.25.32:443?security=tls&type=ws&path=/?TELEGRAM-TOOTFFARANGI?ed=2560&host=auto-f5842f.rohawmk.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=auto-f5842f.rohawmk.workers.dev&fp=chrome&encryption=none#[ 🇨🇦 ] | @Cfox_SerVer
@@ -501,5 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.180
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#%3E%3E%40freeland8%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.230:443#%3E%3E%40VmessProtocol%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#%3E%3E%40v2rayNG_Matsuri%3A%3AXX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#%3E%3E%40V2rayNG3%3A%3AXX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.9:8080#%3E%3E%40prrofile_purple%3A%3AXX

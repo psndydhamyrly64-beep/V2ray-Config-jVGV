@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#channel : @freedomofinfor
+vless://1ca43e4d-f65a-4027-a9bf-cfb7eb091661@176.65.151.67:19257?encryption=none&fm={"udp":[{"settings":{"header":"","value":""},"type":"mkcp-legacy"}]}&mtu=1350&security=none&tti=20&type=kcp#⚡️ KURDNET | کورد نت
 vless://1cbb3702-b434-45cf-8520-3e32d860fd83@193.17.92.57:2053?security=reality&encryption=none&pbk=G7VlRXdpKKaZ_33pA0Zsii70uiYkeoBiVYgAD_tL_28&fp=chrome&type=grpc&serviceName=grpc-fd03cd54&sni=vk.com&sid=76f9d74c385ae618#@ICV2RAY
 vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=/id-tksi&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#TEL:Father_vpn
 vless://1d2e5805-69c0-4948-861c-57e4f778624e@65.109.176.5:443?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام
@@ -501,5 +503,3 @@ vless://2fa4235a-51a7-452b-a760-498951646043@land.zavqeron.ir:2053?path=/uk-cdn&
 vless://2fa4235a-51a7-452b-a760-498951646043@land.zavqeron.ir:2053?path=/us-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=land.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#🇺🇸 VEGAAS_VPN
 vless://2fa4235a-51a7-452b-a760-498951646043@nether11.velqixa.ir:8448?mode=auto&path=/nl-xhttp&security=reality&encryption=none&pbk=GKUHECPMuiffveVgQMvRHHg1GgOSNp5lVWPLjRZGN0c&fp=chrome&type=xhttp&sni=play.google.com&sid=d6fdcd5c4aa0e050#119
 vless://2fa4235a-51a7-452b-a760-498951646043@nether11.velqixa.ir:8448?mode=auto&path=/nl-xhttp&security=reality&encryption=none&pbk=GKUHECPMuiffveVgQMvRHHg1GgOSNp5lVWPLjRZGN0c&fp=chrome&type=xhttp&sni=play.google.com&sid=d6fdcd5c4aa0e050#@V2ray_Alpha🥶 11
-vless://2fa4235a-51a7-452b-a760-498951646043@nether11.velqixa.ir:8448?mode=auto&path=/nl-xhttp&security=reality&encryption=none&pbk=GKUHECPMuiffveVgQMvRHHg1GgOSNp5lVWPLjRZGN0c&fp=chrome&type=xhttp&sni=play.google.com&sid=d6fdcd5c4aa0e050#@meliproxyy
-vless://2fa4235a-51a7-452b-a760-498951646043@nether11.velqixa.ir:8448?mode=auto&path=/nl-xhttp&security=reality&encryption=none&pbk=GKUHECPMuiffveVgQMvRHHg1GgOSNp5lVWPLjRZGN0c&fp=chrome&type=xhttp&sni=play.google.com&sid=d6fdcd5c4aa0e050#Tel-@ProxyMtAlpha🦒 1
