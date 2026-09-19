@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.31.153:22224?encryption=none&security=none&type=tcp#[ 🇫🇷 ] | @Cfox_SerVer
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.31.153:22224?encryption=none&security=none&type=tcp#🍅14@oneclickvpnkeys
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.31.153:22224?encryption=none&security=none&type=tcp#🔵@chillguy_vpn
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.73.8:22222?security=none&encryption=none&headerType=none&type=tcp#@Shh_Proxy-New¹
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.73.8:22223?security=none&encryption=none&headerType=none&type=tcp#@Shh_Proxy-New²
@@ -501,5 +503,3 @@ vless://f570779f-bbf7-4ef9-e657-8ebbdef2609b@151.101.56.6:443?path=/?RK_VPS--@RK
 vless://f570779f-bbf7-4ef9-e657-8ebbdef2609b@151.101.56.6:443?path=/?TELEGRAM--BYA--CHANEL---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN--@JKVPN---@JKVPN---@JKVPN---@JKVPN&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#ᴬᴸᴸ🇫🇮➣@JKVPN
 vless://f570779f-bbf7-4ef9-e657-8ebbdef2609b@151.101.56.6:443?path=/?TELEGRAM--KANAL--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#ᴬᴸᴸ🇫🇮➣@mainv2ray
 vless://f570779f-bbf7-4ef9-e657-8ebbdef2609b@k2.cloud--vpn.site:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=h2&type=ws&host=c12.com&path=/#@Daily_Configs
-vless://f570779f-bbf7-4ef9-e657-8ebbdef2609b@k2.cloud--vpn.site:443?encryption=none&type=ws&security=tls&path=/&host=c12.com&sni=ssl.fastly.com&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#🇩🇪All¹ | @BigSmoke_Config
-vless://f570779f-bbf7-4ef9-e657-8ebbdef2609b@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2raySaman
