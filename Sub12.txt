@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c1acfee1-5199-4a4f-84bb-d14a7b651d0d@199.232.78.155:443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=tamashasdasaf3800.com&mode=auto&path=/&security=tls&sni=global.fastly.com&type=xhttp&x_padding_bytes=100-1000#Xhttp-14
-vless://c1acfee1-5199-4a4f-84bb-d14a7b651d0d@199.232.78.155:443?mode=auto&path=/&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=tamashasdasaf3800.com&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#@ICV2RAY
-vless://c1de7c16-9c66-482c-82e5-8aeaeb5d53b3@ip2.neoservers.ir:8443?security=tls&alpn=h3,h2&encryption=none&insecure=0&host=i0PRBeE2rqIUmw2hEeJPLw8BRg56dkyN5rZrf5VU.ViPClUbIrAn.Ir.&fp=chrome&type=ws&allowInsecure=0&sni=i0PRBeE2rqIUmw2hEeJPLw8BRg56dkyN5rZrf5VU.ViPClUbIrAn.Ir.#@KAFING_2
 vless://c1f840b9-84fc-4c8c-ba1b-646869079d8b@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=skyfarst.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#@Nexus_Panell چنل تلگرام
 vless://c1fc52ab-a0f7-432c-a0aa-12b82ef15d70@155.117.233.218:443?security=reality&encryption=none&pbk=Um3lZiDJYH-F1DfTB3Ja6Yy8Bg5B8jAd6Y5t2w1YVh4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=362e332740155de1#@filembad
 vless://c1fc52ab-a0f7-432c-a0aa-12b82ef15d70@155.117.233.218:443?security=reality&encryption=none&pbk=Um3lZiDJYH-F1DfTB3Ja6Yy8Bg5B8jAd6Y5t2w1YVh4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=362e332740155de1#🔵@chillguy_vpn
@@ -503,3 +500,6 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#160
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#برای اتصال دائمی جوین شو🍭 TelegramID ⌲Express_freevpn 🪩
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.168:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#2🐊@oneclickvpnkeys
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.168:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#kurdconfig
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.168:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#189
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.168:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@i10VPN⁴

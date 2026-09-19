@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://91a32c70-7a90-42ca-94d5-cd44b98cd262@www.b.mobilesari.ir:443?security=reality&encryption=none&pbk=6yOrgIsMRfTe-Gr9TYgyan-0mnKTNfk6fDBxVOiT4HM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=5002b5329814b487#✅  @vistav2ray  👈👈کانال ما ✅
-vless://91a32c70-7a90-42ca-94d5-cd44b98cd262@www.c.mobilenarges.ir:2087?security=reality&encryption=none&pbk=6yOrgIsMRfTe-Gr9TYgyan-0mnKTNfk6fDBxVOiT4HM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=5002b5329814b487#چنل عضو شو @v2ra_config
-vless://91a32c70-7a90-42ca-94d5-cd44b98cd262@www.e.mobilenarges.ir:7333?security=reality&alpn=http/1.1&encryption=none&pbk=isO0qF2Xg6UI1GKARgfg9UHZSrrUBcOazkz04mTl-kE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=0f62cf6250eb31c0#@Shh_Proxy-New⁵
 vless://91a32c70-7a90-42ca-94d5-cd44b98cd262@www.e.mobilenarges.ir:7333?security=reality&alpn=http/1.1&encryption=none&pbk=isO0qF2Xg6UI1GKARgfg9UHZSrrUBcOazkz04mTl-kE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=0f62cf6250eb31c0#چنل عضو شو @v2ra_config
 vless://91d28760-ecf1-450b-9170-d310111a0e6d@104.20.30.10:443?path=/api/v2/63e9687fa53e441c/stream&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=us9.69lover.my&fp=chrome&type=ws&allowInsecure=0&sni=us9.69lover.my#@hex_proxy ⁶
 vless://91d28760-ecf1-450b-9170-d310111a0e6d@45.149.172.80:443?security=reality&encryption=none&pbk=FKTaFzF4zfAqXBdDQHwSVl_XyNcC3T17s_FqhHyZchg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=fb9456392070128e#@V2ray_confiig
@@ -503,3 +500,6 @@ vless://a90c264d-3853-4eef-9a3d-628b2d02d15e@172.67.176.60:443?Telegram=@Gozarga
 vless://a90c264d-3853-4eef-9a3d-628b2d02d15e@172.67.176.60:443?encryption=none&security=tls&sni=3-M19.SoUtH-afRIcA.CCwu.Cc&fp=chrome&type=ws&host=3-m19.south-afriCa.Ccwu.Cc&path=/CjBjB9sn5pCvaSwScc#@Sparrk_VPN
 vless://a90c264d-3853-4eef-9a3d-628b2d02d15e@172.67.176.60:443?encryption=none&security=tls&sni=3-M19.SoUtH-afRIcA.CCwu.Cc&fp=chrome&type=ws&host=3-m19.south-afriCa.Ccwu.Cc&path=/CjBjB9sn5pCvaSwScc#🇨🇦CA_2736_@Surfboardv2ray
 vless://a937a82e-593a-49a3-8585-cc3422e040b3@104.194.148.116:23821?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
+vless://a9954637-e1d3-6981-e498-98769cd4dd35@69.46.46.21:443?path=/ws/a9954637-e1d3-6981-e498-98769cd4dd35&security=tls&alpn=http/1.1&encryption=none&host=polar-canyon-c381-production.up.railway.app&fp=chrome&type=ws&sni=polar-canyon-c381-production.up.railway.app#🇩🇪 @V2ngFast
+vless://a9964b0e-a18f-48c9-bcd1-8f34b5092879@webshecan.webredirect.org:2083?type=tcp&security=reality&fp=chrome&pbk=TTyvgA7WXFTrzGfnc3n2thNNEcWc_GWReVsvs5Gd9D4&sni=www.theverge.com&flow=xtls-rprx-vision&sid=7f321171&spx=/#@Webshecan-test-mci
+vless://a9a95d7c-ee7e-4ee0-9cbd-89cb566d08e9@[2a01:4f8:1c18:4078::1]:443?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=NYZeZKuCbWGJGifmzP4jBqAueCm4iQCifv9gOEBEgnI&host=www.icloud.com&fp=chrome&spx=/&type=xhttp&sni=www.icloud.com&sid=b7ff5b90d8#@Alfred_Config
