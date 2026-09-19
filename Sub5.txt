@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1f6722ab-20ed-4d13-bf7e-94375ebd92fa@162.159.82.123:2053?type=ws&encryption=none&host=fr.roomode.ir&security=tls&sni=fr.roomode.ir&path=/&fp=chrome&headerType=none#🇮🇹⇝ @GpConnectSho کانکت شو! 💠
 vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?encryption=none&type=xhttp&security=tls&path=/assignment&host=www.multiplydose.cc.cd&mode=stream-one&sni=www.multiplydose.cc.cd&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#canfingV2rayNG-109
 vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?encryption=none&type=xhttp&security=tls&path=/assignment&host=www.multiplydose.cc.cd&mode=stream-one&sni=www.multiplydose.cc.cd&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#🇸🇨176372 | ⚡️Telegram = t.me/SOSkeyNET
 vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?encryption=none&type=xhttp&security=tls&path=/assignment&host=www.multiplydose.cc.cd&mode=stream-one&sni=www.multiplydose.cc.cd&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#🇸🇨SC-🚀@VPNine1
@@ -503,3 +502,4 @@ vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=/kavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#@confiig_hub
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=/kavir/?@MARAMBASHI_MARAMBASHI?ed=2048&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#✨ @NOFiLTERING2 | ❤️ وصل شدی جوین شو | ⚡ | 🇩🇪
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443/?type=xhttp&encryption=none&flow=&security=tls&sni=dey.lnmarketplace.net&alpn=h2&fp=chrome#تو کانال نتورلد نباشید قطع میشن@networld_vpn
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=chrome&allowinsecure=0&type=xhttp&mode=stream-one&host=dey.lnmarketplace.net&path=/kavir#🇩🇪All¹² | @BigSmoke_Config

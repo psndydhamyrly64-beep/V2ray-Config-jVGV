@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=6ba85179e30d4fc2#@hex_proxy ³
 vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=6ba85179e30d4fc2#🇩🇪176451 | ⚡️Telegram = t.me/SOSkeyNET
 vless://47e3cf7b-c95c-4997-9003-4c7347c5737a@193.148.253.210:8081?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=193.148.253.210&fp=chrome&type=httpupgrade&allowInsecure=0&sni=193.148.253.210#Free x257 @Outline_Vpn
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.151.172:443?type=ws&security=tls&sni=0h3qt.oqwt.pl0.hh.vavava.kdns.fr&path=/&host=0h3qt.oqwt.pl0.hh.vavava.kdns.fr&fp=chrome#🇨🇦139911 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +502,4 @@ vless://60a361f9-3c45-4954-9e4c-92a85bda243d@31.184.244.162:2053?encryption=none
 vless://60a361f9-3c45-4954-9e4c-92a85bda243d@31.184.244.162:2053?mode=gun&security=reality&encryption=none&authority=/?&pbk=mzrVbIsEggpJfXR8M7yxki2vgv3sXWQdy1bGhXqatUY&type=grpc&serviceName=grpc&sni=www.google.com&sid=4881f8244d1b9021#4
 vless://60a361f9-3c45-4954-9e4c-92a85bda243d@31.184.244.162:2053?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&pbk=mzrVbIsEggpJfXR8M7yxki2vgv3sXWQdy1bGhXqatUY&type=grpc&serviceName=grpc&sni=www.google.com&sid=4881f8244d1b9021#@MARAMBASHI 👿
 vless://60a361f9-3c45-4954-9e4c-92a85bda243d@31.184.244.162:2053?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&pbk=mzrVbIsEggpJfXR8M7yxki2vgv3sXWQdy1bGhXqatUY&type=grpc&serviceName=grpc&sni=www.google.com&sid=4881f8244d1b9021#@V2rayng_Fast 👿
+vless://60a361f9-3c45-4954-9e4c-92a85bda243d@31.184.244.162:2053?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM--V2ray_confiig&pbk=mzrVbIsEggpJfXR8M7yxki2vgv3sXWQdy1bGhXqatUY&type=grpc&serviceName=grpc&sni=www.google.com&sid=4881f8244d1b9021#@V2ray_confiig
