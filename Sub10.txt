@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@217.19.122.17:10654?mode=packet-up&path=/xhttp_client_upload&security=reality&encryption=none&extra=null&pbk=ds10ztOlMn8xfeIKEQ1m3I-tdem-abZbHKtJCU13CQM&fp=chrome&type=xhttp&sni=bl3fk52.sysopnova.art&sid=5c3fb122#🇳🇱175065 | ⚡️Telegram = t.me/SOSkeyNET
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@itga8.guardora.pro:10654?mode=packet-up&path=/xhttp_client_upload&security=reality&encryption=none&pbk=lGKKIZsN9yBMxzZm8yl7nzNwJII18c_wLd_AbzzvRD8&fp=chrome&type=xhttp&sni=dailycanvas.sysopnova.art&sid=53361376#107
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@itga8.guardora.pro:10654?mode=packet-up&path=/xhttp_client_upload&security=reality&encryption=none&pbk=lGKKIZsN9yBMxzZm8yl7nzNwJII18c_wLd_AbzzvRD8&fp=chrome&type=xhttp&sni=dailycanvas.sysopnova.art&sid=53361376#🇳🇱175017 | ⚡️Telegram = t.me/SOSkeyNET
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@softledger.asoft.help:443?security=reality&encryption=none&pbk=oFp3R2HXBuvIPexOkwFcVBwpDIg-GXM0SGqRjFpVE08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=softledger.asoft.help&sid=89b596866c14aab4#Telegram @mtmvpn  8
 vless://954e33b2-2a6b-4a3e-b9dc-156c828820ff@www.web.far30bazi.ir:443?security=reality&encryption=none&pbk=6yOrgIsMRfTe-Gr9TYgyan-0mnKTNfk6fDBxVOiT4HM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheets.google.com&sid=5002b5329814b487#@V2ray_confiig
 vless://954e33b2-2a6b-4a3e-b9dc-156c828820ff@www.web.far30bazi.ir:443?security=reality&encryption=none&pbk=6yOrgIsMRfTe-Gr9TYgyan-0mnKTNfk6fDBxVOiT4HM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheets.google.com&sid=5002b5329814b487#@V2rayng_market_1378_bot
 vless://954e33b2-2a6b-4a3e-b9dc-156c828820ff@www.web.far30bazi.ir:443?security=reality&encryption=none&pbk=6yOrgIsMRfTe-Gr9TYgyan-0mnKTNfk6fDBxVOiT4HM&host=/?TELEGRAM--V2ray_confiig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheets.google.com&sid=5002b5329814b487#@V2ray_confiig
@@ -503,3 +499,7 @@ vless://ad40a583-2d59-44ff-88cf-b5db0e1e00a7@104.17.222.14:2053?path=/&security=
 vless://ad4492d1-6858-4841-bd50-1dff56dedcb7@172.232.250.227:443?security=tls&sni=id-full.privateip.net&type=ws&path=/VLESS&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?security=none&encryption=none&headerType=none&type=tcp#@Net2ray United Kingdom 🇬🇧
 vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?security=none&encryption=none&headerType=none&type=tcp#@Net2ray United Kingdom 🇬🇧  نامحدود لوکیشن انگلیس 🆔 t.me/Net2ray
+vless://ad753970-b772-473f-a10e-8c4664779472@v6.ir.battlenetcp.com:80?security=none&encryption=none&host=cdn-apple.com&headerType=http&type=tcp#کانال تلگرام ما ange1Vpn@
+vless://ad85a1ce-3519-4634-9ea1-66c60d3694ba@172.67.152.71:8880?encryption=none&type=ws&host=little-pond-8731.81-68e.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net&security=none#[ 🇨🇦 ] | @Cfox_SerVer
+vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir#@KAFING_2
+vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir.#@KAFING_2
