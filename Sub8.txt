@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&type=grpc&mode=gun&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&serviceName=grpc-tunnel#@meliproxyy
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&type=grpc&mode=gun&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&serviceName=grpc-tunnel#🔵@chillguy_vpn
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#Channel : @Daily_Configs
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881?mode=gun&security=reality&encryption=none&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#@FarazV2ray
@@ -503,3 +502,4 @@ vless://788c24fa-af91-4b0d-a589-48381b07101a@168.119.107.162:35448/?type=tcp&sec
 vless://7893b302-3882-4c38-9ab6-6313f1575d1a@104.18.24.194:443?path=/@zyzzzoao&security=tls&encryption=none&insecure=0&host=cf.udpid.org&fp=chrome&type=ws&allowInsecure=0&sni=cf.udpid.org#@hopev2ray❤️‍🩹
 vless://7893b302-3882-4c38-9ab6-6313f1575d1a@104.21.53.134:443?path=/@zyzzzoao&security=tls&encryption=none&insecure=0&host=cf.udpid.org&fp=chrome&type=ws&allowInsecure=0&sni=cf.udpid.org#@hopev2ray💕
 vless://7893b302-3882-4c38-9ab6-6313f1575d1a@104.21.85.220:443?path=/@zyzzzoao&security=tls&encryption=none&insecure=0&host=cf.udpid.org&fp=chrome&type=ws&allowInsecure=0&sni=cf.udpid.org#@hopev2ray💚
+vless://7893b302-3882-4c38-9ab6-6313f1575d1a@172.67.213.31:443?path=/@zyzzzoao&security=tls&encryption=none&insecure=0&host=cf.udpid.org&fp=chrome&type=ws&allowInsecure=0&sni=cf.udpid.org#@hopev2ray💯
