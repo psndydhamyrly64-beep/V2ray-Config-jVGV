@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.232:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#63
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@ICV2RAY
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#70
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#برای اتصال دائمی جوین شو🕖 TelegramID ⌲Express_freevpn 🪩
@@ -503,3 +500,6 @@ vless://e5a61a6e-c64d-44b7-b29e-e79ac401a3c6@66.33.22.226:51544?encryption=none&
 vless://e5a61a6e-c64d-44b7-b29e-e79ac401a3c6@66.33.22.226:51544?encryption=none&host=&path=/&security=none&type=ws#@filembad
 vless://e5a61a6e-c64d-44b7-b29e-e79ac401a3c6@66.33.22.226:51544?encryption=none&host=&path=/&security=none&type=ws#🇺🇸175102 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e5a61a6e-c64d-44b7-b29e-e79ac401a3c6@66.33.22.226:51544?encryption=none&host=&path=/&security=none&type=ws#🇺🇸US-🚀@VPNine1
+vless://e5a61a6e-c64d-44b7-b29e-e79ac401a3c6@66.33.22.226:51544?encryption=none&host=&path=/&security=none&type=ws#🔵@chillguy_vpn
+vless://e5a61a6e-c64d-44b7-b29e-e79ac401a3c6@66.33.22.226:51544?path=/&security=none&encryption=none&type=ws#@filembad
+vless://e5a61a6e-c64d-44b7-b29e-e79ac401a3c6@66.33.22.226:51544?path=/&security=none&encryption=none&type=ws#filembad-404
