@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://1cbb3702-b434-45cf-8520-3e32d860fd83@193.17.92.57:2053?security=reality&encryption=none&pbk=G7VlRXdpKKaZ_33pA0Zsii70uiYkeoBiVYgAD_tL_28&fp=chrome&type=grpc&serviceName=grpc-fd03cd54&sni=vk.com&sid=76f9d74c385ae618#@ICV2RAY
 vless://1cbb3702-b434-45cf-8520-3e32d860fd83@193.17.92.57:2053?security=reality&encryption=none&pbk=G7VlRXdpKKaZ_33pA0Zsii70uiYkeoBiVYgAD_tL_28&fp=chrome&type=grpc&serviceName=grpc-fd03cd54&sni=vk.com&sid=76f9d74c385ae618#🇷🇺176248 | ⚡️Telegram = t.me/SOSkeyNET
 vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=/id-tksi&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#TEL:Father_vpn
 vless://1d2e5805-69c0-4948-861c-57e4f778624e@65.109.176.5:443?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام
@@ -502,4 +503,3 @@ vless://2f3f58c9-7a49-4783-9722-7fcae7e3a203@37.221.110.249:2085?encryption=none
 vless://2f600710-9f4e-4eab-8de1-89f60a878e55@chmstnd1.jarvesitw.ru:443?security=reality&encryption=none&pbk=Q6vABOUn6Uxtp0uDsfDG-SRJFLBh_oOofD9reec4iSg&headerType=&type=tcp&flow=xtls-rprx-vision&sni=app72.jarvestip.ru&sid=cf41f778#@configprxy
 vless://2fa4235a-51a7-452b-a760-498951646043@any.zavqeron.ir:2053?encryption=none&security=tls&sni=zavqeron.ir&fp=chrome&alpn=h3,h2,http/1.1&type=ws&host=any.zavqeron.ir&path=/de1-cdn#@Daily_Confis
 vless://2fa4235a-51a7-452b-a760-498951646043@herd.zavqeron.ir:2053?path=/de2-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=herd.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#@IRAN_V2RAY1 🌟
-vless://2fa4235a-51a7-452b-a760-498951646043@herd.zavqeron.ir:2053?path=/de2-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=herd.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#@V2ray_Alpha🥶 7
