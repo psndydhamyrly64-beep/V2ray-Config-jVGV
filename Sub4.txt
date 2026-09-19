@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0ab925b6-35f7-6e27-e713-925bea65455e@130.49.77.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&fp=chrome&type=xhttp&sni=www.philips.com#@V2ray_confiig
-vless://0ab925b6-35f7-6e27-e713-925bea65455e@130.49.77.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&fp=chrome&type=xhttp&sni=www.philips.com#@bored_vpn
 vless://0ab925b6-35f7-6e27-e713-925bea65455e@130.49.77.4:8443?mode=gun&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#@ICV2RAY
 vless://0ab925b6-35f7-6e27-e713-925bea65455e@130.49.77.4:8443?mode=gun&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#@bored_vpn
 vless://0ab925b6-35f7-6e27-e713-925bea65455e@130.49.77.4:8443?security=reality&encryption=none&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#@MARAMBASHI 💟
@@ -503,3 +501,5 @@ vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@104.21.41.131:8443?path=/&security=
 vless://1aee8920-6379-45d6-87f6-08a58a740b74@servconfmmmddd.ir:443?path=/vl-ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=servconfmmmddd.ir&fp=chrome&type=ws&allowInsecure=0&sni=servconfmmmddd.ir#🇺🇸175115 | ⚡️Telegram = t.me/SOSkeyNET
 vless://1af93670-c30e-4207-8458-7a0fc5638e53@185.216.71.225:443?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ²⁹⁴
 vless://1af93670-c30e-4207-8458-7a0fc5638e53@185.216.71.225:443?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام
+vless://1b73f053-2709-4698-bbec-cb20e8a5f288@gr4.levikogjgfdd.ir:3031?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2rayng
+vless://1b96549e-b6e4-4e19-9259-2ab1b10ce7f7@178.162.252.123:10000?security=reality&encryption=none&pbk=UOa0v_JpSPRPMO6ABMM7tIir-GclotOVfnbI2WqJGVE&headerType=none&fp=chrome&type=tcp&sni=zoom.us&sid=9791feaccc1ca4d8#@vmesskhodam
