@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://turboo-server@web.turbooserver.net.tr:8443?security=none&encryption=none&host=dynu.com&headerType=http&type=tcp#Free x342 @Outline_Vpn
 vless://turboo-server@web.turbooserver.net.tr:8443?security=none&encryption=none&host=dynu.com&headerType=http&type=tcp#برای اتصال دائمی جوین شو🍭 TelegramID ⌲Express_freevpn 🪩
 vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?encryption=auto&security=none&type=tcp#🐊99@oneclickvpnkeys
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBBbGZyZWRfQ29uZmlnIiwNCiAgImFkZCI6ICIxMDkuNjEuMTguMTg4IiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiYzExMjI0NDQtYWY0NS00YjZiLWJjMjctZWY4ZGU2MGJhN2UyIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9
@@ -503,3 +502,4 @@ vless://22c71398-f576-4608-8b1f-b65badde088b@africa.visa.com:443?security=tls&sn
 vless://2f466a3b-5093-4556-8759-c87c8511c753@104.18.32.47:443?security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%205.55
 
 vless://2f466a3b-5093-4556-8759-c87c8511c753@104.18.32.47:443?security=tls&sni=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%205.5
+
