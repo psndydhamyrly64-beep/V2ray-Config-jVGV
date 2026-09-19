@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.19:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#@filembad
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.19:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#@irdusti(10)🇺🇸¹
 vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.19:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#@irdusti(12)🇺🇸²
 vless://b19b768d-bc57-4d03-9bea-61129ed5fef9@162.159.46.0:8880?encryption=none&security=none&type=ws&host=new.106-79e.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#t.me/ConfigFori  -  Config 88288
 vless://b1a1fb9d-a72e-4ac0-8c1e-aa05256f0855@[2a01:4f8:1c18:4078::1]:8080?security=none&encryption=none&host=www.icloud.com&headerType=http&type=tcp#@Alfred_Config
@@ -503,3 +501,5 @@ vless://c75775e9-cf53-47b6-9d1d-29c3a46633fd@xnforo.ir:2087?mode=auto&path=/GoRb
 vless://c792dd9a-1693-4246-b71b-5ea51beb6e83@149.118.144.163:443?encryption=none&security=tls&sni=thus-k.netnode.cc.cd&fp=chrome&type=ws&host=thus-k.netnode.cc.cd&path=/t.me/daily_free_vpn#THUS-K@QiangLieTuiJian
 vless://c792dd9a-1693-4246-b71b-5ea51beb6e83@168.138.165.174:443?encryption=none&security=tls&sni=thus-k.netnode.cc.cd&fp=chrome&type=ws&host=thus-k.netnode.cc.cd&path=/t.me/daily_free_vpn#THUS-K@QiangLieTuiJian
 vless://c792dd9a-1693-4246-b71b-5ea51beb6e83@39.109.50.208:443?encryption=none&security=tls&sni=thus-k.netnode.cc.cd&fp=chrome&type=ws&host=thus-k.netnode.cc.cd&path=/t.me/daily_free_vpn#THUS-K@QiangLieTuiJian
+vless://c792dd9a-1693-4246-b71b-5ea51beb6e83@43.161.226.55:443?encryption=none&security=tls&sni=thus-k.netnode.cc.cd&fp=chrome&type=ws&host=thus-k.netnode.cc.cd&path=/t.me/daily_free_vpn#THUS-K@QiangLieTuiJian
+vless://c792dd9a-1693-4246-b71b-5ea51beb6e83@45.147.48.28:443?encryption=none&security=tls&sni=thus-k.netnode.cc.cd&fp=chrome&type=ws&host=thus-k.netnode.cc.cd&path=/t.me/daily_free_vpn#THUS-K@QiangLieTuiJian
