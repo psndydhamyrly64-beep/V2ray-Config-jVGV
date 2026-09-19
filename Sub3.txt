@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@vasl_bashim
+trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@vmesskhodam
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@vpnbaz ☂️
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Channel : @Daily_Configs
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Channel : @proxy_kafee
@@ -501,5 +503,3 @@ vless://0a83252b-df4e-4a09-a054-45d5a1f731eb@am255.amin5646.ir:2082?type=xhttp&e
 vless://0aa8a7cd-eb08-4fa6-a277-c9d95282d4e6@185.143.234.238:80?path=/pgcfws-r4&security=&encryption=none&host=uu.caroptions.ir&type=ws#@B2Hub
 vless://0aa8a7cd-eb08-4fa6-a277-c9d95282d4e6@185.143.234.238:80?path=/pgcfws-r4&security=none&encryption=none&host=uu.caroptions.ir&type=ws#@NETMelliAnti
 vless://0aa8a7cd-eb08-4fa6-a277-c9d95282d4e6@185.143.234.238:80?path=/pgcfws-r4&security=none&encryption=none&host=uu.caroptions.ir&type=ws#@v2ray_phoenix
-vless://0ab925b6-35f7-6e27-e713-925bea65455e@130.49.77.4:443?encryption=none&security=reality&sni=www.philips.com&fp=chrome&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&type=xhttp&path=/&mode=auto#@Daily_Configs
-vless://0ab925b6-35f7-6e27-e713-925bea65455e@130.49.77.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&fp=chrome&type=xhttp&sni=www.philips.com#@V2ray_confiig
