@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.187.6:22224?security=none&headerType=none&type=tcp&encryption=none#@v2rayng3
-vless://e4668a2b-66d6-4500-bcef-5ed52414e40a@140.82.34.114:25585?encryption=none&security=none&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
-vless://e4668a2b-66d6-4500-bcef-5ed52414e40a@140.82.34.114:25585?security=&encryption=none&headerType=none&type=tcp#Free x284 @Outline_Vpnx269
 vless://e4668a2b-66d6-4500-bcef-5ed52414e40a@140.82.34.114:25585?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
 vless://e4668a2b-66d6-4500-bcef-5ed52414e40a@78.141.221.126:25585?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://e4887910-bcfc-48f8-8cd4-abb592e181af@95.179.169.44:53224?encryption=none&security=none&type=tcp&headerType=none#Channel: @Daily_Configs
@@ -503,3 +500,6 @@ vless://ff1dcb64-f13d-4ccd-a3c6-055218f7490b@az-hti-de.ramzshadi.ir:8088?path=/b
 vless://ff1dcb64-f13d-4ccd-a3c6-055218f7490b@fr-jan.ramcalshoping.ir:8088?path=/bmi.ir&security=none&encryption=mlkem768x25519plus.native.0rtt.AX1_Iy42S3tDy5Byp6LQba6NUB3ePNTLrdSyxC7MvVQ&host=play-apps-features.googleusercontent.com&type=ws#Free x221 @Outline_Vpn
 vless://ff1dcb64-f13d-4ccd-a3c6-055218f7490b@pol-hhasca.ramcalshoping.ir:8088?path=/bmi.ir&security=none&encryption=mlkem768x25519plus.native.0rtt.AX1_Iy42S3tDy5Byp6LQba6NUB3ePNTLrdSyxC7MvVQ&host=play-apps-features.googleusercontent.com&type=ws#Free x220 @Outline_Vpn
 vless://ff1dcb64-f13d-4ccd-a3c6-055218f7490b@trkqountl.ramcalshoping.ir:8088?path=/bmi.ir&security=none&encryption=mlkem768x25519plus.native.0rtt.AX1_Iy42S3tDy5Byp6LQba6NUB3ePNTLrdSyxC7MvVQ&host=play-apps-features.googleusercontent.com&type=ws#Free x229 @Outline_Vpn
+vless://ff4873f3-ed68-7059-926c-6958fde22478@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/ff4873f3-ed68-7059-926c-6958fde22478#113
+vless://ff4873f3-ed68-7059-926c-6958fde22478@tmesubgift1.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift1.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift1.up.railway.app&path=/ws/ff4873f3-ed68-7059-926c-6958fde22478#114
+vless://ff6e1028-b337-4062-a4db-86c784a9cdb4@78.17.131.25:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=chrome&pbk=NX4_NvgDeswlt2mjLq1CWYRwJ4X9qJ1l8HMdhIa4Ozg&sid=6fb5284cc412c0e9&type=tcp&headerType=none#@filembad
