@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://2fa4235a-51a7-452b-a760-498951646043@herd.zavqeron.ir:2053?path=/de2-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=herd.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#@meliproxyy
 vless://2fa4235a-51a7-452b-a760-498951646043@herd.zavqeron.ir:2053?path=/de2-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=herd.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#vpnsal
 vless://2fa4235a-51a7-452b-a760-498951646043@herd.zavqeron.ir:2053?path=/de2-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=herd.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#🇩🇪@VEGAAS_VPN
 vless://2fa4235a-51a7-452b-a760-498951646043@land.zavqeron.ir:2053?path=/fi-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=land.zavqeron.ir&fp=chrome&type=ws&sni=zavqeron.ir#@v2ray_phoenix
@@ -502,4 +503,3 @@ vless://44eae030-290b-4083-8102-6f8bab05701b@188.114.97.6:443?path=/&security=tl
 vless://44eae030-290b-4083-8102-6f8bab05701b@188.114.97.6:443?path=/&security=tls&encryption=none&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#8--Tel-@V2rayAlpha
 vless://44eae030-290b-4083-8102-6f8bab05701b@188.114.97.6:443?path=/&security=tls&encryption=none&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#@meliproxyy
 vless://44eae030-290b-4083-8102-6f8bab05701b@188.114.97.6:443?path=/&security=tls&encryption=none&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#@tootffarangi🍓-1
-vless://44eae030-290b-4083-8102-6f8bab05701b@188.114.97.6:443?path=/&security=tls&encryption=none&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#@tootffarangi🍓-2
