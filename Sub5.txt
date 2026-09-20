@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://2308b549-764d-4abe-ac74-c22b97f3dc0a@193.8.215.116:8443?security=reality&encryption=none&pbk=HhT-m2xbI4X_o99Hzkh40v-r32sIydYNCbA7Bnqh7AY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aezau1.uni-plan.com&sid=8f0f92607e5b353c#@v2raybaaz
 vless://23187ddc-16a5-432d-bf4e-dd42a7ae39f7@104.16.98.215:8880?security=none&type=ws&host=steep-thunder-97fa.108-d10.workers.dev&encryption=none#@v2rayng3
 vless://234c52f2-0d7b-dc4a-0d6b-b0b30000001c@104.21.66.198:80?path=/sync&security=none&encryption=none&host=billowing-surf-d251.netizo06.workers.dev&fp=chrome&type=ws&sni=billowing-surf-d251.netizo06.workers.dev#@meliproxyy
 vless://23578a2c-2493-41f0-89ef-d7d3a7b85252@152.53.90.42:8443?encryption=none&security=tls&sni=usa1.pad-service.com&fp=chrome&allowinsecure=0&type=ws&host=usa1.pad-service.com&path=/USA1#@configprxy
@@ -502,4 +503,3 @@ vless://3d0135ce-97f0-4b2f-90c3-e8aaa01be795@206.72.205.152:40296?security=none&
 vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@CUSTOMVPNSERVER
 vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@KAFING_2
 vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#⚡Telegram =@CUSTOMVPNSERVER
-vless://3d53970b-419b-4a27-87b5-e9c99bb02eca@n2.fiprotected.com:443?security=reality&encryption=none&pbk=XBx1PANE_LKfrCRVCsu1LDwd2kywg7iDHW9tYEf2SQ0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn2.fiprotected.com#🇫🇮 V2RayyNGvpn
