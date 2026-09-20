@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.3:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl4.moritech.net#@v2ray313 کانالمون 😪
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.3:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl4.moritech.net#برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl6.moritech.net&fp=chrome&alpn=h2&type=tcp&headerType=none#🇩🇪⇝ @GpConnectSho کانکت شو! 💠
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.moritech.net#@hex_proxy ⁷
@@ -503,3 +502,4 @@ vless://d92afe21-8e8b-42c7-98c2-8a33da64d28f@39.109.117.110:43646?path=/d92afe21
 vless://d92cf13b-7fb9-4d40-8507-cbaf29cdc8ae@213.182.216.5:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aliusfilms.ru&sid=3f8ad1#@vmesskhodam
 vless://d92cf13b-7fb9-4d40-8507-cbaf29cdc8ae@213.182.216.5:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aliusfilms.ru&sid=3f8ad1#[ 🇨🇳 ] | @Cfox_SerVer
 vless://d92cf13b-7fb9-4d40-8507-cbaf29cdc8ae@213.182.216.5:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aliusfilms.ru&sid=3f8ad1#🌐 @V2_MOD_SHOP
+vless://d96a126b-7ff7-4fec-b876-9b03b45dc3bf@Digikala.soft98.horlutr.ir:1280?encryption=none&security=none&type=ws&host=play-apps-features.googleusercontent.com&path=/#🇩🇪All² | @BigSmoke_Config
