@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b2141c97-76af-ff6f-839b-70a53e23aad9@130.49.77.6:443?mode=auto&path=/?@V2ray_confiig?ed=2048&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&fp=chrome&type=xhttp&sni=download.nvidia.com#@V2ray_confiig
 vless://b2141c97-76af-ff6f-839b-70a53e23aad9@140.235.168.5:443?mode=auto&path=/&security=reality&encryption=none&pbk=tICt4RT_Rw9KAU8hIf05_fzAMZnfUUyMfE-Ept6zcBY&fp=chrome&type=xhttp&sni=www.lenovo.com#150
 vless://b2141c97-76af-ff6f-839b-70a53e23aad9@140.235.168.5:8443?mode=gun&security=reality&encryption=none&pbk=tICt4RT_Rw9KAU8hIf05_fzAMZnfUUyMfE-Ept6zcBY&fp=chrome&type=grpc&serviceName=TunService&sni=www.lenovo.com#171
 vless://b2141c97-76af-ff6f-839b-70a53e23aad9@62.233.39.9:443?mode=auto&path=/&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&fp=chrome&type=xhttp&sni=download.nvidia.com#203
@@ -503,3 +502,4 @@ vless://cb077bf2-70b7-457b-af42-27cdc3e0e544@178.105.61.61:2083?security=reality
 vless://cb15d1b0-e48b-4c4c-b98a-fa1103aa3723@94.156.154.65:7443?security=reality&encryption=none&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=d2061bb1#@irdusti(12)🇳🇱²
 vless://cb2dbb6a-a1ea-4023-9ace-6466cee57241@51.81.203.63:443?security=reality&encryption=none&pbk=nqwCf6oW49tEtmQ0EzxigZ0uu1pg0E30CS54G40Iti0&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=4477382ff6d3d41c#kurdconfig
 vless://cb2dbb6a-a1ea-4023-9ace-6466cee57241@51.81.203.63:443?security=reality&encryption=none&pbk=nqwCf6oW49tEtmQ0EzxigZ0uu1pg0E30CS54G40Iti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=4477382ff6d3d41c#@hex_proxy ⁴
+vless://cb2dbb6a-a1ea-4023-9ace-6466cee57241@51.81.203.63:443?security=reality&encryption=none&pbk=nqwCf6oW49tEtmQ0EzxigZ0uu1pg0E30CS54G40Iti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=4477382ff6d3d41c#@i10VPN¹⁰

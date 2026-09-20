@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@render.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@meliproxyy
 trojan://humanity@render.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 trojan://humanity@render.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Channel : @Daily_Configs
 trojan://humanity@render.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Channel id: @ConfigV2RayNG 🇺🇸
@@ -503,3 +502,4 @@ vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.107:443?path=/ws/Default&s
 vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.108:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=esmal-locj45-ugfufuffufuff-0bfedd-production.up.railway.app&fp=chrome&type=ws&sni=esmal-locj45-ugfufuffufuff-0bfedd-production.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.109:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=cloud-0c2055-082cd3-production.up.railway.app&fp=chrome&type=ws&sni=cloud-0c2055-082cd3-production.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.109:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=net-05b215-358e1e-production.up.railway.app&fp=chrome&type=ws&sni=net-05b215-358e1e-production.up.railway.app#All Operators @MaSTeRSeRVeR1
+vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.109:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=srv-59626b-f0a855-production.up.railway.app&fp=chrome&type=ws&sni=srv-59626b-f0a855-production.up.railway.app#All Operators @MaSTeRSeRVeR1
