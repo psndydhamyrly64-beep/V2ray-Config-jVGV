@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://DIGiV2RAY-@discord.gg:80?path=/Digiv2ray-&security=none&encryption=none&host=ædígí.RadioTeHran.oRG.&type=ws#MCI
 vless://Default@69.46.46.110:443?path=/ws/vless/Default?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=ezaccess1-slv-ezaccess1-ad76.up.railway.app&fp=chrome&type=ws&sni=ezaccess1-slv-ezaccess1-ad76.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://Default@69.46.46.113:443?path=/ws/vless/Default?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=ezaccess1-slv-ezaccess1-db1d.up.railway.app&fp=chrome&type=ws&sni=ezaccess1-slv-ezaccess1-db1d.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://Default@69.46.46.117:443?path=/ws/vless/Default?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=ezaccess1-slv-ezaccess1-c8e8.up.railway.app&fp=chrome&type=ws&sni=ezaccess1-slv-ezaccess1-c8e8.up.railway.app#All Operators @MaSTeRSeRVeR1
@@ -502,4 +503,3 @@ vless://b2593749-691c-428c-9481-14979cba3446@216.205.52.108:443?path=/&security=
 vless://b2593749-691c-428c-9481-14979cba3446@216.205.52.108:443?security=tls&sni=xi.tbv.ccwu.cc&type=ws&host=xi.tbv.ccwu.cc#@Alpha_V2rayip
 vless://b2593749-691c-428c-9481-14979cba3446@216.205.52.11:443?path=/proxyip&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#@hex_proxy ⁴
 vless://b2593749-691c-428c-9481-14979cba3446@216.205.52.222:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#@meliproxyy
-vless://b2593749-691c-428c-9481-14979cba3446@31.43.179.170:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#@Shh_Proxy-New²
