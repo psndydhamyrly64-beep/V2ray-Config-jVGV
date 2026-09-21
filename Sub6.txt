@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://35c8e21b-a656-427c-bfa7-ecc14881a72b@45.95.65.142:49136?security=none&encryption=none&headerType=none&type=tcp#✅ t.me/bigAVPN ایران آزاد 👑
 vless://35d2a009-4f71-4b99-85ef-369bb75908e1@172.66.213.38:2096?path=/?u&security=tls&encryption=none&insecure=0&host=golden-garden-d12d.sazrerd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=golden-garden-d12d.sazrerd.workers.dev#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://35dd6ec8-acb7-44be-9cde-7f03c6b9ef5b@199.232.78.159:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=SvnTeamChannel.global.ssl.fastly.net&sni=ssl.fastly.com#📦 60.46 GB 𓏺 ∞ Day
 vless://361451c5-245e-46d8-b13e-d206c4f0536b@xn--swe-dw33b.netbazshop.ir:33017?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@Nexus_Panell چنل تلگرام
@@ -502,4 +503,3 @@ vless://486169a3-ce5f-4d93-8d01-f619d4443e5d@cp.so.rezzip.com:443?path=?ed=2560&
 vless://4865927f-15be-4e19-a692-32f256982df5@80.93.217.193:8443?encryption=mlkem768x25519plus.native.0rtt.ZUTZMHXq1r54CU4ePSlr7ALSXSKWzXxyZrQs-4CGiWQ&security=none&type=tcp&headerType=http&host=play.google.com#vpnsal
 vless://4865927f-15be-4e19-a692-32f256982df5@80.93.217.193:8443?encryption=mlkem768x25519plus.native.0rtt.ZUTZMHXq1r54CU4ePSlr7ALSXSKWzXxyZrQs-4CGiWQ&security=none&type=tcp&headerType=http&host=play.google.com#🇩🇪All¹⁰ | @BigSmoke_Config
 vless://4865927f-15be-4e19-a692-32f256982df5@80.93.217.193:8443?security=none&encryption=mlkem768x25519plus.native.0rtt.ZUTZMHXq1r54CU4ePSlr7ALSXSKWzXxyZrQs-4CGiWQ&host=play.google.com&headerType=http&type=tcp#@FarazV2ray
-vless://4865927f-15be-4e19-a692-32f256982df5@80.93.217.193:8443?security=none&encryption=mlkem768x25519plus.native.0rtt.ZUTZMHXq1r54CU4ePSlr7ALSXSKWzXxyZrQs-4CGiWQ&host=play.google.com&headerType=http&type=tcp#@V2raySaman
