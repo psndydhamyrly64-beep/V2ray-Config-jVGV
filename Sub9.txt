@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://8decb53d-a198-4b9b-8dfc-814a7715a062@fs.koomeh.net:443/?type=xhttp&encryption=none&flow=&security=tls&sni=ssl.fastly.com&fp=chrome#تو کانال نتورلد نباشید قطع میشن@networld_vpn
+vless://8decb53d-a198-4b9b-8dfc-814a7715a062@fs.koomeh.net:443?encryption=none&fp=chrome&host=Amiiiiiiirfjjjvgf0097.global.ssl.fastly.net&mode=auto&path=/rmnwv&security=tls&sni=ssl.fastly.com&type=xhttp#🐞100@oneclickvpnkeys
 vless://8decb53d-a198-4b9b-8dfc-814a7715a062@fs.koomeh.net:443?mode=auto&path=/rmnwv&security=tls&encryption=none&insecure=0&host=Amiiiiiiirfjjjvgf0097.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#@meliproxyy
 vless://8decb53d-a198-4b9b-8dfc-814a7715a062@fs.koomeh.net:443?mode=auto&path=/rmnwv&security=tls&encryption=none&insecure=0&host=Amiiiiiiirfjjjvgf0097.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#Telegram @mtmvpn
 vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.109.28.164:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=90ec9bba2019&type=tcp&headerType=none#Channel : @AZARBAYJAB1
@@ -501,5 +503,3 @@ vless://XpnTeam-62@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encrypti
 vless://XpnTeam-63@151.101.215.97:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-63@151.101.215.97:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-63@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@B2Hub
-vless://XpnTeam-63@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
-vless://XpnTeam-63@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
