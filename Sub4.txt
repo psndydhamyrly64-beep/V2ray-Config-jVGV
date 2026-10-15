@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://11af1c47-865a-47c6-92ff-118013655d78@91.107.190.63:8080?path=/&security=none&encryption=none&type=ws#tel @fastkanfig
+vless://11b9b4cd-1483-7ea2-2db1-dd25b4defc5d@dfhbdf-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=dfhbdf-production.up.railway.app&path=/ws/11b9b4cd-1483-7ea2-2db1-dd25b4defc5d&sni=dfhbdf-production.up.railway.app&fp=chrome&alpn=http/1.1#@PRISONVPNc
 vless://11bce34b-e248-4af5-a0f1-951c4c5ece45@vl.033.node-for-bigairport.com:443?pbk=4tYZTzPnpJQQiG3bExrmT1TBzRMuaBWhFssBRNqrDVU&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=b1a9832f489b&security=reality&encryption=none&sni=ap-southeast-1.console.aws.amazon.com&headerType=none#💎SERDNS
 vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?security=reality&encryption=none&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=eab26c4a32#@CUSTOMVPNSERVER
 vless://11d826ce-d6e5-4154-8658-6829bb17dca2@nl15-node.rumedia-cdn.com:2096?path=/cdn/v3/live&security=tls&encryption=none&insecure=0&host=st6302c.rumedia-cdn.com&fp=chrome&type=ws&allowInsecure=0&sni=st6302c.rumedia-cdn.com#🇺🇸@ELiV2Ray
@@ -501,5 +503,3 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?mode=gun&security
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?encryption=none&security=reality&sni=bg2.univesalsrv.com&fp=chrome&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&sid=501ab3325b77e1ca&type=grpc&mode=gun&authority=&serviceName=api.v2.PushService#🇩🇪All³ | @BigSmoke_Config
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&spx=/HesarWeb&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#@leviconfigs🪐-4
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&spx=/HesarWeb&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#🇧🇬194447 | ⚡️Telegram = t.me/SOSkeyNET
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.27:443?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM-leviconfigs&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&fp=chrome&type=grpc&serviceName=home.v1.ApiService&sni=bg3.univesalsrv.com&sid=1be1bd931c98c84a#@leviconfigs🪐-14
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.27:443?mode=gun&security=reality&encryption=none&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&fp=chrome&type=grpc&serviceName=home.v1.ApiService&sni=bg3.univesalsrv.com&sid=1be1bd931c98c84a#@FarazV2ray

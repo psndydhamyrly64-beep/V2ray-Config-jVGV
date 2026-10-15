@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d551dc1e-a0d3-4d52-a8bb-756cb9dac0b2@194.110.207.48:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kibi-institut.de&sid=fd55b698ee8c3629#@confiig_hub
+vless://d56624b2-35bb-468c-9b2a-e0b0df7230c1@154.31.114.248:50159?security=reality&encryption=none&pbk=j4QXngGuJkUGwRj4XIrfHRohYYuEfnJlX4cvCE-WklA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=091e1c5db8451757#@vpnbaz 🛸
 vless://d56624b2-35bb-468c-9b2a-e0b0df7230c1@154.31.114.248:50159?security=reality&encryption=none&pbk=j4QXngGuJkUGwRj4XIrfHRohYYuEfnJlX4cvCE-WklA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=091e1c5db8451757#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn
 vless://d5948eae-ef1b-45e4-81aa-d27076b56530@95.182.114.74:443?encryption=none&security=none&type=tcp#🇺🇸139736 | ⚡️Telegram = t.me/SOSkeyNET
 vless://d59a47d8-f344-4a0b-81d6-9f68cb8be873@188.114.97.6:2095?path=/?ed=2048&security=none&encryption=none&host=iNFoRmeD-PArt0Y2KT5cRvl.SaMSunGovenS.ir.&type=ws#TEL;Father_vpn
@@ -501,5 +503,3 @@ vless://e4cb2d9f-61ef-4738-a3f2-a8889cdf91e6@discord.gg:80?path=/&security=none&
 vless://e53d3c58-c143-4d33-824c-4e3f1ef3b655@104.17.147.22:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#@Vpn_Mikey | unlimitedGB 🇫🇷
 vless://e53eacb6-cd30-4964-a57c-febcb5151b98@epam.com:443?path=/&security=tls&encryption=none&insecure=0&host=wallweb-4r0.pages.dev&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=wallweb-4r0.pages.dev#kurdconfig
 vless://e558719d-e09b-442c-a0c4-f9471fcc3075@51.75.118.149:20016?path=/alibodama-ws&security=&encryption=none&host=51.75.118.149&type=ws#@Napsternetvirani
-vless://e558719d-e09b-442c-a0c4-f9471fcc3075@51.75.118.149:20016?path=/alibodama-ws&security=&encryption=none&host=51.75.118.149&type=ws#Telegram:@v2rayng3
-vless://e56059f1-5a1a-4d0a-a2d0-58ecb4eb2f3f@172.66.47.45:443?encryption=none&type=ws&security=tls&path=/eyJqdW5rIjoiZWlPODVjTnhnaSIsInByb3RvY29sIjoid2wiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&host=ezaccess-project-f62c30.pages.dev&sni=ezaccess-project-f62c30.pages.dev&fp=chrome#@V2ray_confiig

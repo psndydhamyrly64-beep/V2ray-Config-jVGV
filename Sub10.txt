@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a702fd30-aea7-4a07-8a6e-cef67e3ec9ef@146.75.57.111:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=azdddaiji5.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=google.com#@v2raybaaz
+vless://a702fd30-aea7-4a07-8a6e-cef67e3ec9ef@146.75.57.111:443?security=tls&encryption=none&insecure=1&host=azdddaiji5.global.ssl.fastly.net.&type=ws&allowInsecure=1&sni=google.com#@v2raybaaz
 vless://a70646b9-a42b-48a9-80f6-a74e4eeb0d54@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=httpupgrade&host=configfori.up.railway.app&path=/Telegram2:@Configfori#Telegram: @Configfori
 vless://a70646b9-a42b-48a9-80f6-a74e4eeb0d54@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=ws&host=configfori.up.railway.app&path=/Telegram1:@Configfori#Telegram: @Configfori
 vless://a70646b9-a42b-48a9-80f6-a74e4eeb0d54@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=xhttp&host=configfori.up.railway.app&path=/Telegram3:@Configfori&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConcurrency":"","maxConnections":"0"}}#Telegram: @Configfori
@@ -501,5 +503,3 @@ vless://c0331b33-4a3a-4320-bacb-78601f9795bd@199.232.78.159:443?pcs=CD6E838B9BFE
 vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@78.17.208.22:443?security=reality&encryption=none&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr05.skorostnet.space&sid=fdda9806fe5d8584#🇫🇷139852 | ⚡️Telegram = t.me/SOSkeyNET
 vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@89.185.80.195:443?security=reality&encryption=none&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5us.skorostnet.space&sid=fdda9806fe5d8584#T.me/Vpn_Mafia 🇺🇸
 vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=node-uk.connectsuite.org#Free x736 @Outline_Vpn
-vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#33
-vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@VARZESH3.COM:2096?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=Sha.artarona.ir&fp=chrome&type=ws&allowInsecure=0&sni=Sha.artarona.ir#TEL;Father_vpn

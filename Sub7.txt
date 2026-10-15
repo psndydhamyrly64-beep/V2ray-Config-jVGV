@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://5b754a1a-11aa-4df9-a8ba-44af9a579fe1@2.56.122.52:8443?security=reality&encryption=none&pbk=upiiUpzV7q4L6pUmbgzB5r3zL957r17FuFDng3ip7R8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=usa.b2ai.top#@Tarkahodeh 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+vless://5b754a1a-11aa-4df9-a8ba-44af9a579fe1@2.56.172.228:8443?security=reality&encryption=none&pbk=MjRaYQ5TjfU2rfHxVQ2Sa4nXRHHvsMvi3DW-x09n8Ts&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=poland.b2ai.top#@Tarkahodeh 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 vless://5b754a1a-11aa-4df9-a8ba-44af9a579fe1@94.228.171.159:8443?security=reality&encryption=none&pbk=hcjZwWlIplwEKT-Ea-vTM2n4jwiTCeL9wTUZG0WgCj0&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=de.b2ai.top#@Tarkahodeh 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 vless://5b8ce557-47d6-4a57-ada2-097a795a6d19@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@B2Hub
 vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t01.tzteam.online&path=/?ed=2048&security=tls&sni=t01.tzteam.online&fp=chrome#@Vpn_Mafia
@@ -501,5 +503,3 @@ vless://7715a37f-866a-4845-8c1c-4ee7d450ac96@pasarguardmmmmkeje.vahidzhv.ir:5057
 vless://7715a37f-866a-4845-8c1c-4ee7d450ac96@pasarguardpanelmmd.vipneninet.ir:5059?security=none&encryption=none&headerType=http&type=tcp#@leviconfigs🪐-3
 vless://7715a37f-866a-4845-8c1c-4ee7d450ac96@pasarguardpanelmmd1.sobu.ir:5060?security=none&encryption=none&headerType=http&type=tcp#@leviconfigs🪐-18
 vless://7715a37f-866a-4845-8c1c-4ee7d450ac96@pasarguardpanelmmd4.nenenet1.ir:5055?security=none&encryption=none&headerType=http&type=tcp#@leviconfigs🪐-17
-vless://7715a37f-866a-4845-8c1c-4ee7d450ac96@pasarguardpanelmmd6.vahidzhv.ir:5051?security=none&encryption=none&headerType=http&type=tcp#@leviconfigs🪐-5
-vless://7715a37f-866a-4845-8c1c-4ee7d450ac96@pasarguardpanelmmd6.vahidzhv.ir:5064?security=none&encryption=none&headerType=http&type=tcp#@leviconfigs🪐-13

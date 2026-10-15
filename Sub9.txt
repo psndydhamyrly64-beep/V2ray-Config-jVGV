@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://9503e890-3702-4847-af0a-2bceac2f0da0@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ansooyefilter 🌩️💯
+vless://950a82ff-7bad-4884-adeb-f59b331eecad@199.232.78.143:443?encryption=none&security=tls&sni=edge.microsoft.com&alpn=h2&fp=chrome&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=xhttp&mode=auto&host=Suporjaz.global.ssl.fastly.net&path=/#🇩🇪All⁴ | @BigSmoke_Config
 vless://950e6de3-295a-4fd4-a3ab-83a01cf562a3@172.233.49.58:1300?security=none&encryption=mlkem768x25519plus.native.0rtt.BEXGOTJfnwdc0PhdaCnyuQvcTKswMNUnenxcP40ipAg&headerType=http&type=tcp#@FarazV2ray
 vless://950e6de3-295a-4fd4-a3ab-83a01cf562a3@65.109.216.31:1300?security=none&encryption=mlkem768x25519plus.native.0rtt.BEXGOTJfnwdc0PhdaCnyuQvcTKswMNUnenxcP40ipAg&headerType=http&type=tcp#@FarazV2ray
 vless://950ec237-e75f-4e99-9557-6545784d4202@94.182.131.101:443?encryption=none&security=reality&sni=youtu.be&fp=chrome&pbk=fPjow17wDX8YJG89j9lraSqv54yvuS21lq3lJiAX_g0&sid=489861db&spx=/9bd64fcfdc16ca6&type=tcp&headerType=none#🇩🇪All³ | @BigSmoke_Config
@@ -501,5 +503,3 @@ vless://a6c5f4c7-073f-416b-b5e3-4a86ec2d9f22@139.59.191.88:443?encryption=none&f
 vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@universe.whit3.net:443?security=reality&encryption=none&pbk=4p9HuPujWxxtdp0GB_cJN42sFnF-woybk26SXLb1qAo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=universe.whit3.net&sid=4eb17bfdb000bef0#Telegram 🆔@cnetvpn 🇧🇪
 vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=/vless/#🇲🇽 Join+Telegram:@Farah_VPN 🇲🇽
 vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@31.77.152.14:443?security=reality&encryption=none&pbk=jJQ3uy2Se5ObXCsYJnT-2ukvUMRiOBBfOZ38Wnm2Ygs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de1.murhost.network&sid=a75046af5dcaf1d2#@hopev2ray💚
-vless://a702fd30-aea7-4a07-8a6e-cef67e3ec9ef@146.75.57.111:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=azdddaiji5.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=google.com#@v2raybaaz
-vless://a702fd30-aea7-4a07-8a6e-cef67e3ec9ef@146.75.57.111:443?security=tls&encryption=none&insecure=1&host=azdddaiji5.global.ssl.fastly.net.&type=ws&allowInsecure=1&sni=google.com#@v2raybaaz
