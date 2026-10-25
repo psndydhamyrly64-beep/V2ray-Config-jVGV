@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&host=/@Net2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=api.vk.me&sid=db04ce8bdb8900f1#@Net2ray 🩸 4
-vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&host=/@Net2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=api.vk.me&sid=db04ce8bdb8900f1#@v2ray_configs_pools 💐
 vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?security=&encryption=none&headerType=&type=tcp#🇫🇷139821 | ⚡️Telegram = t.me/SOSkeyNET
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@83.143.106.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&fp=chrome&type=xhttp&sni=res.cdn.office.net#💫@ATOVPN گیگی
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@83.143.106.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&fp=chrome&type=xhttp&sni=res.cdn.office.net#💫@ATOVPN گیگی ۳۵۰۰
@@ -503,3 +501,5 @@ vless://cd07ae0d-f31d-4209-a0a4-d9d9cfcca1ad@167.82.64.64:443?pcs=CD6E838B9BFE31
 vless://cd07ae0d-f31d-4209-a0a4-d9d9cfcca1ad@199.232.78.159:443?encryption=none&security=tls&sni=firefox.com&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&path=/#@tootffarangi🍓
 vless://cd07ae0d-f31d-4209-a0a4-d9d9cfcca1ad@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#@VEGAAS_VPN🇺🇸
 vless://cd07ae0d-f31d-4209-a0a4-d9d9cfcca1ad@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#@bored_vpn
+vless://cd07ae0d-f31d-4209-a0a4-d9d9cfcca1ad@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#@mehrosaboran
+vless://cd07ae0d-f31d-4209-a0a4-d9d9cfcca1ad@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#@tootffarangi🍓
