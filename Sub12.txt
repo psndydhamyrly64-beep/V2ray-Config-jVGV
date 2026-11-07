@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://95d0e214-eab0-4701-93ed-fea4f1b56062@book.jarbook.net:443?encryption=none&type=grpc&security=reality&serviceName=BookCatalog&sni=reg.jarbook.net&fp=chrome&insecure=1&allowInsecure=1&pbk=nUUSNvkc5Xy6LRCP4yeFvbI8wFMx7gdgruPMNBq7jzo&sid=dceb4214&spx=/#@meliproxyy
-vless://95d0e214-eab0-4701-93ed-fea4f1b56062@book.jarbook.net:443?mode=gun&security=reality&encryption=none&pbk=nUUSNvkc5Xy6LRCP4yeFvbI8wFMx7gdgruPMNBq7jzo&fp=chrome&spx=/&type=grpc&serviceName=BookCatalog&sni=reg.jarbook.net&sid=dceb4214#@ICV2RAY
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@book.jarbook.net:443?mode=gun&security=reality&encryption=none&pbk=nUUSNvkc5Xy6LRCP4yeFvbI8wFMx7gdgruPMNBq7jzo&fp=chrome&spx=/&type=grpc&serviceName=BookCatalog&sni=reg.jarbook.net&sid=dceb4214#@IRAN_V2RAY1 🔐
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@book.jarbook.net:443?mode=gun&security=reality&encryption=none&pbk=nUUSNvkc5Xy6LRCP4yeFvbI8wFMx7gdgruPMNBq7jzo&fp=chrome&spx=/&type=grpc&serviceName=BookCatalog&sni=reg.jarbook.net&sid=dceb4214#@MigMigVPNSHOP
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@book.jarbook.net:443?mode=gun&security=reality&encryption=none&pbk=nUUSNvkc5Xy6LRCP4yeFvbI8wFMx7gdgruPMNBq7jzo&fp=chrome&spx=/&type=grpc&serviceName=BookCatalog&sni=reg.jarbook.net&sid=dceb4214#@V2ray_Alpha🏬 14
@@ -503,3 +501,5 @@ vless://a8a35938-7ed6-4237-9e91-9ad4af0c8257@199.232.78.159:443?pcs=CD6E838B9BFE
 vless://a8b8b21e-1f31-4e4d-a639-efb2de0d577e@45.136.59.28:43000?security=reality&encryption=none&pbk=osqok9aA_NR7WyAxZptD36-_U8BF_9gL8AH84MMzbFs&headerType=none&type=tcp&flow=xtls-rprx-vision&sid=ced96d59#@IRAN_V2RAY1 🔐
 vless://a8b95dc3-1589-4f8a-ac76-75c505c20e37@uk.extra-solutions.ru:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk.extra-solutions.ru&sid=a1b2c3d4b5#🇬🇧 @UpsetVPN
 vless://a8cd1696-ac65-495d-8529-6688d0789ce2@172.64.152.23:2082?type=ws&encryption=none&path=/@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala?ed=1024&host=war.does.not.determine.who.is.right_only.who.is.left.2.0.2.6.cEphAlon.BeauTy&security=none#🚸 Cephalon_ala-[22]
+vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.87:443/?type=grpc&encryption=none&flow=&serviceName=api.v1.StreamService&sni=api.noneok.com&fp=chrome&security=reality&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&sid=1ea59febb8d4fc8e#T.me/Vpn_Mafia 🇩🇪
+vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?mode=gun&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&fp=chrome&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#@daredevill_404

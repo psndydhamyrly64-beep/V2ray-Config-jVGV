@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7f27607c-e6f1-4618-9f56-11e4dfa1b89b@p3.nanebaget.dpdns.org:443?path=/ws/7f27607c-e6f1-4618-9f56-11e4dfa1b89b&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=p3.nanebaget.dpdns.org&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=p3.nanebaget.dpdns.org#All Operators @MaSTeRSeRVeR1
-vless://7f47172d-8286-4b47-82f4-71474ccacdec@194.55.239.233:443?security=reality&encryption=none&pbk=xiBnF5t8koXllU1GwzSRmU0Vcbs21DEHCg399WUg1EM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=fd8ab74160501169#Tel:@v2rayng3
 vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?security=none&encryption=none&headerType=none&type=tcp#@hopev2ray💕
 vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?security=none&encryption=none&headerType=none&type=tcp#@hopev2ray💛
 vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@46.28.71.135:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v1.segment.UWfv4bkH4bz1Hs3u.ts&allowInsecure=0&sni=l97bke0sf1.hat.onl#YFZ 179 @Outline_Vpn
@@ -503,3 +501,5 @@ vless://95d0e214-eab0-4701-93ed-fea4f1b56062@88.216.70.39:443?security=reality&e
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@88.216.70.39:443?security=reality&encryption=none&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&host=/?Telegram—V2ray_confiig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tickets.betust.net&sid=f70764f8#@V2ray_confiig
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@admin.betust.net:443?security=reality&encryption=none&pbk=zZjrHRzULoXKVccVdPqtrtXLEUPJXwqdE1138vu5x3w&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=admin.betust.net&sid=3e137406#@ICV2RAY
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@book.jarbook.net:443?encryption=none&type=grpc&security=reality&serviceName=BookCatalog&sni=reg.jarbook.net&fp=chrome&insecure=1&allowInsecure=1&pbk=nUUSNvkc5Xy6LRCP4yeFvbI8wFMx7gdgruPMNBq7jzo&sid=dceb4214&spx=/#@V2ray_confiig
+vless://95d0e214-eab0-4701-93ed-fea4f1b56062@book.jarbook.net:443?encryption=none&type=grpc&security=reality&serviceName=BookCatalog&sni=reg.jarbook.net&fp=chrome&insecure=1&allowInsecure=1&pbk=nUUSNvkc5Xy6LRCP4yeFvbI8wFMx7gdgruPMNBq7jzo&sid=dceb4214&spx=/#@meliproxyy
+vless://95d0e214-eab0-4701-93ed-fea4f1b56062@book.jarbook.net:443?mode=gun&security=reality&encryption=none&pbk=nUUSNvkc5Xy6LRCP4yeFvbI8wFMx7gdgruPMNBq7jzo&fp=chrome&spx=/&type=grpc&serviceName=BookCatalog&sni=reg.jarbook.net&sid=dceb4214#@ICV2RAY
